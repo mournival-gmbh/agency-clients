@@ -1,0 +1,26 @@
+{
+  "client_id": "1322",
+  "client_name": "Mournival GmbH",
+  "industry": "Marketing Agentur",
+  "website": "",
+  "brand": {
+    "primary_color": "",
+    "secondary_color": "",
+    "fonts": [],
+    "logo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "",
+      "email": "",
+      "role": ""
+    }
+  },
+  "tone_keywords": [],
+  "avoid_words": []
+}
