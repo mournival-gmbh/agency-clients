@@ -9,6 +9,8 @@ Jung, modern, frech — ohne ein Blatt vor dem Mund. Direktheit ist Programm, ke
 - **Perspektive:** Du-Ansprache (intern & extern)
 - **Sprache:** Deutsch als Basis — Anglizismen werden gezielt eingesetzt wo sie natürlich klingen, nicht erzwungen
 - **Referenzen:** Popkulturelle Referenzen aus den Interessensbereichen des Teams — authentisch, nie generisch
+- **Satzstruktur:** Keine kurzen Satzfragmente — eloquent geformte Sätze, außer in Aufzählungen
+- **Ansprache:** Grundsätzlich Du — intern wie extern
 
 ## Wörter die wir verwenden
 - Fresh, direkt und ohne Umschweife
