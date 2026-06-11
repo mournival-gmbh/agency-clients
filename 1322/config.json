@@ -22,5 +22,7 @@
     }
   },
   "tone_keywords": [],
-  "avoid_words": []
+  "avoid_words": [
+    "echt (als Verstärkung)"
+  ]
 }
