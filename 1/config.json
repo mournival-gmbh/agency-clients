@@ -1,0 +1,29 @@
+{
+  "client_id": "1",
+  "client_name": "Milena Reinle",
+  "client_type": "privat",
+  "industry": "",
+  "website": "",
+  "personal": {
+    "bio": "",
+    "values": [],
+    "topics": [],
+    "profile_photo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "Milena Reinle",
+      "email": "",
+      "role": ""
+    }
+  },
+  "tone_keywords": [],
+  "avoid_words": []
+}
