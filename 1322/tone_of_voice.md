@@ -9,8 +9,9 @@ Jung, modern, frech — ohne ein Blatt vor dem Mund. Direktheit ist Programm, ke
 - **Perspektive:** Du-Ansprache (intern & extern)
 - **Sprache:** Deutsch als Basis — Anglizismen werden gezielt eingesetzt wo sie natürlich klingen, nicht erzwungen
 - **Referenzen:** Popkulturelle Referenzen aus den Interessensbereichen des Teams — authentisch, nie generisch
-- **Satzstruktur:** Keine kurzen Satzfragmente — eloquent geformte Sätze, außer in Aufzählungen
+- **Satzstruktur:** Keine kurzen Satzfragmente — eloquent geformte Sätze, ausser in Aufzählungen
 - **Ansprache:** Grundsätzlich Du — intern wie extern
+- **Rechtschreibung:** Schweizer Deutsch — kein ß, immer ss (z.B. Strasse, heissen, grosse)
 
 ## Wörter die wir verwenden
 - Fresh, direkt und ohne Umschweife
@@ -18,7 +19,7 @@ Jung, modern, frech — ohne ein Blatt vor dem Mund. Direktheit ist Programm, ke
 - Aktive Sprache, starke Verben
 
 ## Wörter die wir nie verwenden
-- [noch keine Einträge — avoid_words in config.json ergänzen]
+- **echt** als verstärkendes Adjektiv (z.B. "echt gut", "echt spannend") — wirkt flach und billig
 
 ## Beispiel guter Copy
 > „Wir sind nicht eure Agentur. Wir sind eure Marketing-Abteilung — ohne Overhead, ohne Bullshit."
