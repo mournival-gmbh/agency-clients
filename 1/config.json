@@ -2,12 +2,21 @@
   "client_id": "1",
   "client_name": "Milena Reinle",
   "client_type": "privat",
-  "industry": "",
-  "website": "",
+  "industry": "Unternehmerin & Beraterin (Business Development, Marketing)",
+  "website": "https://miaco.ch",
   "personal": {
-    "bio": "",
-    "values": [],
-    "topics": [],
+    "bio": "Keine vorbereitete Selbstdarstellung — Milenas Verbindungen entstehen organisch im Smalltalk. Unternehmerin mit starkem Bauchgefühl, Trial & Error statt Overthinking.",
+    "values": [
+      "Personal Growth",
+      "Pragmatische Business Entscheidungen",
+      "Gesunder Menschenverstand"
+    ],
+    "topics": [
+      "Haltung & Persönlichkeit",
+      "Business Development",
+      "Frauen im Business",
+      "Unternehmerdenken"
+    ],
     "profile_photo_path": ""
   },
   "socials": {
@@ -21,9 +30,13 @@
     "primary": {
       "name": "Milena Reinle",
       "email": "",
-      "role": ""
+      "role": "Inhaberin"
     }
   },
-  "tone_keywords": [],
+  "tone_keywords": [
+    "einfach",
+    "direkt",
+    "nuanciert"
+  ],
   "avoid_words": []
 }
