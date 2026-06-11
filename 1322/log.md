@@ -4,3 +4,4 @@ Dieses Protokoll wird automatisch durch `run_workflow.py` befüllt. Es dokumenti
 
 | Datum | Output | Typ | Person | Link |
 | --- | --- | --- | --- | --- |
+| 2026-06-11 | workflow-test | system-check | DungeonMasterAlex | — |
