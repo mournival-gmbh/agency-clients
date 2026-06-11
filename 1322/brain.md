@@ -3,6 +3,7 @@ Diese Datei enthält akkumuliertes Wissen über den Kunden. Sie wird automatisch
 
 ## Audience Insights
 - [2026-06-11] Zielgruppe: hauptsächlich kleine KMU und Einzelunternehmen (CH-Markt)
+- [2026-06-11] Geografischer Fokus: Kunden stammen vorwiegend aus Zürich und Umgebung
 
 ## Content Performance
 - [2026-06-11] Initialeintrag — noch keine Daten
