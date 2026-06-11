@@ -1,24 +1,28 @@
 # Tone of Voice — Mournival GmbH
 
 ## Gesamtton
-[Platzhalter — Brand Intake Workflow ausführen um diese Sektion zu befüllen]
+Jung, modern, frech — ohne ein Blatt vor dem Mund. Direktheit ist Programm, kein Zufall.
 
 ## Schreibstil
-- **Formalität:** [formal / halbformal / locker]
-- **Satzlänge:** [kurz / mittel / lang]
-- **Perspektive:** [Du-Ansprache / Sie-Ansprache / unpersönlich]
+- **Formalität:** locker bis halbformal — nie steif, nie corporate-langweilig
+- **Satzlänge:** variabel, gerne kurze Sätze für Punch, längere für Erklärungen
+- **Perspektive:** Du-Ansprache (intern & extern)
+- **Sprache:** Deutsch als Basis — Anglizismen werden gezielt eingesetzt wo sie natürlich klingen, nicht erzwungen
+- **Referenzen:** Popkulturelle Referenzen aus den Interessensbereichen des Teams — authentisch, nie generisch
 
 ## Wörter die wir verwenden
-- [noch keine Einträge]
+- Fresh, direkt und ohne Umschweife
+- Anglizismen: z.B. Briefing, Pitch, Rollout, Content, Brand — wo es passt
+- Aktive Sprache, starke Verben
 
 ## Wörter die wir nie verwenden
-- [noch keine Einträge]
+- [noch keine Einträge — avoid_words in config.json ergänzen]
 
 ## Beispiel guter Copy
-> [Platzhalter — nach Brand Intake Workflow ergänzen]
+> „Wir sind nicht eure Agentur. Wir sind eure Marketing-Abteilung — ohne Overhead, ohne Bullshit."
 
 ## Beispiel schlechter Copy
-> [Platzhalter — nach Brand Intake Workflow ergänzen]
+> „Als erfahrene Kommunikationsexperten bieten wir Ihnen massgeschneiderte Lösungen im Bereich des ganzheitlichen Marketings."
 
 ---
-*Brand Intake Workflow ausführen um diese Datei automatisch zu befüllen.*
+*Tone of Voice zuletzt aktualisiert: 2026-06-11 von DungeonMasterAlex*
