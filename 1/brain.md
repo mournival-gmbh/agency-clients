@@ -7,6 +7,7 @@ Personal Branding Wissensdatei. Wird automatisch durch Workflows befüllt und ma
 - [2026-06-11] Keine vorbereitete Selbstdarstellung — Verbindungen entstehen organisch im Smalltalk
 - [2026-06-11] Stark verknüpft mit Mournival GmbH (Client 1322) — Gesicht der Agentur, GL & Gründerin
 - [2026-06-11] Ausserdem Inhaberin & Alleinbeschäftigte miaco GmbH (miaco.ch)
+- [2026-06-16] Positionierung immer durch eigene Haltung — nie durch Abwertung anderer. Vergleiche die andere schlechter machen zeigen Schwäche, nicht Stärke.
 
 ## Content Themen
 - [2026-06-11] Haltung & Persönlichkeit entwickeln (nicht Fachwissen vermitteln)
@@ -32,5 +33,5 @@ Personal Branding Wissensdatei. Wird automatisch durch Workflows befüllt und ma
 - [2026-06-11] E-Mail-Adresse noch nicht erfasst
 
 ---
-Zuletzt aktualisiert: 2026-06-11
+Zuletzt aktualisiert: 2026-06-16
 Aktualisiert von: DungeonMasterAlex
