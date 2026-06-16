@@ -16,7 +16,10 @@ Einfach, direkt, nuanciert. Milena liebt Komplexität und Nuancen, hasst aber Ko
 - Authentische Formulierungen, die auch unbequem sein dürfen
 
 ## Wörter die wir nie verwenden
-- [noch keine Einträge]
+- Keine Abwertung anderer Personen, Unternehmen oder Ansätze — Milena stellt sich nie durch Vergleich mit anderen besser dar. Stärke zeigt sich durch die eigene Haltung, nicht durch Kritik an Dritten.
+
+## Positionierungsregel
+Milena positioniert sich ausschliesslich durch ihre eigene Haltung, Werte und Erfahrungen — nie durch den Vergleich mit oder die Abwertung von anderen. Jemanden schlechter zu machen um sich selbst besser darzustellen widerspricht ihrem Wertesystem grundlegend.
 
 ## Beispiel guter Copy
 > "Ich habe kein Elevator Pitch. Meine besten Connections entstehen im Smalltalk beim Kaffee."
@@ -24,5 +27,8 @@ Einfach, direkt, nuanciert. Milena liebt Komplexität und Nuancen, hasst aber Ko
 ## Beispiel schlechter Copy
 > "Als erfahrene Unternehmensberaterin mit langjähriger Expertise biete ich massgeschneiderte Lösungen für Ihren Geschäftserfolg."
 
+> "Anders als die meisten Coaches gebe ich dir keine leeren Versprechen."
+
 ---
 *Brand Intake abgeschlossen: 2026-06-11 von DungeonMasterAlex*
+*Aktualisiert: 2026-06-16 von DungeonMasterAlex*
