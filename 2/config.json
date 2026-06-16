@@ -1,0 +1,21 @@
+{
+  "client_id": "2",
+  "client_name": "Alex Faust",
+  "client_type": "privat",
+  "language": "de-CH",
+  "tone_keywords": [],
+  "avoid_words": [],
+  "personal": {
+    "bio": "",
+    "values": [],
+    "topics": [],
+    "profile_photo_path": ""
+  },
+  "socials": {
+    "linkedin": "",
+    "instagram": "",
+    "tiktok": "",
+    "youtube": "",
+    "website": ""
+  }
+}
