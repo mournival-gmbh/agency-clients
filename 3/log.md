@@ -11,3 +11,9 @@
 - **Output:** `3/reports/belle-immo-linkedin-report-2026-q2.pdf`
 - **Datenquellen:** belle-immo-kennzahlen.csv, belle-immo-beitraege.csv (manueller Export)
 - **Fokus-Themen:** Post-Analyse nach Zielen, Community Management Auswirkungen, Identität & Tonalität, Investor-Funnel, Smart Community Management Strategie
+## 2026-06-19 — LinkedIn Report Q2/2026 (v2 — Mournival Design + vollständige Daten)
+- **Erstellt von:** DungeonMasterAlex
+- **Datenquellen:** CSVs (Kennzahlen, Beiträge) + XLS (Followers, Visitors) + XLSX (Competitor)
+- **Follower:** 394 gesamt | +7 neu im Zeitraum
+- **Output:** `3/reports/belle-immo-linkedin-report-2026-q2.pdf`
+- **Design:** Mournival Branding (Lila Header, SVG-Logo, Adress-Footer)
