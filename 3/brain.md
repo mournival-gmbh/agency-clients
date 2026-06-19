@@ -31,3 +31,17 @@ Diese Datei enthält akkumuliertes Wissen über den Kunden. Sie wird automatisch
 ---
 Zuletzt aktualisiert: 2026-06-19
 Aktualisiert von: DungeonMasterAlex
+
+## Content Performance (Q2/2026)
+- 2026-06-19 Follower: 394 gesamt, +7 neu in 90 Tagen
+- 2026-06-19 Seitenaufrufe: 62 in 90 Tagen — Profil kaum entdeckt
+- 2026-06-19 Top-ER: Velara CTR 36.7% | Abstimmungen ER 45.2% | Osterpost 600 Impr
+- 2026-06-19 Stärken: Nutzwert-Infografiken, konkrete Objekte mit Zahlen, Team-Persönlichkeit
+- 2026-06-19 Schwächen: neutrale Partnership-Posts, Teasers ohne CTA, Investoren fast kein Content
+
+## Audience Insights (Q2/2026)
+- 2026-06-19 Karrierestufe: Berufserfahren 83 | Inhaber 68 | VP 45 — Investoren-Potenzial vorhanden
+- 2026-06-19 Tätigkeitsbereich: Geschäftsentwicklung 151 (dominant, aber breites Spektrum)
+- 2026-06-19 Branche: Immobilien 101 | Baugewerbe 38 | Investment/PE: nur 4
+- 2026-06-19 Standort: 80% Zürich Metropolitan — sehr lokale Audience, gut für Regionalisierung
+- 2026-06-19 MISMATCH: Follower kommen grösstenteils aus Agentur/Marketing-Umfeld, nicht aus Investoren-Welt
