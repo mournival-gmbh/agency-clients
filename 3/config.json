@@ -1,0 +1,27 @@
+{
+  "client_id": "3",
+  "client_name": "Belle Immo AG",
+  "client_type": "unternehmen",
+  "industry": "",
+  "website": "",
+  "brand": {
+    "primary_color": "",
+    "secondary_color": "",
+    "fonts": [],
+    "logo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "",
+      "email": "",
+      "role": ""
+    }
+  },
+  "tone_keywords": [],
+  "avoid_words": []
+}
