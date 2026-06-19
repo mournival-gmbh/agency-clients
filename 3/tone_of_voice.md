@@ -1,18 +1,18 @@
 # Tone of Voice — Belle Immo AG
 
 ## Gesamtton
-[Platzhalter — Brand Intake Workflow ausführen um diese Sektion zu befüllen]
+[Wird nach Post-Analyse-Report ausgefüllt]
 
 ## Schreibstil
-- **Formalität:** [formal / halbformal / locker]
-- **Satzlänge:** [kurz / mittel / lang]
-- **Perspektive:** [Du-Ansprache / Sie-Ansprache / unpersönlich]
+- **Formalität:** [offen — wird nach Post-Analyse-Report bestimmt]
+- **Satzlänge:** [offen]
+- **Perspektive:** [offen]
 
 ## Wörter die wir verwenden
-- [noch keine Einträge]
+- [wird nach Post-Analyse-Report ergänzt]
 
 ## Wörter die wir nie verwenden
-- [noch keine Einträge]
+- [wird nach Post-Analyse-Report ergänzt]
 
 ## Beispiel guter Copy
 > [Platzhalter]
@@ -21,4 +21,4 @@
 > [Platzhalter]
 
 ---
-*Brand Intake Workflow ausführen um diese Datei automatisch zu befüllen.*
+*Post-Analyse-Report ausstehend — Tone of Voice wird danach ausgefüllt.*
