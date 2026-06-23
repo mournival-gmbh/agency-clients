@@ -1,0 +1,34 @@
+{
+  "client_id": "3",
+  "client_name": "Belle Immo AG",
+  "language": "de",
+  "salutation": "Sie",
+  "top_n": 5,
+  "min_score": 6,
+  "keywords": [
+    "Immobilieninvestment Schweiz",
+    "Renditeimmobilien Zürich",
+    "Grundstück verkaufen Zürich",
+    "Bauland Dübendorf",
+    "Wohnraum Zürich 2026",
+    "Neubau Zürich",
+    "Wohnpolitik Kanton Zürich",
+    "Stockwerkeigentum Zürich",
+    "Zürcher Immobilienmarkt",
+    "Immobilienmakler Zürich"
+  ],
+  "exclude_domains": [
+    "belle-immo.ch",
+    "mournival.ch"
+  ],
+  "goals": [
+    "Investoren finden (Kapital ab CHF 200'000 für Immobilienprojekte)",
+    "Land finden (Grundstücke und Entwicklungsobjekte in der Region Dübendorf/Zürich)",
+    "Projekte vorstellen (Velara, Wangenpark, Affinity)",
+    "Vertrauen und Sympathie als regionaler Immobilienpartner aufbauen"
+  ],
+  "commenter_rules": {
+    "roger": "Investoren-Themen, Grundstücke, Businessnetzwerk, Wohnpolitik, persönliche Expertise",
+    "firmenseite": "Projektankündigungen, Events, lokale Immobilien-News, Objekte"
+  }
+}
