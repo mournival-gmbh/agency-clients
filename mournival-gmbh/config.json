@@ -1,0 +1,28 @@
+{
+  "client_id": "1322",
+  "client_name": "Mournival GmbH",
+  "industry": "Marketing Agentur",
+  "website": "https://1322.ch/",
+  "brand": {
+    "primary_color": "#4b319b",
+    "secondary_color": "#a176f4",
+    "fonts": [],
+    "logo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/104930373/",
+    "facebook": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "Milena Reinle",
+      "email": "",
+      "role": ""
+    }
+  },
+  "tone_keywords": [],
+  "avoid_words": [
+    "echt (als Verstärkung)"
+  ]
+}
