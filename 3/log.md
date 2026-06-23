@@ -17,3 +17,47 @@
 - **Follower:** 394 gesamt | +7 neu im Zeitraum
 - **Output:** `3/reports/belle-immo-linkedin-report-2026-q2.pdf`
 - **Design:** Mournival Branding (Lila Header, SVG-Logo, Adress-Footer)
+
+
+## 2026-06-23 13:17 — workflow-test (by DungeonMasterAlex)
+
+# Kundenkontext-Verifikation — Belle Immo AG
+
+---
+
+## Schritt 1: Kunden bestätigen
+
+**Kundenname:** Belle Immo AG
+**client_id:** 3
+**Branche:** Immobilienvermittlung & -veräusserung, mit Fokus auf Wohneigentum und Stockwerkeigentum
+
+---
+
+## Schritt 2: brain.md — 3 konkrete Dinge
+
+1. **Laufende Investor-Kampagne auf LinkedIn** — Belle Immo betreibt aktiv eine Kampagne zur Investorengewinnung mit einem Einstieg ab CHF 200'000.- in ausgewählte Objekte.
+
+2. **Audience-Mismatch auf LinkedIn** — Die bestehenden Follower stammen grösstenteils aus dem Agentur- und Marketing-Umfeld, nicht aus der Investoren-Welt. Das ist ein strategisches Problem, das es zu korrigieren gilt.
+
+3. **Was funktioniert im Content** — Nutzwert-Infografiken, konkrete Objekte mit Zahlen, Team-Persönlichkeit (Roger als Gesicht) und lokaler Bezug zu Dübendorf/Zürich performen nachweislich am stärksten.
+
+---
+
+## Schritt 3: Kundenton demonstrieren
+
+> „Diese Wohnung in Dübendorf ist nicht einfach bezugsbereit — sie ist eine Entscheidung, die sich in zehn Jahren noch richtig anfühlt. Wir zeigen Ihnen warum."
+
+*(Basierend auf dem bestätigten Tone of Voice: bodenständig, nahbar, konkret — mit klarem Investor-/B2B-Ton und Sie-Ansprache)*
+
+---
+
+## Schritt 4: avoid_words bestätigen
+
+Die `avoid_words`-Liste in der config.json von Belle Immo AG ist **leer** — es wurden keine spezifischen Ausschlusswörter hinterlegt.
+
+Als Orientierung gelten jedoch die Hinweise aus der tone_of_voice.md:
+- Keine übertriebenen Superlative ohne Substanz
+- „Luxus" nicht ohne konkreten Kontext
+- Kein generisches Marketing-Blabla
+
+Diese Punkte werde ich in allen Outputs berücksichtigen.
