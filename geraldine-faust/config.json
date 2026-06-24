@@ -1,0 +1,47 @@
+{
+  "client_id": 5,
+  "client_name": "Geraldine Faust",
+  "client_type": "privat",
+  "industry": "Business Process / Intralogistik / Projektmanagement",
+  "website": "",
+  "personal": {
+    "bio": "Geraldine ist Business Process Expert mit Fokus auf Kastologic HRL-Lösungen (z.B. Unicompact) und Projektmanagement. Sie bringt einen frischen Blick mit, stellt die Fragen die andere längst aufgehört haben zu stellen — und macht Gaps sichtbar bevor sie zum Problem werden. Crazy Catlady inklusive.",
+    "values": [
+      "Frischer Blick",
+      "Direktheit",
+      "Authentizität"
+    ],
+    "topics": [
+      "Kastologic-Implementierung",
+      "HRL-Lösungen",
+      "Projektmanagement",
+      "Crazy Catlady"
+    ],
+    "profile_photo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": "",
+    "tiktok": "",
+    "youtube": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "Geraldine Faust",
+      "email": "geraldinefaust@bluewin.ch",
+      "role": "Kundin / Personal Brand"
+    }
+  },
+  "tone_keywords": [
+    "gehoben",
+    "direkt",
+    "authentisch",
+    "mit Haltung"
+  ],
+  "avoid_words": [
+    "steif",
+    "verklemmt",
+    "corporate-langweilig"
+  ]
+}
