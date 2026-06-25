@@ -72,3 +72,11 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - Korrekturen: Ausgangslage (kollaborative Basis), «Funnel» statt «Tunnel», Roger 1x/Woche Kommentare, Alex-Rolle (Kontakte einladen), Kampagnen-Assessment korrigiert (1 Conversion), Fachblätter-Recherche integriert
 - Prompt `strategy.md` ebenfalls korrigiert (Tunnel → Funnel)
 - Erstellt von: DungeonMasterAlex
+
+## 2026-06-25 — Strategie v2 (Team-Feedback)
+- 7 Punkte Team-Feedback eingearbeitet
+- Neu: Philosophie-Kapitel «Vertrauen vor dem Kauf», Ökosystem-Framing, CM als Gamechanger, Newsletter als Owned Asset
+- Vision angepasst: «Die erste Adresse für Immobilienfragen in der Region»
+- Roger: 1×/Woche Start mit Ziel schrittweise ausbau, Pam-Rolle erweitert, KI-Sprache kundenseitig formuliert
+- 8 PPT-Snippets (inkl. neues Philosophie-Slide)
+- Erstellt von: DungeonMasterAlex
