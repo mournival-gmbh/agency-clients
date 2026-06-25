@@ -61,3 +61,9 @@ Als Orientierung gelten jedoch die Hinweise aus der tone_of_voice.md:
 - Kein generisches Marketing-Blabla
 
 Diese Punkte werde ich in allen Outputs berücksichtigen.
+
+## 2026-06-25 — Strategie-Workflow
+- Workflow: `strategy.md`
+- Input: LinkedIn Report Q2 2026 + strategische Überlegungen DungeonMasterAlex
+- Output: `belle-immo-ag/strategies/kommunikationsstrategie-2026.md`
+- Erstellt von: DungeonMasterAlex
