@@ -67,3 +67,8 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - Input: LinkedIn Report Q2 2026 + strategische Überlegungen DungeonMasterAlex
 - Output: `belle-immo-ag/strategies/kommunikationsstrategie-2026.md`
 - Erstellt von: DungeonMasterAlex
+
+## 2026-06-25 — Strategie überarbeitet
+- Korrekturen: Ausgangslage (kollaborative Basis), «Funnel» statt «Tunnel», Roger 1x/Woche Kommentare, Alex-Rolle (Kontakte einladen), Kampagnen-Assessment korrigiert (1 Conversion), Fachblätter-Recherche integriert
+- Prompt `strategy.md` ebenfalls korrigiert (Tunnel → Funnel)
+- Erstellt von: DungeonMasterAlex
