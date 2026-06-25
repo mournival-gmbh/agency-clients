@@ -80,3 +80,8 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - Roger: 1×/Woche Start mit Ziel schrittweise ausbau, Pam-Rolle erweitert, KI-Sprache kundenseitig formuliert
 - 8 PPT-Snippets (inkl. neues Philosophie-Slide)
 - Erstellt von: DungeonMasterAlex
+
+## 2026-06-25 — Präsentations-Storyboard
+- 11 Folien nach Logik Warum → Wohin → Wie → Was → Nächste Schritte
+- Datei: `belle-immo-praesentation-storyboard-2026.docx`
+- Erstellt von: DungeonMasterAlex
