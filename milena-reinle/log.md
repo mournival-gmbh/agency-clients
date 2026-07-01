@@ -21,3 +21,8 @@
 ## 2026-07-01 — workflow-test (Run 3) — LiviaCarta
 **Workflow:** workflow-test
 **Ergebnis:** Kontext korrekt geladen. config.json, brain.md und tone_of_voice.md vollständig injiziert, inkl. Positionierungsregel vom 2026-06-16. avoid_words-Liste weiterhin leer.
+
+## 2026-07-01 — workflow-test (Run 4) — MilenaReinle
+**Workflow:** workflow-test
+**Ergebnis:** Kontext korrekt geladen. config.json, brain.md und tone_of_voice.md (Agentur + Kunde) vollständig injiziert, inkl. Positionierungsregel vom 2026-06-16. avoid_words-Liste weiterhin leer, Agentur-Regel (kein "echt") wurde übernommen.
+
