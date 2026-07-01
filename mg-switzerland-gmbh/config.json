@@ -1,0 +1,56 @@
+{
+  "client_id": "6",
+  "client_name": "MG Switzerland GmbH",
+  "client_type": "unternehmen",
+  "industry": "",
+  "website": "",
+  "brand": {
+    "primary_color": "",
+    "secondary_color": "",
+    "fonts": [],
+    "logo_path": ""
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": ""
+  },
+  "contacts": {
+    "primary": {
+      "name": "Marco Hassler",
+      "email": "",
+      "role": "Head of Marketing"
+    },
+    "secondary": {
+      "name": "Emanuelle Merinat",
+      "email": "",
+      "role": "Marketing Communication Manager"
+    }
+  },
+  "mandat": {
+    "zeitraum": "01.07.2026 - 30.06.2027",
+    "sow_datum": "2026-06-03",
+    "sow_version": "1.0",
+    "sprachen": [
+      "DE",
+      "FR",
+      "IT"
+    ],
+    "leistungsbereiche": [
+      "Kampagnen (Paid Media)",
+      "Einzelaufträge / Adaptionen",
+      "Newsletter",
+      "Social Media organisch",
+      "Community Management (DE/FR/IT)",
+      "Mandatssteuerung & Betrieb"
+    ],
+    "mengengeruest_pro_jahr": {
+      "kampagnen_s": 5,
+      "kampagnen_m": 4,
+      "kampagnen_l": 5,
+      "einzelauftraege": "ca. 30"
+    }
+  },
+  "tone_keywords": [],
+  "avoid_words": []
+}
