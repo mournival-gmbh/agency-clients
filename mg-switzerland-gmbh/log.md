@@ -11,3 +11,8 @@
 - **Befüllt:** config.json (Mandatsdaten, Kontakte Marco Hassler & Emanuelle Merinat), brain.md (Leistungsumfang, Mengengerüst, Fristen/Reaktionszeiten, Open Questions)
 - **Nicht befüllt (unklar/nicht im Dokument enthalten):** Branche, Website, Social-Media-Accounts, Farben/Fonts/Logo, Zielgruppe, Tone of Voice, avoid_words
 - **Nächster Schritt:** Vollständiges Brand-Intake-Gespräch mit Marco Hassler / Emanuelle Merinat führen, um offene Punkte zu klären
+## 2026-07-02 — Offerte erstellt: Agency Services gemäss Scope of Work
+- **Erstellt von:** MilenaReinle
+- **Workflow:** offerte-factsheet
+- **Status:** entwurf
+- **Output:** `mg-switzerland-gmbh/offers/offerte-2026-07-mg-switzerland-gmbh.pdf`
