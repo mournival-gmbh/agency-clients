@@ -1,130 +1,257 @@
 # LinkedIn Performance Report — Roger Brand
-**Berichtszeitraum:** Januar–Juni 2026 | **Erstellt von:** Mournival GmbH | **Stand:** Juli 2026
+**Berichtszeitraum:** 9. Juni 2025 – 13. Juli 2026
+**Erstellt am:** 13. Juli 2026 von Mournival GmbH
 
 ---
 
 ## 1. Executive Summary
 
-Roger Brand hat sich seit September 2025 auf LinkedIn klar aktiviert — 65 Posts seit Januar 2025 sprechen für sich. Das Netzwerk ist mit 632 Connections gut positioniert: GeschäftsführerInnen, CEOs und UnternehmerInnen dominieren die Verbindungen, was direkt auf die Zielgruppe einzahlt. Die Partnerschaft mit Höhn + Partner AG und die ZKB-Verbindungen spiegeln sich im Netzwerk wider — strategisch stimmig.
+Roger Brands LinkedIn-Präsenz hat sich in 13 Monaten von einem schlafenden Profil zu einem funktionierenden Personal-Branding-Kanal entwickelt. 40'574 Impressions, 963 Engagements und +223 neue Follower (+52%) sind solide Zahlen für einen Account, der faktisch von null reaktiviert wurde.
 
-Was fehlt, sind Daten. Impressionen, Engagement Rates, Profilaufrufe und Follower-Zahlen sind im verfügbaren Export nicht enthalten. Damit bleibt die Wirkung der Content-Aktivität im Dunkeln — die Substanz ist vorhanden, die Messbarkeit nicht. Das ist die dringendste Baustelle für den nächsten Monat.
+Die wichtigste Erkenntnis: Wenn Roger persönlich und narrativ postet, gewinnt er. Der viraler Post vom 1. Juli 2026 («Kein Studium. Kein Netzwerk. Eine Sekretariatsstelle.») mit 4'719 Impressions und der September-Rekord mit 8'528 Impressions beweisen das gleiche Muster — authentische Geschichten schlagen Branchencontent konsistent.
 
-Die inhaltliche Richtung stimmt: persönliche Geschichten, Klartext zu Renditeerwartungen, regionale Verankerung. Der Ton passt zu Roger. Jetzt braucht es Struktur, Konsistenz — und ein funktionierendes Tracking.
+Die grösste Schwäche ist strukturell: 2.4 Posts pro Monat sind zu wenig, und zwei komplette Posting-Pausen (Februar, April 2026) haben nachweislich Reichweite und Follower-Wachstum vernichtet. April 2026 ist der worst case — 51 Impressions, null Engagement, null Posts.
+
+**Kernbotschaft:** Das Potenzial ist da und bewiesen. Jetzt braucht es Kontinuität.
 
 ---
 
 ## 2. Kennzahlen-Übersicht
 
-| Kennzahl | Wert | Anmerkung |
+| Metrik | Wert | Bemerkung |
 |---|---|---|
-| **Follower (aktuell)** | Keine Daten | Nicht im Export enthalten |
-| **Follower-Wachstum (Zeitraum)** | Keine Daten | Nicht im Export enthalten |
-| **Connections total** | 632 | Stand Juli 2026 |
-| **Neue Connections (Zeitraum)** | Keine Daten | Export enthält keine Zeitreihe |
-| **Profilaufrufe** | Keine Daten | Nicht im Export enthalten |
-| **Gesamtimpressionen** | Keine Daten | Nicht im Export enthalten |
-| **Durchschn. Engagement Rate** | Keine Daten | Nicht im Export enthalten |
-| **Posts gesamt (Profil)** | 80 | Kumuliert seit 2019 |
-| **Posts 2025 (gesamt)** | 56 | Starke Aktivierung ab Sep 2025 |
-| **Posts 2026 (Jan–Jun)** | 9 | Rückgang gegenüber H2/2025 |
-| **Posts seit Jan 2025** | 65 | Basis für laufende Analyse |
-| **Reaktionen auf fremde Posts** | 933 | LIKE (603), PRAISE (242), weitere |
-| **Kommentare auf fremden Posts** | 175 | Aktive Netzwerkpflege |
-| **Reposts** | 48 (davon 15 in 2026) | Kontinuierliche Aktivität |
-| **LinkedIn Artikel** | 1 | «Weiterer Fisch im Immobilienmarktplatz-Teich?» (März 2025) |
-| **Ads** | Keine | Kein bezahltes Budget eingesetzt |
+| **Follower aktuell** | 653 | Stand 13.7.2026 |
+| **Follower-Wachstum** | +223 (+52%) | Jun 2025 → Jul 2026 |
+| **Connections** | Keine Daten | Nicht erfasst im Reporting |
+| **Impressions total** | 40'574 | 9.6.2025 – 13.7.2026 |
+| **Erreichte Mitglieder** | 13'416 | Unique Reach |
+| **Gesamte Engagements** | 963 | Likes, Kommentare, Shares |
+| **Durchschnittliche ER** | 2.37% | 963 / 40'574 |
+| **Posts im Zeitraum** | ca. 31 | ~2.4 Posts/Monat |
+| **Profilaufrufe** | Keine Daten | Nicht im Datensatz |
+| **Bester Monat (Impressions)** | September 2025 | 8'528 Impressions |
+| **Schlechtester Monat** | April 2026 | 51 Impressions (0 Posts) |
+| **Höchste monatliche ER** | Mai 2026 | 3.6% |
 
-**Zur Posting-Frequenz:** 56 Posts in 2025 vs. 9 Posts in H1 2026 zeigen einen klaren Rückgang. Ob dieser mit einem Strategiewechsel (Qualität vor Quantität) oder einfach mit Inaktivität zusammenhängt, lässt sich ohne Engagement-Daten nicht abschliessend beurteilen.
+### Monatliche Performance-Übersicht
+
+| Monat | Impressions | Engagements | ER | Posts |
+|---|---|---|---|---|
+| Jun 2025 (ab 9.6.) | 2'115 | 60 | 2.8% | mehrere |
+| Jul 2025 | 5'941 | 138 | 2.3% | mehrere |
+| Aug 2025 | 3'378 | 94 | 2.8% | — |
+| Sep 2025 | 8'528 | 135 | 1.6% | — |
+| Okt 2025 | 3'741 | 87 | 2.3% | — |
+| Nov 2025 | 3'037 | 73 | 2.4% | — |
+| Dez 2025 | 4'038 | 117 | 2.9% | — |
+| Jan 2026 | 1'360 | 46 | 3.4% | — |
+| Feb 2026 | 427 | 11 | 2.6% | **0 Posts** |
+| Mär 2026 | 426 | 11 | 2.6% | — |
+| Apr 2026 | 51 | 0 | 0% | **0 Posts** ⚠️ |
+| Mai 2026 | 2'057 | 75 | 3.6% | — |
+| Jun 2026 | 1'079 | 30 | 2.8% | — |
+| Jul 2026 (1.–13.) | 5'331 | 86 | 1.6% | — |
+
+> **Hinweis zu September 2025:** Die tiefste ER (1.6%) trotz höchster Impressions erklärt sich durch den viralen Charakter des Bar-Posts — grosse Reichweite durch Shares bringt viele Passive-Views mit, die das Verhältnis drücken. Absolut waren 135 Engagements der zweithöchste Wert im gesamten Zeitraum.
 
 ---
 
 ## 3. Top-Posts Analyse
 
-Impressionen und Engagement Rates pro Post sind im vorliegenden Datenexport **nicht enthalten** — diese Metriken sind ausschliesslich über LinkedIn Analytics im Browser zugänglich.
+### Rang 1 — 8. September 2025
+**Typ:** Persönliche Geschichte / Unternehmertum
+**Inhalt:** «Was eine Bar mit Unternehmertum zu tun hat» — Roger über die my senses Bar
+**Impressions:** 5'240 | **Engagement:** 72 | **ER:** 1.37% (ER tief wegen viralem Spillover)
+**Warum er funktioniert hat:** Unternehmerische Persönlichkeit trifft emotionales Thema (Bruder, Family Business, eigene Verletzlichkeit) — das Netzwerk hat Mensch gesehen, nicht Makler.
 
-Was aus den Inhalten hervorgeht: Die persönlichsten Posts haben inhaltlich das höchste Potenzial. Basierend auf der Erfahrung aus dem Belle Immo Account (Day-in-Life: 455 Impressions, Q2/26) und den etablierten Content-Mustern lassen sich folgende Posts als **wahrscheinlich stärkste Performer** einordnen — ohne Gewähr, da keine Messdaten vorliegen:
+---
 
-| Datum | Inhalt (Vorschau) | Warum wahrscheinlich stark |
-|---|---|---|
-| 2026-06-23 | «Kein Studium. Kein Netzwerk. Eine Sekretariatsstelle.» | Persönliche Herkunftsgeschichte — höchste Resonanz-Mechanik auf LinkedIn |
-| 2026-06-23 | «Und wie viel Rendite garantiert ihr?» — keine Gewinngarantie | Ehrlichkeit als Differenzierung, kontra-intuitiv, diskussionswürdig |
-| 2026-06-22 | Esstisch in Hüntwangen, Familiengeschichte | Emotionaler Einstieg, narrative Stärke, breite Anschlussfähigkeit |
-| 2025-09-04 | «Was eine Bar mit echtem Unternehmertum zu tun hat» | Unternehmertum + persönliche Geschichte = Engagement-Doppelschlag |
-| 2025-07-23 | «Vertrauen ist das Fundament, nicht Beton oder Ziegel» | Kernbotschaft klar formuliert, Marken-positionierend |
+### Rang 2 — 1. Juli 2026
+**Typ:** Persönliche Geschichte / Partnerschaft & Werdegang
+**Inhalt:** «Kein Studium. Kein Netzwerk. Eine Sekretariatsstelle.» — 18 Jahre Partnerschaft mit hoehnpartner und ZKB
+**Impressions:** 4'719 | **Engagement:** 57 | **ER:** 1.21%
+**Warum er funktioniert hat:** Das Vertrauensnarrativ in Reinform — kein Pitch, keine Leistungsliste, nur eine Geschichte über 18 Jahre Verlässlichkeit. 2'640 Impressions an einem einzigen Tag beweisen, dass das Netzwerk aktiv geteilt hat.
 
-**Empfehlung zur Datenlage:** Ab sofort sollten nach jedem Post die Impressionen, Likes, Kommentare und Shares manuell aus LinkedIn Analytics erfasst werden — idealerweise in einer einfachen Tabelle (7 Tage nach Veröffentlichung). Das dauert 2 Minuten pro Post und ist die Grundlage für jeden künftigen Report.
+---
+
+### Rang 3 — 19. Juni 2025
+**Typ:** Lokales Engagement / Sponsoring
+**Inhalt:** FC Dübendorf Sponsoring
+**Impressions:** 2'678 | **Engagement:** 53 | **ER:** 1.98%
+**Warum er funktioniert hat:** Regionale Verankerung ist Rogers stärkste Positionierungs-Karte — die Community reagiert, weil sie sich gesehen fühlt, nicht angesprochen.
+
+---
+
+### Rang 4 — 9. Juli 2025
+**Typ:** Persönliche Geschichte / Family Business
+**Inhalt:** My senses Bar / Gastfreundschaft
+**Impressions:** 1'766 | **Engagement:** 49 | **ER:** 2.77%
+**Warum er funktioniert hat:** Thematisch verwandt mit Rang 1, aber mit höherer ER — weniger viraler Spillover, dafür dichteres, involvierteres Publikum, das aktiv reagiert statt nur konsumiert.
+
+---
+
+### Rang 5 — 16. September 2025
+**Typ:** Branchenwissen / Projektentwicklung
+**Inhalt:** «Excel statt Beton» — Zahlenarbeit hinter der Projektentwicklung
+**Impressions:** 1'459 | **Engagement:** 23 | **ER:** 1.58%
+**Warum er funktioniert hat:** Insider-Perspektive mit konkretem Handwerk — Roger erklärt, wie er denkt, nicht was er verkauft. Das baut Kompetenz-Vertrauen auf.
+
+---
+
+### Zusatz: Stärkster Engagement-Post ausserhalb Top-5 Impressions
+
+**16. Januar 2026 — Swiss Property Fair «Immo26»**
+**Impressions:** nicht in Top-10 | **Engagement:** 42
+Der Immo26-Post hat überproportional viel Engagement generiert und war massgeblich für den Follower-Spike von +42 im Januar verantwortlich. Events mit Branchenbezug triggern professionelles Netzwerk — merken.
 
 ---
 
 ## 4. Demografische Auswertung
 
-Die Zielgruppen-Rohdaten aus dem LinkedIn Audience Export liegen als **leere Spaltenstruktur** vor — keine auswertbaren Werte. Eine quantitative Demografieanalyse ist damit nicht möglich.
+### Geografische Verteilung
 
-Was aus den Netzwerk-Metadaten ablesbar ist:
-
-### Netzwerk-Zusammensetzung (Connections)
-
-| Kategorie | Top-Einträge | Bewertung |
+| Region | Anteil | Bewertung |
 |---|---|---|
-| **Top-Firmen** | Höhn + Partner AG (10), ZKB (7), Walde Immobilien (7), Belle Immo (5) | Stark immobilienaffin — passt zur Positionierung |
-| **Top-Positionen** | GF (41), CEO (25), Unternehmensinhaber (18), Inhaber (18) | Direkt auf Zielgruppe KMU-Eigner / Investoren |
-| **Weitere** | Partner (11), Founder (8), Geschäftsführender Inhaber (7) | Multiplikatoren-Schicht gut vertreten |
+| Zürich Metropolitan Area | 73% | ✅ Kernzielgebiet |
+| Metropolregion Luzern | 6% | Neutral |
+| Rapperswil | 2% | ✅ Wohnort Roger |
+| Basel | 1% | Neutral |
+| München | 1% | Irrelevant |
+| St. Gallen | 1% | Neutral |
 
-### Abgleich mit Zielgruppe
+**Fazit:** Die geografische Ausrichtung passt hervorragend. 73% Zürich Metropolitan Area deckt Dübendorf, Zürich-Stadt und den gesamten relevanten Investorenmarkt ab. Rapperswil als Wohnort taucht ebenfalls auf. Kein Handlungsbedarf.
 
-| Zielgruppe (Strategie) | Im Netzwerk sichtbar? |
+---
+
+### Branchenverteilung
+
+| Branche | Anteil | Bewertung |
+|---|---|---|
+| Immobilien | 37% | ✅ Kern-Peer-Gruppe |
+| Baugewerbe | 7% | ✅ Multiplikatoren |
+| Finanzdienstleistungen | 5% | ✅ Zielgruppe Investoren |
+| Architektur & Planung | 5% | ✅ Multiplikatoren |
+| Werbedienstleistungen | 4% | Neutral (Peer-Branche Mournival) |
+| Bankwesen | 3% | ✅ Zielgruppe |
+| Unternehmensberatung | 2% | ✅ Multiplikatoren |
+| Rechtskanzleien | 1% | ✅ Notare / Treuhänder |
+
+**Fazit:** Solide Branchenabdeckung. Immobilien, Bau, Finanz, Architektur und Recht decken gemeinsam einen grossen Teil der definierten Multiplikatoren-Zielgruppe ab. Einzige Lücke: Landwirte und Erbengemeinschaften als Landeigentümer sind in LinkedIn-Demografien strukturell schwer erreichbar — das ist keine Schwäche des Contents, sondern eine Plattform-Limitation.
+
+---
+
+### Karrierestufe & Funktion
+
+| Karrierestufe | Anteil |
 |---|---|
-| KMU-Eigner / Unternehmer mit Privatvermögen | ✅ Ja — GF/CEO/Inhaber dominieren |
-| Family Offices / vermögende Privatpersonen | Teilweise — Julius Baer Real Estate (3) sichtbar |
-| Multiplikatoren (Treuhänder, Notare, Architekten) | Eingeschränkt — Höhn + Partner als Architekten-Partner stark, weitere nicht explizit messbar |
-| Landeigentümer / Erbengemeinschaften | Keine Daten |
-| Geografischer Fokus Grossraum Zürich | ✅ Standort-Profil Zürich/Dübendorf, Firmen regional verankert |
+| Berufserfahren | 22% |
+| VP / Vize-Ebene | 15% |
+| Inhaber | 14% |
+| Geschäftsführung | 10% |
+| Berufseinsteiger | 10% |
+| Director | 8% |
 
-**Fazit:** Das Netzwerk ist inhaltlich gut ausgerichtet — die Entscheider-Dichte ist hoch. Was fehlt, ist Klarheit darüber, wie viele dieser Connections tatsächlich Reichweite bei Posts erhalten und wie die Follower-Demografie aussieht. Das sind zwei verschiedene Dinge, die der Export nicht trennt.
+| Position (Top) | Anteil |
+|---|---|
+| Unternehmensinhaber | 13% |
+| Geschäftsführer | 12% |
+| CEO | 6% |
+| Gründer:in | 3% |
+
+**Fazit:** Das ist ein starkes Signal. Inhaber, GF und CEO kommen zusammen auf rund 31% des Publikums — genau die Entscheidungsträger mit Privatvermögen, die für Roger als Investoren oder als Multiplikatoren relevant sind. Berufseinsteiger (10%) sind im Kontext Personal Branding nicht schädlich, aber auch nicht die Primärzielgruppe.
+
+---
+
+### Firmengrösse
+
+| Grösse | Anteil |
+|---|---|
+| 2–10 Mitarbeitende (KMU) | 31% |
+| 11–50 Mitarbeitende | 23% |
+| 51–200 Mitarbeitende | 10% |
+
+**Fazit:** 54% des Publikums arbeitet in Unternehmen unter 50 Mitarbeitenden. Das entspricht exakt der definierten KMU-Zielgruppe. Kein Korrekturbedarf.
+
+---
+
+### Top-Unternehmen im Publikum
+
+| Unternehmen | Anteil |
+|---|---|
+| hoehnpartner AG | 2% |
+| Zürcher Kantonalbank | 1% |
+
+**Fazit:** Rogers langjährigste Partnerschaften sind nachweislich im Publikum verankert. Der virare 1.-Juli-Post über genau diese Partnerschaften hat nicht zufällig performt — das Publikum kannte die Akteure und hat sich direkt angesprochen gefühlt.
+
+**Gesamtbewertung Demografie:** Die Zielgruppen-Deckung ist stark. Das Profil zieht die richtigen Menschen an — geografisch, nach Karrierestufe und nach Branche. Die Strategie funktioniert. Jetzt muss die Frequenz stimmen.
 
 ---
 
 ## 5. Ads-Auswertung
 
-Roger Brand hat im Berichtszeitraum **kein bezahltes Budget auf LinkedIn eingesetzt**. Organische Reichweite ist der einzige Hebel.
+Im Berichtszeitraum wurde kein bezahltes Budget auf LinkedIn eingesetzt. Alle Impressions, Follower und Engagements sind organisch generiert.
 
-Anmerkung: Roger verfügt über ein **Sales Navigator Core Abonnement** (mehrfach verlängert, total CHF 4'307.52 aufgewendet). Das ist ein prospecting-Tool, kein Werbebudget — die Investition fliesst in die Netzwerkrecherche und Lead-Identifikation, nicht in bezahlte Reichweite.
+Das ist für eine Personal-Branding-Strategie wie Rogers zunächst korrekt — Authentizität lässt sich nicht kaufen, und 40'574 organische Impressions bei null Franken Media-Budget sind ein respektables Ergebnis.
+
+Mittelfristig könnte gezieltes Post-Boosting auf die Top-Posts (insbesondere Partnerschaftsgeschichten und Branchenmeinungen) sinnvoll sein, um das organisch bewiesene Publikum gezielt zu erweitern. Das wäre ein separater Schritt und setzt voraus, dass die organische Basis zuerst stabilisiert wird.
 
 ---
 
 ## 6. Empfehlungen
 
-### 1. Analytics-Tracking sofort einrichten — kein Report ohne Daten
+### Empfehlung 1 — Posting-Mindestrythmus auf 6 Posts/Monat festlegen und absichern
 
-Das ist keine optionale Massnahme, sondern Voraussetzung für alles andere. Ohne Impressionen und Engagement Rates arbeiten wir blind. Konkret: Nach jedem Post 7-Tages-Werte aus LinkedIn Analytics in eine gemeinsame Tabelle eintragen (Impressionen, Reaktionen, Kommentare, Shares). Das übernimmt Mournival — aber wir brauchen Browser-Zugang zu Rogers Profil oder Screenshots nach 7 Tagen.
+Die Daten sind eindeutig: April 2026 (0 Posts, 51 Impressions) und Februar 2026 (0 Posts, 427 Impressions durch Restreichweite) zeigen, was passiert, wenn Roger pausiert. Der LinkedIn-Algorithmus bestraft Inaktivität unmittelbar — die Reichweite bricht innerhalb von Wochen ein, und der Follower-Aufbau stoppt komplett.
 
-### 2. Posting-Frequenz stabilisieren — Qualität und Quantität sind kein Widerspruch
-
-9 Posts in 6 Monaten ist zu wenig für ein Personal Branding, das Wirkung entfalten soll. Das Ziel von 1–2 Posts pro Woche muss umgesetzt werden — nicht perfekt, aber konsequent. Die Themenvielfalt ist vorhanden (Marktmeinung, persönliche Geschichte, FC Dübendorf, Investoren-Aufklärung), der Content-Kalender fehlt. Mournival erstellt einen monatlichen Vorschau-Plan mit 4–8 Post-Ideen, Roger gibt Freigabe — das reduziert die Reibung auf Null.
-
-### 3. Die drei stärksten Post-Typen priorisieren
-
-Aus den bestehenden Inhalten lassen sich drei Formate destillieren, die konsequent bespielt werden sollten:
-
-- **Persönliche Geschichte mit Lehre:** «Sekretariatsstelle → GF» oder «Hüntwangen-Esstisch» — das ist Rogers stärkste Karte. Einmal pro Monat mindestens.
-- **Klartext zu Markt und Investment:** «Keine Gewinngarantie» ist genau richtig — direkt, differenzierend, vertrauensbildend. Ein Mal pro Monat mit konkretem Marktbezug Zürich/Dübendorf.
-- **Lokales Engagement:** FC Dübendorf Vorstand ab Sommer 2026 ist eine inhaltliche Goldader. Authentisch, regional, menschlich — und für Investoren ein starkes Vertrauenssignal.
-
-### 4. Sales Navigator sinnvoll nutzen — Kommentarstrategie ausbauen
-
-Roger gibt 933 Reaktionen auf fremde Posts — aber nur 175 Kommentare. Das Verhältnis sollte sich verschieben. Ein substanzieller Kommentar auf einem relevanten Post (Immobilien, Zürich, Unternehmertum) erzeugt mehr Sichtbarkeit als ein Like und positioniert Roger als Fachstimme. Ziel: 2–3 echte Kommentare pro Woche, nicht mehr «Gut gemacht 👏», sondern kurze Einschätzungen mit Substanz. Sales Navigator hilft dabei, die richtigen Gespräche zu finden.
-
-### 5. Den LinkedIn-Artikel als Format reaktivieren
-
-Der Artikel zu dreamo.ch zeigt, dass Roger in der Lage ist, eine klare Haltung öffentlich zu vertreten. Das ist selten und wertvoll. Ein weiterer Artikel — z.B. zur Frage «Braucht Dübendorf mehr Bauland oder mehr Mut?» oder «Was Family Offices bei Immobilien-Investments unterschätzen» — würde Reichweite über das bestehende Netzwerk hinaus generieren und Google-Sichtbarkeit für den Namen Roger Brand aufbauen.
+**Massnahme:** Ein fixes Content-Commitment von 6 Posts/Monat (ca. 1.5/Woche) mit Mournival als Backstop — Roger liefert den Rohstoff (Erfahrungen, Meinungen, Termine), Mournival gibt die Form. Kein Monat ohne mindestens 4 Posts.
 
 ---
 
-## 7. Ausblick nächster Monat
+### Empfehlung 2 — Partnerschaftsgeschichten als eigenes Content-Format etablieren
 
-Die drei Prioritäten für Juli/August 2026: Erstens Analytics-Tracking aufsetzen — bis Ende Juli muss eine einfache Tracking-Tabelle stehen und befüllt werden, damit der nächste Report auf echten Zahlen basiert. Zweitens die Posting-Frequenz auf mindestens 2 Posts pro Woche hochziehen, mit dem FC Dübendorf Vorstandsthema als inhaltlichem Aufhänger für einen persönlich-nahbaren Einstieg. Drittens Kommentarstrategie schärfen: Rogers Stimme soll nicht nur auf dem eigenen Profil, sondern auch in relevanten Diskussionen seiner Zielgruppe sichtbar werden — substanziell, direkt, unverkäuferisch. Genau so, wie er selbst kommuniziert.
+Der 1.-Juli-Post ist die wichtigste Datenpunkt im gesamten Report. 4'719 Impressions, 57 Engagements, 2'640 Impressions an einem Tag — das ist kein Zufall. Das Vertrauensnarrativ (18 Jahre hoehnpartner, 20 Jahre ZKB) hat funktioniert, weil es konkret, persönlich und vollkommen glaubwürdig war.
+
+**Massnahme:** Partnerschaftsgeschichten werden zu einem wiederkehrenden Format — ca. 1x pro Quartal. Konkrete Kandidaten: Höhn und Partner AG (Architekt-Perspektive auf gemeinsame Projekte), ZKB (Finanzierungsdenken, Markteinschätzung), Bruder / my senses Bar (Unternehmertum, Familie, Risiko). Jede Geschichte muss einen konkreten Lernmoment haben — keine Lobeshymnen, keine PR.
 
 ---
 
-*Report erstellt durch Mournival GmbH — Juli 2026*
-*Ansprechpartner: Alexander Faust | alexander@mournival.ch*
+### Empfehlung 3 — Immobilien-Branchencontent mit Rogers persönlicher Haltung koppeln
+
+Posts wie «Excel statt Beton» (1'459 Impressions, 1.58% ER) zeigen, dass Branchenwissen funktioniert — aber immer dann am besten, wenn Rogers eigene Meinung drin steckt. Generischer Marktcommentary (z.B. Zinsentwicklung ohne persönliche Bewertung) wird auf LinkedIn nicht belohnt.
+
+**Massnahme:** Jeder Immobilien-Post braucht Rogers Haltung als Anker. Nicht «Die Zinsen steigen», sondern «Ich habe in 30 Jahren zwei Zinszyklen erlebt — hier ist was ich daraus mitgenommen habe». Konkrete Themen für H2 2026: Wohnzonenpolitik Dübendorf, Renditeerwartungen KMU-Investoren, Entwicklung Grossraum Zürich-Nord. Alle Themen, bei denen Roger eine echte Meinung hat — und die zeigen, dass er keinen Fondssprech braucht.
+
+---
+
+### Empfehlung 4 — FC Dübendorf Vorstandsthema ab Sommer 2026 aktiv bespielen
+
+Die Follower-Daten und die hohe ER des FC-Dübendorf-Sponsoring-Posts (2'678 Impressions, 53 Engagements, ER 1.98%) machen eines klar: Rogers regionale Verankerung ist kein Nice-to-have, das ist ein Reichweiten-Treiber. Der Vorstandseinstieg ab Sommer 2026 ist ein natürlicher Content-Anlass.
+
+**Massnahme:** Der Vorstandseinstieg bekommt einen dedizierten Post — persönlich, reflektiert, mit der Frage warum Community-Engagement für Roger mehr ist als Marketing. Danach: 1 Post pro Quartal zu FC Dübendorf (Saison-Auftakt, bedeutende Spiele, Vereinsmeilensteine). Kein Eigenmarketing, sondern echte Begeisterung — der Unterschied ist für das Netzwerk spürbar.
+
+---
+
+### Empfehlung 5 — Follower-Spikes systematisch auswerten und Trigger reproduzieren
+
+Januarspike (+42 Follower) durch Immo26-Event, Junispike (+35) durch Posting-Batch, Juli-2026-Spike durch viralen Post — das sind keine Zufälle, das sind reproduzierbare Muster. Bisher werden diese Spikes beobachtet, aber nicht strategisch genutzt.
+
+**Massnahme:** Vor jedem bekannten Event-Termin (Messen, Vereinsanlässe, Projektabschlüsse) wird ein Content-Cluster geplant: 1 Pre-Event-Post, 1 Post während/direkt danach, optional 1 Reflexions-Post 1-2 Wochen später. Konkreter Kalender H2 2026: Swiss Property Events, FC Dübendorf Saisonstart, Jahresende-Reflexion Roger Brand (Tradition aufbauen).
+
+---
+
+## 7. Ausblick — August bis September 2026
+
+Die Priorität für die nächsten zwei Monate ist Kontinuität vor Perfektion. Der Algorithmus und das Publikum brauchen Verlässlichkeit — kein weiterer April 2026.
+
+**Drei konkrete Aktionen:**
+
+Erstens: Das FC-Dübendorf-Vorstandsthema mit einem starken, persönlichen Post lancieren — das ist der natürliche Einstieg in H2 und knüpft an einen bewiesenen Reichweiten-Trigger an.
+
+Zweitens: Den Momentum aus dem viralen 1.-Juli-Post nutzen und die Posting-Frequenz jetzt, in der heissen Phase, auf mindestens 6 Posts im August zu halten — der Algorithmus belohnt Regelmässigkeit unmittelbar nach Hochperformance-Phasen.
+
+Drittens: Das nächste Partnerschafts-Narrativ vorbereiten — ein konkretes Gespräch mit Roger führen, welche Geschichten (Projekte, Landeigentümer, Begegnungen) noch erzählt werden wollen. Das Q3-Partnerschafts-Format sollte bis Ende August stehen und im September live gehen.
+
+---
+
+*Report erstellt von Mournival GmbH — Marketing ohne Overhead, ohne Bullshit.*
+*Nächste Review: August 2026*
