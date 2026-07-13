@@ -1,0 +1,47 @@
+{
+  "client_id": "6",
+  "client_name": "Roger Brand",
+  "client_type": "privat",
+  "industry": "Immobilienentwicklung & -investment",
+  "website": "https://www.belle-immo.ch/",
+  "personal": {
+    "bio": "Roger Brand ist Geschäftsführer der Belle Immo AG und seit über 30 Jahren in der Immobilienbranche tätig – angefangen mit einer Sekretariatsstelle, von der Pike auf gelernt. Aufgewachsen in Hüntwangen, seit 2008 GF in Dübendorf, wohnhaft in Rapperswil. Er steht für Vertrauen vor dem Deal, regionale Verankerung und Klarheit auch bei unbequemen Themen.",
+    "values": [
+      "Vertrauen",
+      "Regionale Verankerung",
+      "Ehrlichkeit"
+    ],
+    "topics": [
+      "Immobilieninvestment",
+      "Landakquise",
+      "Marktmeinung Zürich/Dübendorf",
+      "Unternehmertum",
+      "Community & lokale Verantwortung"
+    ],
+    "profile_photo_path": ""
+  },
+  "socials": {
+    "linkedin": "roger-brand"
+  },
+  "related_clients": [
+    "belle-immo-ag"
+  ],
+  "contacts": {
+    "primary": {
+      "name": "Roger Brand",
+      "email": "roger.brand@belle-immo.ch",
+      "role": "Geschäftsführer Belle Immo AG"
+    }
+  },
+  "tone_keywords": [
+    "nahbar",
+    "direkt",
+    "bodenständig"
+  ],
+  "avoid_words": [
+    "Gewinngarantie",
+    "einzigartig",
+    "beste",
+    "echt (als Verstärkung)"
+  ]
+}
