@@ -94,3 +94,7 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 ## 2026-07-17 -- Kampagnen Report Investoren v2 (client-facing, dezentes Tracking, keine ROAS)
 - **Erstellt von:** DungeonMasterAlex
 - **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
+## 2026-07-17 -- Kampagnen Report Investoren v3
+- **Erstellt von:** DungeonMasterAlex
+- **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
+- **Änderungen:** keepWithNext Titel-Fix, Video-Kontext A/B ergänzt
