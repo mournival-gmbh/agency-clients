@@ -66,9 +66,9 @@ Zwei Leads für ein Produkt ab CHF 200'000 — das ist keine Enttäuschung, sond
 
 **Priorität 1 — Creative auf Referenz-Kurs bringen.** Video B hat gewonnen. Die nächste Kampagne baut darauf auf: konkrete Projekte, echte Zahlen, Roger als Anker.
 
-**Priorität 2 — Zielgruppe schärfen.** Deine bisherigen Follower kommen stark aus dem Marketing-/Agenturumfeld — nicht die Investoren, die du suchst. Wir engen das Ad-Targeting stärker auf Inhaber, Kaderleute und Investment-nahe Profile in der Region Zürich ein.
+**Priorität 2 — Zielgruppe schärfen.** Das Targeting der ersten Kampagne war bewusst breit gehalten, um zu sehen, wo wir landen. Für die nächste Runde engen wir es gezielt ein: Inhaber, Kaderleute und vermögende Privatpersonen in der Deutschschweiz — explizit keine branchenfernen Profile. Weniger Reichweite, dafür qualifiziertere Klicks.
 
-**Priorität 3 — Landingpage nachziehen.** 30 Sekunden durchschnittliche Verweildauer ist knapp. Wir prüfen, ob die Seite die wichtigsten Fragen (Was, wie viel, welche Rendite, nächster Schritt) schnell genug beantwortet.
+**Priorität 3 — Landingpage erweitern.** Die aktuelle Investorenseite ist bewusst schlank gehalten — im Wesentlichen nur das Kontaktformular. Die kurze Verweildauer ist deshalb zu erwarten. Wir möchten testen, ob mehr Inhalt auf der Seite (z.B. ein konkretes Projektbeispiel, Zielrenditen, kurze Erklärung des Prozesses) die Bereitschaft erhöht, das Formular tatsächlich auszufüllen.
 
 **Priorität 4 — Budget-Timing.** Video B hat sein Budget schneller ausgegeben und trotzdem besser performt. Bei der nächsten Runde steuern wir das Budget bewusster in Richtung Gewinner-Creative.
 
@@ -78,7 +78,7 @@ Zwei Leads für ein Produkt ab CHF 200'000 — das ist keine Enttäuschung, sond
 
 1. **Lead 2 nachfassen** — in 2–3 Wochen aktiv anrufen, mit konkretem Projekt als Gesprächsaufhänger. Lead 1 einmal per Mail versuchen, dann abschliessen.
 2. **Kampagne 2 aufsetzen** — Creative nach Video-B-Prinzip, geschärftes Targeting auf echte Investoren-Profile. Tracking läuft ab Start sauber mit.
-3. **Landingpage-Check** — wir schauen gemeinsam die Investorenseite an und optimieren die Punkte, die die kurze Verweildauer erklären.
+3. **Landingpage erweitern** — wir erarbeiten gemeinsam, welche Inhalte auf die Investorenseite kommen: ein Projektbeispiel, Zielrenditen, Ablauf in drei Schritten. Dann testen wir, ob die Conversion-Rate steigt.
 
 ---
 
