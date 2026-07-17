@@ -98,3 +98,7 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - **Erstellt von:** DungeonMasterAlex
 - **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
 - **Änderungen:** keepWithNext Titel-Fix, Video-Kontext A/B ergänzt
+## 2026-07-17 -- Kampagnen Report Investoren v4
+- **Erstellt von:** DungeonMasterAlex
+- **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
+- **Änderungen:** Follower-Behauptung entfernt, LP-Verweildauer korrekt erklärt (nur Formular), LP-Empfehlung auf Inhaltserweiterung umgestellt
