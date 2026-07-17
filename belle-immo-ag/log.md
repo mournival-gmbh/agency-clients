@@ -91,3 +91,6 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
 - **Kampagne:** Investoren (LinkedIn Ads A/B Test, 2 Creatives)
 - **Ausgaben:** CHF 669.06 | Impressionen: 12'981 | LP-Views: 56 | Leads: 2
+## 2026-07-17 -- Kampagnen Report Investoren v2 (client-facing, dezentes Tracking, keine ROAS)
+- **Erstellt von:** DungeonMasterAlex
+- **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
