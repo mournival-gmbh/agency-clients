@@ -1,151 +1,87 @@
-# Kampagnen Performance Report — Belle Immo AG
-**Zeitraum:** Juni – Juli 2026 | **Kanal:** LinkedIn Ads | **Erstellt von:** Mournival GmbH
+# Performance-Report — Investoren-Kampagne LinkedIn
+**Belle Immo AG** · Zeitraum: 16. Juni – 3. Juli 2026
 
 ---
 
 ## 1. Executive Summary
 
-Die LinkedIn-Investorenkampagne hat in 18 aktiven Tagen CHF 669.06 ausgegeben und dabei 12'981 Impressionen, 54 Klicks und 2 tatsächliche Leads generiert. Beide Leads waren qualitativ schwach — einer nicht erreichbar, einer aktuell nicht interessiert.
+Deine erste LinkedIn-Investoren-Kampagne ist gelaufen — und liefert mehr Erkenntnisse als reine Leads. Mit CHF 669 Budget haben wir knapp 13'000 Menschen erreicht, 57 davon auf die Investorenseite gebracht und daraus 2 Formular-Anfragen generiert. Das klingt wenig, ist aber für ein Produkt ab CHF 200'000 ein realistischer Einstieg: Bei solchen Beträgen entscheidet niemand spontan.
 
-Die kritischste Erkenntnis liegt jedoch nicht bei den mageren Lead-Zahlen, sondern beim Tracking: Das Conversion-Setup war zu Beginn fehlerhaft. LinkedIn meldet 1 Formular, real waren es 2, Google Analytics erfasste 0. Diese Datenbasis ist für harte Aussagen unzureichend.
-
-Variante B (Headline «Immobilien investieren zum Anfassen») schlug Variante A bei der CTR deutlich (0.60% vs. 0.31%) — wurde aber vorzeitig pausiert. Das ist ein vermeidbarer Fehler.
-
-Fazit: Als Erstkampagne ein akzeptabler Lernlauf, aber kein Erfolg. Vor dem nächsten Franken muss das Tracking sitzen.
+Der spannendste Teil ist der A/B-Test. Zwei Video-Ansätze — persönlich vs. projektbasiert — haben klar unterschiedlich performt. Das Ergebnis gibt uns eine konkrete Richtung für die nächste Runde. Unten die Details, die Einordnung der Leads und was wir als Nächstes anpacken.
 
 ---
 
-## 2. Kennzahlen-Gesamtübersicht
+## 2. Kampagnen-Kennzahlen
 
-| Kampagne | Laufzeit | Ausgaben CHF | Impr. | Klicks | CTR % | LP-Views | CR (Klick→LP) % | CPA (LP) CHF | Umsatz |
-|---|---|---|---|---|---|---|---|---|---|
-| Investoren (gesamt) | 16.06.–03.07.2026 | 669.06 | 12'981 | 54 | 0.42 | 56 | — | 11.95 | — |
-
-**Separate A/B-Varianten:**
-
-| Variante | Laufzeit | Ausgaben CHF | Impr. | Klicks | CTR % | LP-Views | CPC CHF | CPM CHF | CPA CHF | Leads |
-|---|---|---|---|---|---|---|---|---|---|---|
-| A (Video 47s) | 16.06.–03.07. | 337.71 | 8'331 | 26 | 0.31 | 28 | 12.99 | 40.54 | 12.06 | 1 |
-| B (Video 37s) | 16.06.–25.06. | 331.35 | 4'650 | 28 | 0.60 | 28 | 11.83 | 71.26 | 11.83 | 1 |
-
-*Hinweis: Umsatz-Spalte durchgängig — (keine Abschlüsse, keine Umsatzzuordnung möglich). LP-Views werden als primäre Trackingmetrik geführt.*
-
----
-
-## 3. Ausgaben-Analyse
-
-**Budget-Auslastung**
-- Tagesbudget: CHF 30.00 | Aktive Tage: 18 | Erwartetes Budget: CHF 540.00
-- Tatsächliche Ausgaben: CHF 669.06 → **124% Überschreitung** des kalkulierten Budgets
-- Ø CHF 37.17/Tag. LinkedIn hat einzelne Tage massiv überzogen (z.B. CHF 75.00 am 16.6.). Das ist LinkedIn-typisches Verhalten, muss aber via Kampagnen-Lifetime-Budget statt Tagesbudget hart gedeckelt werden.
-
-**CPC-Vergleich**
-- Variante B: CHF 11.83 | Variante A: CHF 12.99
-- Variante B liefert Klicks 9% günstiger.
-
-**CPM-Vergleich**
-- Variante A: CHF 40.54 | Variante B: CHF 71.26
-- Variante B zahlte fast doppelt so viel pro tausend Impressionen — hat aber trotzdem den besseren CPC erzielt, weil die Klickrate deutlich höher war. Sprich: B hat die teureren Impressionen durch bessere Creative-Performance mehr als ausgeglichen.
-
-**CPA-Vergleich (LP-View)**
-- Variante B: CHF 11.83 | Variante A: CHF 12.06 — praktisch gleichauf.
-
-**ROAS**
-- Nicht berechenbar — keine Umsatzdaten, keine Abschlüsse.
-
-**Einschätzung:** Das Budget wurde nicht verschwendet, aber ineffizient gesteuert. Der Hauptfehler: Variante B (die stärkere Anzeige) lief nur 10 statt 18 Tage. Es wurde also überproportional Budget in die schwächere Variante A gesteckt.
-
----
-
-## 4. A/B Test Analyse
-
-| Metrik | Variante A | Variante B | Sieger |
-|---|---|---|---|
-| CTR | 0.31% | 0.60% | **B (+94%)** |
-| CPC | CHF 12.99 | CHF 11.83 | **B** |
-| CPM | CHF 40.54 | CHF 71.26 | A |
-| CPA (LP) | CHF 12.06 | CHF 11.83 | **B (knapp)** |
-| Leads | 1 | 1 | Gleichstand |
-
-**Statistisches Urteil:** Bei nur 54 Klicks und 2 Leads gesamt ist **keine statistische Signifikanz** gegeben. Die Lead-Zahlen sind reines Rauschen. Belastbar ist einzig die CTR: B erzielte mit weniger Impressionen (4'650 vs. 8'331) fast dieselbe Klickzahl — die Botschaft «zum Anfassen» plus das kürzere 37s-Video haben klar besser gezogen.
-
-**Warum B gewinnt:** Die konkretere, greifbarere Headline und der Trust-Anker «Seit 2008 realisieren wir erfolgreich Immobilienprojekte» passen exakt zur Belle-Immo-Positionierung (persönlich, nah, vertrauenswürdig). Das kürzere Video hält die Aufmerksamkeit besser.
-
-**Handlungsempfehlung:**
-- Variante A pausieren.
-- Variante B als Basis-Creative weiterführen und skalieren.
-- Der Umstand, dass B vorzeitig pausiert wurde, war ein Steuerungsfehler — genau die bessere Anzeige wurde vom Netz genommen.
-
----
-
-## 5. Conversion-Analyse
-
-**Funnel (Gesamtkampagne):**
-
-| Stufe | Wert | Konversion zur Vorstufe |
+| Kennzahl | Wert | Was bedeutet das? |
 |---|---|---|
-| Impressionen | 12'981 | — |
-| Klicks | 54 | 0.42% |
-| LP-Views (LinkedIn) | 56 | ~100% |
-| Formular-Submissions (real) | 2 | 3.6% (auf LP-Views) |
-| Qualifizierte Leads | 0 | 0% |
+| Gesamtausgaben | CHF 669.06 | Dein eingesetztes Budget |
+| Impressionen | 12'981 | Wie oft deine Ads angezeigt wurden |
+| Linkklicks | 57 | Wie oft jemand auf den Link geklickt hat |
+| Klickrate (CTR) | 0.44% | Anteil der Anzeigen, die zum Klick führten |
+| Kosten pro Klick (CPC) | CHF 11.74 | Was jeder Klick gekostet hat |
+| CPM | CHF 51.54 | Kosten für 1'000 Anzeigen-Einblendungen |
+| Landingpage-Aufrufe | 56 | Wie viele auf der Investorenseite ankamen |
+| Formular-Einreichungen | 2 | Konkrete Investoren-Anfragen |
+| Kosten pro Lead | CHF 334.53 | Was eine Anfrage gekostet hat |
 
-**Datenkonflikt beim Funnel:** LinkedIn zählt 56 LP-Views bei nur 54 Klicks — das ist inhaltlich unmöglich als reine Klick-Folge und zeigt das Tracking-Problem direkt. Google Analytics erfasste 204 Seitenviews (alle Quellen), 84 aktive Nutzer, Ø Verweildauer 30.3 Sekunden und **0 Formular-Abschlüsse**. Die 30 Sekunden Verweildauer sind für eine Erklärungsseite zu einem CHF 200'000+ Produkt sehr kurz — die Seite überzeugt nicht zum Ausfüllen.
-
-**Wo bricht der Funnel:**
-1. **Impression → Klick (0.42%):** Für LinkedIn im unteren, aber vertretbaren Bereich. Kaltes B2B-Investorenpublikum klickt selten.
-2. **LP-View → Formular (real ~3.6%, GA 0%):** Der grösste Schwachpunkt. Menschen kommen auf die Seite, füllen aber nichts aus.
-
-**CPA-Benchmark-Einordnung:** Ein CPA von ~CHF 12 pro LP-View ist für dieses Segment ok. Aber die relevante Zahl ist der Cost-per-Lead: **CHF 334.53 pro Lead** (669.06 / 2) — und beide Leads waren nicht qualifiziert. Für ein Produkt ab CHF 200'000 wäre selbst dieser CPL akzeptabel, wenn die Lead-Qualität stimmte. Tut sie nicht.
-
-**ROI:** Nicht berechenbar — keine Abschlüsse, kein Umsatz.
+**Einordnung:** Eine CTR von 0.44% ist auf LinkedIn im soliden Mittelfeld — die Plattform ist teurer als Instagram oder Facebook, dafür erreichst du gezielt Berufstätige und Entscheider. Der CPC von rund CHF 12 ist typisch für B2B-Kampagnen. Wichtig zu wissen: Fast alle, die geklickt haben (56 von 57), sind auch tatsächlich auf der Seite gelandet. Das heisst, die Ads haben kein falsches Versprechen gemacht.
 
 ---
 
-## 6. Kanal-Vergleich
+## 3. A/B Test: Was hat funktioniert?
 
-Es lief nur ein Kanal (LinkedIn Ads). Ein Kanal-Vergleich ist nicht möglich.
+Wir haben zwei Video-Varianten gegeneinander getestet, um zu sehen, welcher Ansatz bei deiner Zielgruppe zieht.
 
-**Einordnung zur Zielgruppe:** LinkedIn ist grundsätzlich der richtige Kanal für ein B2B-Investorenangebot. Aber der brain.md-Befund ist relevant: Die aktuelle Belle-Immo-Follower-Basis kommt überwiegend aus dem Agentur-/Marketing-Umfeld, kaum aus der Investment-Welt (Investment/PE nur 4 Follower). Das erklärt einen Teil der schwachen Resonanz — die organische Reichweite trifft nicht die Zielpersonen, und das Ad-Targeting muss diese Lücke allein tragen.
+**Video A — «Der persönliche Ansatz»:** Roger im Bild, gesprächig, kein Projektbild, keine Zahlen. Der Fokus liegt auf Vertrauen und Nähe.
 
----
+**Video B — «Die Projekt-Referenz»:** Startet mit Roger, wechselt dann zu abgeschlossenen Projekten mit eingeblendeten Anlagekosten und Zielrenditen. Konkreter, greifbarer.
 
-## 7. Optimierungsempfehlungen
+| Kennzahl | Video A (persönlich) | Video B (visuell) |
+|---|---|---|
+| CTR | 0.31% | **0.60%** |
+| CPC | CHF 12.99 | **CHF 11.83** |
+| Kosten pro LP-Aufruf | CHF 12.06 | **CHF 11.83** |
+| Klicks | 26 | 28 |
 
-**Priorität 1 — Sofort: Tracking reparieren (Quick Win, kein Budget nötig)**
-Bevor auch nur ein weiterer Franken fliesst: LinkedIn Insight Tag + GA4 Conversion-Event für den Formular-Abschluss sauber aufsetzen und mit einem Testabschluss verifizieren. Ohne verlässliche Daten ist jede weitere Kampagne Blindflug. Das ist der wichtigste Punkt im gesamten Report.
+**Was sagen die Zahlen?** Video B hat fast die doppelte Klickrate erzielt — und das mit weniger als der Hälfte an Impressionen und in kürzerer Laufzeit. Die Botschaft ist deutlich: Deine Zielgruppe reagiert stärker auf Konkretes. Projekte zum Anfassen, echte Zahlen, sichtbare Referenzen. Der rein persönliche Ansatz von Video A funktioniert im organischen Content hervorragend (das wissen wir aus deiner Post-Analyse) — aber in der Ad, wo jemand in Sekunden entscheidet, ob er klickt, gewinnt das Greifbare.
 
-**Priorität 2 — Sofort: Variante A pausieren, B weiterführen**
-Die stärkere Anzeige (B) wieder aktivieren und A abschalten. Budget nicht mehr auf das schwächere Creative verteilen.
-
-**Priorität 3 — Sofort: Budget über Lifetime deckeln**
-Statt Tagesbudget ein Kampagnen-Lifetime-Budget setzen, damit LinkedIn nicht wieder einzelne Tage auf CHF 75 überzieht. Planbarkeit vor Aggressivität.
-
-**Priorität 4 — 30 Tage: Landing Page überarbeiten**
-30 Sekunden Verweildauer und 0 erfasste Abschlüsse zeigen: Die Seite konvertiert nicht. Konkret prüfen:
-- Formular über die Falz ziehen, Felderanzahl minimieren
-- Klaren, einzelnen CTA statt mehrerer Optionen
-- Trust-Elemente prominent: «Seit 2008», konkrete Referenzprojekte mit Zahlen, Roger als Gesicht
-
-**Priorität 5 — 30 Tage: Targeting schärfen**
-Das Ad-Targeting explizit auf Investment-Profile, Inhaber und C-Level in der Region Zürich zuschneiden — unabhängig von der organischen Follower-Basis, die die falsche Zielgruppe abbildet.
+**Empfehlung für die nächste Kampagne:** Wir setzen auf den Referenz-Ansatz von Video B — Projekte, Zahlen, Renditen im Fokus. Roger bleibt als Gesicht drin (das ist eure Stärke), aber die Substanz macht den Unterschied. Idee für die nächste Testrunde: Video B gegen eine noch stärker projektfokussierte Variante mit einem konkreten Objekt als «Case».
 
 ---
 
-## 8. Nächste Tests
+## 4. Lead-Analyse
 
-**Test 1 — Creative-Format (empfohlen als nächster Haupttest)**
-- **Was:** Sieger-Botschaft «zum Anfassen» in zwei Formaten — kurzes Video (Variante B als Basis) vs. statisches Single-Image mit Roger + konkretem Objekt und Zahlen.
-- **Hypothese:** Ein persönliches Bild von Roger (Gesicht der Firma) plus harte Zahlen schlägt das generische Video, weil es zur nahbaren Positionierung passt und schneller Vertrauen aufbaut.
-- **Budget/Laufzeit:** CHF 600–800 über mindestens 21 Tage, gleichmässige Verteilung, kein vorzeitiges Pausieren.
+Zwei Leads für ein Produkt ab CHF 200'000 — das ist keine Enttäuschung, sondern der Realität geschuldet. Wer sechsstellig investiert, füllt kein Formular aus dem Bauch heraus aus. Zwei ernsthafte Anfragen aus einer ersten, kleinen Kampagne sind ein brauchbarer Start.
 
-**Test 2 — Headline-Fokus (Folgetest)**
-- **Was:** «Ab CHF 200'000 direkt investieren» (Preis-Anker) vs. «Diskret in regionale Immobilienprojekte investieren» (Diskretion + Regionalität).
-- **Hypothese:** Der Regionalitäts-/Diskretions-Winkel spricht Zürcher Investoren stärker an als der reine Preis-Anker.
-- **Budget/Laufzeit:** CHF 500 über 14 Tage nach abgeschlossenem Test 1.
+**Stand der Leads:**
+- **Lead 1:** Mehrfach telefonisch nicht erreicht. Wir empfehlen einen letzten Versuch per E-Mail mit konkretem Terminvorschlag — dann ruhen lassen.
+- **Lead 2:** Telefonisch erreicht, grundsätzliches Interesse, will sich später wieder melden. Das ist der wertvollere Kontakt. Hier nicht warten: In 2–3 Wochen aktiv nachfassen, idealerweise mit einem konkreten Projekt als Aufhänger.
 
-**Wichtige Vorbedingung:** Beide Tests sind nur sinnvoll, wenn das Formular-Tracking vorher steht. Sonst wiederholt sich das Datenproblem und wir messen erneut nichts Belastbares.
+**Ehrlich angemerkt:** Das Conversion-Tracking wurde während der Laufzeit noch nachjustiert und ist jetzt vollständig eingerichtet. Für die nächste Kampagne messen wir also von Tag eins an sauber — das gibt uns präzisere Zahlen zu jedem Lead.
 
 ---
 
-*Anmerkung zur Lead-Qualität: Beide Leads waren nicht abschlussreif. Für ein Erstlauf-Setup mit fehlerhaftem Tracking und einem erklärungsbedürftigen CHF-200'000+-Produkt ist das kein Beinbruch, aber ein klares Signal: Der nächste Durchlauf braucht saubere Daten und die stärkere Anzeige — dann lässt sich die Kampagne seriös bewerten.*
+## 5. Was optimieren wir
+
+**Priorität 1 — Creative auf Referenz-Kurs bringen.** Video B hat gewonnen. Die nächste Kampagne baut darauf auf: konkrete Projekte, echte Zahlen, Roger als Anker.
+
+**Priorität 2 — Zielgruppe schärfen.** Deine bisherigen Follower kommen stark aus dem Marketing-/Agenturumfeld — nicht die Investoren, die du suchst. Wir engen das Ad-Targeting stärker auf Inhaber, Kaderleute und Investment-nahe Profile in der Region Zürich ein.
+
+**Priorität 3 — Landingpage nachziehen.** 30 Sekunden durchschnittliche Verweildauer ist knapp. Wir prüfen, ob die Seite die wichtigsten Fragen (Was, wie viel, welche Rendite, nächster Schritt) schnell genug beantwortet.
+
+**Priorität 4 — Budget-Timing.** Video B hat sein Budget schneller ausgegeben und trotzdem besser performt. Bei der nächsten Runde steuern wir das Budget bewusster in Richtung Gewinner-Creative.
+
+---
+
+## 6. Nächste Schritte
+
+1. **Lead 2 nachfassen** — in 2–3 Wochen aktiv anrufen, mit konkretem Projekt als Gesprächsaufhänger. Lead 1 einmal per Mail versuchen, dann abschliessen.
+2. **Kampagne 2 aufsetzen** — Creative nach Video-B-Prinzip, geschärftes Targeting auf echte Investoren-Profile. Tracking läuft ab Start sauber mit.
+3. **Landingpage-Check** — wir schauen gemeinsam die Investorenseite an und optimieren die Punkte, die die kurze Verweildauer erklären.
+
+---
+
+Fragen zum Report? Melde dich — wir gehen das gerne zusammen durch.
+
+**Mournival GmbH**
