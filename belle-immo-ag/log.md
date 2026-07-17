@@ -85,3 +85,9 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - 11 Folien nach Logik Warum → Wohin → Wie → Was → Nächste Schritte
 - Datei: `belle-immo-praesentation-storyboard-2026.docx`
 - Erstellt von: DungeonMasterAlex
+## 2026-07-17 -- Kampagnen Report Investoren Juni - Juli 2026
+- **Erstellt von:** DungeonMasterAlex
+- **Workflow:** campaign-report
+- **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
+- **Kampagne:** Investoren (LinkedIn Ads A/B Test, 2 Creatives)
+- **Ausgaben:** CHF 669.06 | Impressionen: 12'981 | LP-Views: 56 | Leads: 2
