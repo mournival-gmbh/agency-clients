@@ -102,3 +102,8 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - **Erstellt von:** DungeonMasterAlex
 - **Output:** `belle-immo-ag/campaigns/campaign-report-Juni-Juli-2026-investoren-belle-immo-ag.pdf`
 - **Änderungen:** Follower-Behauptung entfernt, LP-Verweildauer korrekt erklärt (nur Formular), LP-Empfehlung auf Inhaltserweiterung umgestellt
+## 2026-07-19 — Offerte erstellt: Managed Communication Pilot
+- **Erstellt von:** MilenaReinle
+- **Workflow:** offerte-factsheet (Transkription bestehendes Angebot in 1322-Vorlage)
+- **Status:** entwurf
+- **Output:** `belle-immo-ag/offers/offerte-2026-07-belle-immo-ag.pdf`
