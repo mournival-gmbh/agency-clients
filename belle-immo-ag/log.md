@@ -1,3 +1,8 @@
+
+---
+**2026-07-20 — DungeonMasterAlex**
+Word-Dokument «Managed Communication Pilot» aus PDF in 1322-Vorlage formatiert und als  im Ordner  abgelegt. Header/Footer aus  übernommen.
+
 # Client Log — Belle Immo AG
 
 | Datum | Output | Typ | Person | Link |
