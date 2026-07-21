@@ -1,0 +1,33 @@
+{
+  "client_id": 5,
+  "name": "Baia Reinigung GmbH",
+  "slug": "baia-reinigung-gmbh",
+  "type": "unternehmen",
+  "status": "Aktiv",
+  "contact_person": "Jorge Baia",
+  "location": "Zürich",
+  "industry": "Gebäudereinigung / Facility Management",
+  "website": "",
+  "linkedin": "",
+  "avoid_words": [
+    "Putzfirma",
+    "billig",
+    "günstig",
+    "echt",
+    "super",
+    "mega",
+    "einfach mal",
+    "schnell mal"
+  ],
+  "brand": {
+    "tagline": "Persönlich. Langfristig. Zuverlässig.",
+    "colors": {
+      "rot": "#D2423A",
+      "blau": "#87B4DE"
+    },
+    "design_element": "Tic-Tac-Toe (sparsam, dezent, nie dominant)",
+    "face_of_brand": "Jorge Baia",
+    "primary_target": "Immobilienverwaltungen, Generalunternehmer, Bauunternehmen, Architekten, Eigentümer grösserer Liegenschaften, Gewerbebetriebe",
+    "secondary_target": "Privatkunden (Einfamilienhäuser, Wohnungsreinigungen, Umzugsreinigungen)"
+  }
+}
