@@ -10,3 +10,20 @@ Vollständiger Brand Intake für Baia Reinigung GmbH durchgeführt. Alle Stammda
 - `config.json` – Stammdaten, Markenwerte, Zielgruppen
 - `brain.md` – vollständige Wissensbase aus Intake-Informationen
 - `tone_of_voice.md` – Tonalität, Dos/Don'ts, Avoid Words, Referenzsätze
+
+## 2026-07-22 – Neuer Webseitentext erstellt
+
+**Ausgeführt von:** DungeonMasterAlex
+**Workflow:** Website Copywriting
+**Output:** `baia-reinigung-gmbh/outputs/website-text-v1.md`
+**Status:** Abgeschlossen
+
+Vollständigen Webseitentext für neue Website erstellt. Grundlage: bestehender Webseitentext (PDF), brain.md, tone_of_voice.md, config.json.
+
+Struktur:
+- Startseite als Onepager (Hero, Jorge, Dienstleistungs-Teaser, Team, Werte, Kontakt)
+- Dienstleistungsseite als separate Unterseite (9 Services mit je kurzem Text)
+- AI Search-optimiert: klare H1/H2/H3-Struktur, Ortsbezug Zürich, konkrete Fragen beantwortet
+- Meta-Beschreibungen für beide Seiten enthalten
+- Keine Avoid Words verwendet
+
