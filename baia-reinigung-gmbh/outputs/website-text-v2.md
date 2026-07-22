@@ -6,7 +6,7 @@
 
 # STARTSEITE
 
-**Meta-Beschreibung** (155 Zeichen):
+**Meta-Beschreibung:**
 Baia Reinigung GmbH – Zürcher Familienbetrieb seit 1994. Büroreinigung, Baureinigung, Hauswartung. Persönlich. Langfristig. Zuverlässig. Jetzt anfragen.
 
 ---
@@ -110,7 +110,7 @@ Deutsch, Englisch, Portugiesisch.
 
 # DIENSTLEISTUNGSSEITE
 
-**Meta-Beschreibung** (155 Zeichen):
+**Meta-Beschreibung:**
 Reinigung in Zürich: Baureinigung, Büroreinigung, Hauswartung, Umzugsreinigung mit Abgabegarantie. Baia Reinigung GmbH – Familienbetrieb seit 1994.
 
 ---
