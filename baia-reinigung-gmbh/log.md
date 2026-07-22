@@ -27,3 +27,11 @@ Struktur:
 - Meta-Beschreibungen für beide Seiten enthalten
 - Keine Avoid Words verwendet
 
+
+## 2026-07-22 – Webseitentext v2 erstellt
+
+**Ausgeführt von:** DungeonMasterAlex
+**Output:** `baia-reinigung-gmbh/outputs/website-text-v2.md`
+
+Überarbeitung aufgrund Feedback: zu viel Marketing-Sprache, zu viele Ich/Wir-Konstruktionen, zu wenig Charakter. Neu: kürzere Sätze, Fragmente, Kontrast-Schläge, Jorge als echter Mensch sichtbar, Self-Aware-Formulierungen.
+
