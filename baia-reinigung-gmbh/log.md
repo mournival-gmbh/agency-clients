@@ -35,3 +35,11 @@ Struktur:
 
 Überarbeitung aufgrund Feedback: zu viel Marketing-Sprache, zu viele Ich/Wir-Konstruktionen, zu wenig Charakter. Neu: kürzere Sätze, Fragmente, Kontrast-Schläge, Jorge als echter Mensch sichtbar, Self-Aware-Formulierungen.
 
+
+## 2026-07-22 – Webseitentext v3 erstellt
+
+**Ausgeführt von:** DungeonMasterAlex
+**Output:** `baia-reinigung-gmbh/outputs/website-text-v3.md`
+
+v3 Feedback: Oneliner-Salat aufgelöst, volle eloquente Sätze. Jorge-Abschnitt komplett neu als Porträt: Netzwerk aus Event-/Gaming-Szene, biologische Reinigungsverfahren als echtes Interesse, persönliche Verantwortung als Haltung. AI-Search-taugliche H2s (beschreibend statt poetisch).
+
