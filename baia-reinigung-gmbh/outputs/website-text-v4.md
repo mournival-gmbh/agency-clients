@@ -1,6 +1,6 @@
 # Webseitentext – Baia Reinigung GmbH (v3)
 
-*Erstellt: 2026-07-22 | Von: DungeonMasterAlex | v4: Detailfeedback-Überarbeitung*
+*Erstellt: 2026-07-22 | Von: DungeonMasterAlex | v4 final: Jorge-Einstieg, Bindestriche, Kontakt-Duplikat*
 
 ---
 
@@ -29,7 +29,7 @@ Baia Reinigung wurde 1994 in Zürich gegründet und wird bis heute von der Perso
 
 1994 hat er sein Unternehmen gegründet, und es trägt bis heute seinen Namen. Das ist keine Marketingentscheidung, sondern eine Haltung: Wer Baia bucht, bekommt Jorge, der persönlich für das Resultat einsteht. Qualität delegiert er nicht an ein Formular oder eine Kontrollliste. Er ist vor Ort, dort wo gearbeitet wird, und nicht in einem Büro, das den Betrieb nur aus zweiter Hand kennt.
 
-Jorge interessiert sich für moderne Reinigungsverfahren – biologische Methoden, mikroorganismenbasierte Systeme, Ansätze, die noch nicht jeder auf dem Schirm hat. Für ihn kein Marketingthema, sondern echtes Interesse an dem, was im Reinigungshandwerk heute möglich ist.
+Kommt das Gespräch auf sein Handwerk, wird Jorge konkret: biologische Methoden, mikroorganismenbasierte Systeme, Ansätze, die noch nicht jeder auf dem Schirm hat. Für ihn kein Marketingthema, sondern echtes Interesse an dem, was im Reinigungshandwerk heute möglich ist.
 
 Er berät auf Deutsch, Englisch und Portugiesisch – je nachdem, in welcher Sprache man lieber direkt redet. Bei Baia weisst du von Anfang an, mit wem du es zu tun hast.
 
@@ -41,7 +41,7 @@ Er berät auf Deutsch, Englisch und Portugiesisch – je nachdem, in welcher Spr
 
 ## Was Baia für dein Gebäude tut
 
-Von der laufenden Büroreinigung über die Bauendreinigung nach Fertigstellung bis zur Hauswartung, die über Jahre dieselbe bleibt – wir übernehmen die Arbeit, die dein Gebäude in Form hält, und die, an die niemand denkt, bis sie fehlt. Für Unternehmen ebenso wie für Privatkunden, die eine Umzugs- oder Wohnungsreinigung brauchen, auf die Verlass ist.
+Von der laufenden Büroreinigung über die Bauendreinigung nach Fertigstellung bis zur Hauswartung, die über Jahre dieselbe bleibt. Wir übernehmen die Arbeit, die dein Gebäude in Form hält, und die, an die niemand denkt, bis sie fehlt. Für Unternehmen ebenso wie für Privatkunden, die eine Umzugs- oder Wohnungsreinigung brauchen, auf die Verlass ist.
 
 Sauberkeit ist unser Handwerk. Dein Gebäude ist unser Anliegen.
 
@@ -56,7 +56,7 @@ Sauberkeit ist unser Handwerk. Dein Gebäude ist unser Anliegen.
 
 ## Die Menschen hinter Baia
 
-Ein Unternehmen ist so gut wie die Leute, die tatsächlich anpacken. Bei Baia sind das Menschen, die regelmässig geschult werden, fair entlöhnt sind und motiviert zur Arbeit kommen – weil das eine das andere bedingt. Wer in seine Leute investiert, bekommt Arbeit zurück, auf die er sich verlassen kann.
+Ein Unternehmen ist so gut wie die Leute, die tatsächlich anpacken. Bei Baia sind das Menschen, die regelmässig geschult werden, fair entlöhnt sind und motiviert zur Arbeit kommen, weil das eine das andere bedingt. Wer in seine Leute investiert, bekommt Arbeit zurück, auf die er sich verlassen kann.
 
 - **Jorge Baia** – Inhaber und Gründer
 - **Joana D'Arc Da Silva**
@@ -75,7 +75,7 @@ Es gibt Reinigungsunternehmen, die dir in der Offerte alles versprechen und beim
 
 Wir sind nicht die schnellste Reinigung, sondern die richtige, und dieser Unterschied entscheidet darüber, ob eine Zusammenarbeit ein halbes Jahr hält oder ein halbes Leben. Viele unserer Kunden begleiten uns seit über einem Jahrzehnt, manche fast von Anfang an. Seit dreissig Jahren derselbe Grundsatz.
 
-Zuverlässig bedeutet bei uns konkret: Du gibst die Verantwortung für dein Gebäude ab und kannst dich darauf verlassen, dass nichts liegen bleibt – kein Nachfragen, kein Kontrollieren, keine Überraschungen. Genau das ist der Unterschied, den man erst dann wirklich schätzt, wenn man ihn erlebt hat.
+Zuverlässig bedeutet bei uns konkret: Du gibst die Verantwortung für dein Gebäude ab und kannst dich darauf verlassen, dass nichts liegen bleibt: kein Nachfragen, kein Kontrollieren, keine Überraschungen. Genau das ist der Unterschied, den man erst dann wirklich schätzt, wenn man ihn erlebt hat.
 
 ---
 
@@ -83,7 +83,7 @@ Zuverlässig bedeutet bei uns konkret: Du gibst die Verantwortung für dein Geb�
 
 ## Kontakt – Baia Reinigung GmbH Zürich
 
-Wenn du wissen willst, was eine persönlich geführte Reinigung für dein Gebäude bedeutet, dann ruf an oder schreib uns. Ruf an oder schreib uns – und bekomme eine Offerte, die zu deinem Objekt passt, nicht zu einem Standardformular.
+Wenn du wissen willst, was eine persönlich geführte Reinigung für dein Gebäude bedeutet, dann melde dich. Du bekommst eine Offerte, die zu deinem Objekt passt, nicht zu einem Standardformular.
 
 **Telefon:** [Telefonnummer]
 **E-Mail:** [E-Mail-Adresse]
@@ -105,7 +105,7 @@ Dienstleistungen der Baia Reinigung GmbH Zürich – Büroreinigung, Baureinigun
 
 ## Dienstleistungen der Baia Reinigung GmbH
 
-Ein Gebäude stellt über sein Leben hinweg ganz unterschiedliche Anforderungen, und wir decken sie ab – von der ersten Reinigung nach dem Bau bis zur Pflege, die Jahr für Jahr dieselbe Sorgfalt braucht. Für Unternehmen und für Privatkunden.
+Ein Gebäude stellt über sein Leben hinweg ganz unterschiedliche Anforderungen, und wir decken sie ab: von der ersten Reinigung nach dem Bau bis zur Pflege, die Jahr für Jahr dieselbe Sorgfalt braucht. Für Unternehmen und für Privatkunden.
 
 ---
 
@@ -113,7 +113,7 @@ Ein Gebäude stellt über sein Leben hinweg ganz unterschiedliche Anforderungen,
 
 ### Büroreinigung Zürich
 
-Büros werden täglich genutzt und täglich abgenutzt – das merkt man spätestens dann, wenn die Substanz darunter leidet. Wir halten deine Räume in einem Zustand, der am Montagmorgen so aussieht wie am Freitagnachmittag: regelmässig, verlässlich, auf deinen Betrieb abgestimmt.
+Büros werden täglich genutzt und täglich abgenutzt, was man spätestens dann merkt, wenn die Substanz darunter leidet. Wir halten deine Räume in einem Zustand, der am Montagmorgen so aussieht wie am Freitagnachmittag: regelmässig, verlässlich, auf deinen Betrieb abgestimmt.
 
 ### Baureinigung Zürich
 
@@ -125,15 +125,15 @@ Eine Liegenschaft braucht jemanden, der sich kümmert, bevor aus einer Kleinigke
 
 ### Winterdienst Zürich
 
-Wenn es schneit, zählt nicht, wer schnell reagiert, sondern wer schon da war, bevor der erste Mieter das Haus verlässt. Wir sorgen dafür, dass Zugänge, Wege und Eingänge begehbar bleiben – verlässlich und ohne dass du daran denken musst.
+Wenn es schneit, zählt nicht, wer schnell reagiert, sondern wer schon da war, bevor der erste Mieter das Haus verlässt. Wir sorgen dafür, dass Zugänge, Wege und Eingänge begehbar bleiben, verlässlich und ohne dass du daran denken musst.
 
 ### Eventreinigung Zürich
 
-Nach einem Anlass zählt, wie schnell und rückstandslos ein Ort wieder in seinen ursprünglichen Zustand kommt. Wir übernehmen die Reinigung vor, während und nach dem Event – und dank Jorges Wurzeln in der Zürcher Eventszene wissen wir aus erster Hand, worauf es dabei ankommt.
+Nach einem Anlass zählt, wie schnell und rückstandslos ein Ort wieder in seinen ursprünglichen Zustand kommt. Wir übernehmen die Reinigung vor, während und nach dem Event. Dank Jorges Wurzeln in der Zürcher Eventszene wissen wir aus erster Hand, worauf es dabei ankommt.
 
 ### Fassadenreinigung Zürich
 
-Die Fassade ist das Erste, was man von einem Gebäude sieht, und das Letzte, woran gedacht wird. Wir reinigen sie materialschonend, schützen die Bausubstanz und berücksichtigen dabei, was der jeweilige Untergrund verlangt – auch mit biologischen Verfahren, wo sie Sinn ergeben.
+Die Fassade ist das Erste, was man von einem Gebäude sieht, und das Letzte, woran gedacht wird. Wir reinigen sie materialschonend, schützen die Bausubstanz und berücksichtigen dabei, was der jeweilige Untergrund verlangt, auch mit biologischen Verfahren, wo sie Sinn ergeben.
 
 ---
 
@@ -141,7 +141,7 @@ Die Fassade ist das Erste, was man von einem Gebäude sieht, und das Letzte, wor
 
 ### Umzugsreinigung Zürich mit Abgabegarantie
 
-Eine Wohnungsübergabe steht und fällt mit der Endreinigung, und wer schon einmal vor einem kritischen Verwalter stand, weiss das. Wir reinigen so, dass die Abnahme kein Risiko ist. Unsere Abgabegarantie stellt sicher: Sollte die Verwaltung nochmals nachfassen, kommen wir nochmals – bis der Schlüssel übergeben ist, ohne Diskussion.
+Eine Wohnungsübergabe steht und fällt mit der Endreinigung, und wer schon einmal vor einem kritischen Verwalter stand, weiss das. Wir reinigen so, dass die Abnahme kein Risiko ist. Unsere Abgabegarantie stellt sicher: Sollte die Verwaltung nochmals nachfassen, kommen wir nochmals, bis der Schlüssel übergeben ist, ohne Diskussion.
 
 ### Fensterreinigung Zürich
 
@@ -149,7 +149,7 @@ Saubere Fenster verändern einen Raum mehr, als die meisten erwarten, weil erst 
 
 ### Haus- und Wohnungsreinigung Zürich
 
-Ob regelmässig oder einmalig zu einem besonderen Anlass – wir reinigen dein Zuhause so, dass du nach Hause kommst und nichts mehr zu tun hast.
+Ob regelmässig oder einmalig zu einem besonderen Anlass, wir reinigen dein Zuhause so, dass du nach Hause kommst und nichts mehr zu tun hast.
 
 ---
 
