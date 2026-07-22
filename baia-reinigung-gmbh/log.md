@@ -43,3 +43,11 @@ Struktur:
 
 v3 Feedback: Oneliner-Salat aufgelöst, volle eloquente Sätze. Jorge-Abschnitt komplett neu als Porträt: Netzwerk aus Event-/Gaming-Szene, biologische Reinigungsverfahren als echtes Interesse, persönliche Verantwortung als Haltung. AI-Search-taugliche H2s (beschreibend statt poetisch).
 
+
+## 2026-07-22 – Webseitentext v4 (Detailfeedback)
+
+**Ausgeführt von:** DungeonMasterAlex
+**Output:** `baia-reinigung-gmbh/outputs/website-text-v4.md`
+
+Chirurgische Überarbeitung basierend auf 6 Feedbackpunkten: Hero-Formulierung (Gründung statt "zu Hause"), Jorge-Abschnitt (1. Absatz gestrichen, Bio-Verfahren gekürzt, Abschluss lockerer), Team (faire Entlöhnung/Schulung im Fokus), Werte (kein "Buchhaltung"-Satz, Zuverlässigkeit mit Kontext), Kontakt (kein "zuhört"), Dienstleistungen (Büroreinigung neu, Baureinigung substanzieller, kein Verkehrssicherungspflicht, Fassade ohne Selbstverständlichkeit, Abgabegarantie integriert, Fenster nach User-Formulierung).
+
