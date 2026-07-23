@@ -147,11 +147,11 @@ Privatreinigung Zürich: Umzugsreinigung mit Abgabegarantie, Fensterreinigung, H
 
 ## Privatreinigung in Zürich
 
-Nicht nur Liegenschaften brauchen einen Partner. Manchmal ist es die eigene Wohnung, und manchmal ist es genau der falsche Moment, um sich darüber Gedanken machen zu müssen. Baia übernimmt das – persönlich betreut, sorgfältig ausgeführt.
+Dein Zuhause ist kein Büro. Wer hier etwas reinigen lassen will, hat meistens einen ganz konkreten Grund: Ein Umzug steht an, die Fenster sind schon zu lange auf dem Zettel, oder der Alltag lässt schlicht keinen Raum dafür. Baia übernimmt das – mit demselben Anspruch, den wir an jedes Gebäude anlegen.
 
 ### Umzugsreinigung Zürich mit Abgabegarantie
 
-Eine Wohnungsübergabe steht und fällt mit der Endreinigung, und wer schon einmal vor einem kritischen Verwalter stand, weiss das. Wir reinigen so, dass die Abnahme kein Risiko ist. Unsere Abgabegarantie stellt sicher: Sollte die Verwaltung nochmals nachfassen, kommen wir nochmals, bis der Schlüssel übergeben ist, ohne Diskussion.
+Ein Umzug ist genug Stress. Die Wohnungsübergabe sollte es nicht auch noch sein. Wer schon einmal vor einem kritischen Verwalter stand, weiss, wie viel von einer guten Endreinigung abhängt. Wir reinigen so, dass die Abnahme kein Risiko ist. Unsere Abgabegarantie stellt sicher: Sollte die Verwaltung nochmals nachfassen, kommen wir nochmals, bis der Schlüssel übergeben ist, ohne Diskussion.
 
 ### Fensterreinigung Zürich
 
@@ -159,7 +159,7 @@ Saubere Fenster verändern einen Raum mehr, als die meisten erwarten, weil erst 
 
 ### Haus- und Wohnungsreinigung Zürich
 
-Ob regelmässig oder einmalig zu einem besonderen Anlass, wir reinigen dein Zuhause so, dass du nach Hause kommst und nichts mehr zu tun hast.
+Ob einmalig für einen besonderen Anlass oder regelmässig, weil das Leben gerade anderes zu tun hat – wir kommen, reinigen und gehen. Du kommst nach Hause und weisst, dass es sauber ist. Dasselbe Team, das deine Wohnung kennt und nicht jedes Mal von vorne anfängt.
 
 Für Sauberkeit, die bleibt.
 
