@@ -51,3 +51,11 @@ v3 Feedback: Oneliner-Salat aufgelöst, volle eloquente Sätze. Jorge-Abschnitt 
 
 Chirurgische Überarbeitung basierend auf 6 Feedbackpunkten: Hero-Formulierung (Gründung statt "zu Hause"), Jorge-Abschnitt (1. Absatz gestrichen, Bio-Verfahren gekürzt, Abschluss lockerer), Team (faire Entlöhnung/Schulung im Fokus), Werte (kein "Buchhaltung"-Satz, Zuverlässigkeit mit Kontext), Kontakt (kein "zuhört"), Dienstleistungen (Büroreinigung neu, Baureinigung substanzieller, kein Verkehrssicherungspflicht, Fassade ohne Selbstverständlichkeit, Abgabegarantie integriert, Fenster nach User-Formulierung).
 
+
+## 2026-07-23 – Webseitentext v5
+
+**Ausgeführt von:** DungeonMasterAlex
+**Output:** `baia-reinigung-gmbh/outputs/website-text-v5.md` + `Webseitentext-Baia-Reinigung-v5.docx`
+
+Struktur auf 3 Seiten aufgeteilt: Startseite (Onepager), Unternehmensreinigung (B2B), Privatreinigung (B2C). Kampagnen-Slogans aus PM-Brief integriert: Hauptslogan im Hero, "Sauberkeit kann man nicht vortäuschen." in Werte, "Für Sauberkeit, die bleibt." als Abschluss beider Service-Seiten, "Wer Sauberkeit will, braucht nur eine gute Karte." im Kontakt.
+
