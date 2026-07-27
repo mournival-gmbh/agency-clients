@@ -1,0 +1,39 @@
+{
+  "client_id": "6",
+  "client_name": "SEQUOIA Legal & Advisory GmbH",
+  "language": "de",
+  "salutation": "du",
+  "top_n": 6,
+  "min_score": 6,
+  "keywords": [
+    "Vertragsrecht Schweiz",
+    "Rechtsberatung KMU Schweiz",
+    "Legal Projektmanagement Schweiz",
+    "Sportrecht Schweiz",
+    "Vereinsrecht Schweiz",
+    "Baurecht Schweiz",
+    "Immobilienrecht Schweiz",
+    "Prozessführung Schweiz",
+    "Schiedsgerichtsbarkeit Schweiz",
+    "Anwalt Zürich Unternehmen",
+    "Vertragsgestaltung Unternehmen Schweiz",
+    "Konfliktprävention Unternehmen Schweiz"
+  ],
+  "exclude_domains": [
+    "sequoia-legal.ch",
+    "mournival.ch"
+  ],
+  "goals": [
+    "Positionierung als moderne, lösungsorientierte Schweizer Kanzlei für KMU und Organisationen",
+    "Expertise in Legal Projektmanagement sichtbar machen",
+    "Sportrecht-Kompetenz zeigen (Vereine, Verbände, Athleten, Veranstalter)",
+    "Immobilien- und Baurechtskompetenz im Netzwerk etablieren",
+    "Vertrauen als pragmatische, verständliche Alternative zur klassischen Kanzlei aufbauen",
+    "Präventionsgedanken fördern: Konflikte früh erkennen statt eskalieren lassen"
+  ],
+  "commenter_rules": {
+    "david": "Vertragsrecht, Gesellschaftsrecht, Legal Projektmanagement, Finanzmarktrecht, unternehmerische Themen, KMU",
+    "rafael": "Sportrecht, Vereinsrecht, Prozessführung, Schiedsgerichtsbarkeit, Verbände, Athleten",
+    "firmenseite": "Allgemeine Rechtsthemen, Prävention, Immobilien, Baurecht, Kanzlei-News"
+  }
+}
