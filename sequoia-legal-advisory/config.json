@@ -1,0 +1,71 @@
+{
+  "client_id": "6",
+  "client_name": "SEQUOIA Legal & Advisory GmbH",
+  "client_type": "unternehmen",
+  "industry": "Anwaltskanzlei / Rechtsberatung",
+  "website": "",
+  "brand": {
+    "primary_color": "",
+    "secondary_color": "",
+    "fonts": [],
+    "logo_path": "",
+    "claim": "Du brauchst keinen Prozess. Du brauchst einen Plan.",
+    "short_name": "SEQUOIA"
+  },
+  "socials": {
+    "instagram": "",
+    "linkedin": "",
+    "facebook": "",
+    "podcast": "Kaffee & Paragraphen"
+  },
+  "contacts": {
+    "primary": {
+      "name": "David W. Frei",
+      "email": "",
+      "role": "Rechtsanwalt"
+    },
+    "secondary": {
+      "name": "Rafael Brägger",
+      "email": "",
+      "role": "Rechtsanwalt, Dr. iur."
+    },
+    "podcast_host": {
+      "name": "Milena Reinle",
+      "email": "",
+      "role": "Podcast-Host Kaffee & Paragraphen"
+    }
+  },
+  "tone_keywords": [
+    "modern",
+    "direkt",
+    "klar",
+    "präzise",
+    "verständlich",
+    "selbstbewusst",
+    "leicht pointiert",
+    "professionell",
+    "respektvoll"
+  ],
+  "avoid_words": [
+    "Wir kämpfen für dein Recht",
+    "Wir gewinnen deinen Fall",
+    "Kostenlose Erstberatung",
+    "Ihre Interessen sind bei uns in besten Händen",
+    "Kompetent, zuverlässig und professionell",
+    "Massgeschneiderte Lösungen für alle Bedürfnisse",
+    "Ihr starker Partner in allen Rechtsfragen",
+    "Wir gehen die Extrameile",
+    "Rundum-sorglos-Paket",
+    "Erstklassige Rechtsberatung",
+    "Dank unserer langjährigen Expertise",
+    "Wir setzen uns mit Leidenschaft für unsere Mandanten ein"
+  ],
+  "leistungsbereiche": [
+    "Legal Projektmanagement",
+    "Wirtschafts- und Vertragsrecht",
+    "Prozessführung und Schiedsgerichtsbarkeit",
+    "Immobilien- und Baurecht",
+    "Vereinsrecht",
+    "Sportrecht"
+  ]
+}
