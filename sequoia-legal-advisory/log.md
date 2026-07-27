@@ -33,3 +33,5 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 | Datum | Output | Typ | Person | Link |
 | --- | --- | --- | --- | --- |
 | 2026-07-27 | Community Digest | community | DungeonMasterAlex | sequoia-legal-advisory/community/digest-2026-07-27.html |
+
+| 2026-07-27 | Community Digest (Brave Search) | community | DungeonMasterAlex | sequoia-legal-advisory/community/digest-2026-07-27.html |
