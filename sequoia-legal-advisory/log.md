@@ -42,3 +42,7 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 - **Kanäle:** LinkedIn (organisch + paid), Podcast (Captivate + Spotify), Website (GA4), Newsletter
 - **Output:** `sequoia-legal-advisory/reports/sequoia-content-strategie-report-2026.pdf`
 - **Fokus:** Content-Kategorien Performance, zweite Säule Identifikation, Stop-doing-Liste
+## 2026-07-28 — Content-Strategie Report v2 (mit Visualisierungen)
+- **Erstellt von:** DungeonMasterAlex
+- **Output:** `sequoia-legal-advisory/reports/sequoia-content-strategie-report-2026.pdf`
+- **Neuerungen v2:** 8 Daten-Grafiken, erweiterter Umsetzungsplan (8+ Massnahmen), Newsletter-Korrektur (Rework Frühling 26), WM-Staffel-Kontext (Rafael/Ferien)
