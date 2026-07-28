@@ -35,3 +35,10 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 | 2026-07-27 | Community Digest | community | DungeonMasterAlex | sequoia-legal-advisory/community/digest-2026-07-27.html |
 
 | 2026-07-27 | Community Digest (Brave Search) | community | DungeonMasterAlex | sequoia-legal-advisory/community/digest-2026-07-27.html |
+## 2026-07-28 — Kanal-Analyse & Content-Strategie Report
+- **Erstellt von:** DungeonMasterAlex
+- **Workflow:** content-strategy-analysis
+- **Zeitraum:** Aug 2025 – Jul 2026
+- **Kanäle:** LinkedIn (organisch + paid), Podcast (Captivate + Spotify), Website (GA4), Newsletter
+- **Output:** `sequoia-legal-advisory/reports/sequoia-content-strategie-report-2026.pdf`
+- **Fokus:** Content-Kategorien Performance, zweite Säule Identifikation, Stop-doing-Liste
