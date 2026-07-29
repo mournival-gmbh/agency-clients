@@ -1,4 +1,5 @@
-# Strategischer Analyse-Report: SEQUOIA Legal & Advisory GmbH
+# Strategischer Kanal-Analyse-Report
+## SEQUOIA Legal & Advisory GmbH
 **Zeitraum:** August 2025 – Juli 2026
 **Erstellt von:** Mournival GmbH
 
@@ -6,129 +7,123 @@
 
 # 1. Executive Summary
 
-**Der Podcast ist das einzige Asset mit echter Zugkraft.** «Kaffee & Paragraphen» wuchs um 151% auf über 12'000 Downloads und zeigt ein klares Muster: konkrete Fälle und Themen mit direktem Bezug zur Kernzielgruppe (Bau, Immobilien, Unternehmen) performen, generische Sportrecht-Staffeln fallen um bis zu 53% ab. Das Format funktioniert — die Themenwahl muss disziplinierter werden.
+Der Podcast "Kaffee & Paragraphen" ist euer stärkster Asset: +151% Wachstum, ~12'330 Downloads, und ein klares Muster — Gästefolgen mit echten Mandanten und Legislative Updates schlagen alles andere. Die Baurecht-Episode E-115 ist mit 220 Downloads euer Gesamt-Spitzenreiter.
 
-**LinkedIn ist aktiv, aber ineffizient.** SEQUOIA postet mit 231 Beiträgen am meisten aller verglichenen Kanzleien, gewinnt aber nur 128 Follower — Walder Wyss holt bei ähnlichem Volumen 1'852. Die gute Nachricht: Die Engagement-Rate stimmt (bis 23% bei Legal-News). Das Problem ist nicht der Content, sondern die fehlende strategische Fokussierung und die tote Conversion (nur 18 Website-User pro Jahr über LinkedIn).
+Zweitens: Die WM-Staffel S13 performte 50% unter Schnitt. Ursache ist Distribution, nicht Inhalt — Rafael hat keine einzige Episode auf LinkedIn geteilt, dazu Sommerferien. Fixbar.
 
-**Es fehlt eine zweite Säule.** Podcast trägt die Marke, LinkedIn streut sie. Was fehlt, ist ein skalierbares Text-Format, das Fachkompetenz in Google-Sichtbarkeit und konkrete Kontaktanfragen übersetzt. Die Daten zeigen deutlich, welches: strukturierte Fachinhalte entlang der performenden Podcast-Themen.
+Drittens: Auf LinkedIn gewinnen Legal News (13.7% ER) und Team-Content (760 Impr Ø). Humor (6.8%) und Anwaltsalltag (7.7%) ziehen nach unten.
+
+Viertens: Personenpages schlagen Dienstleistungsseiten. "David Frei" hat 1'674 Google-Impressionen bei nur 3.5% CTR auf Position 5–6 — hier liegt reichlich ungenutztes Suchvolumen.
+
+Fünftens: Ihr postet am häufigsten von allen (231 Posts) und wachst am langsamsten (128 Follower). Frequenz ist nicht euer Problem — fehlende SEO-Verankerung und ein Content-Zuhause sind es. Die Lösung ist ein Legal Knowledge Hub auf der Website.
 
 ---
 
 # 2. Podcast: Zugpferd und Beweis
 
-Der Podcast ist der einzige Kanal mit belegbarem Wachstum und echter Bindung.
+## Die Zahlen
+- **~12'330 Downloads** seit August 2023, **+151%** Wachstum (Apr 25 → Mai 26)
+- Plattformen: Spotify 42%, Browser 27%, Apple 17%
+- Geografie: CH 59%, USA 22%, DE 4%
+- Demografie: 85% zwischen 23–44, 52% Frauen — das ist präzise eure KMU-Entscheider-Zielgruppe
 
-**Die Zahlen:**
-- **+151% Wachstum** (483 Downloads Apr 2025 → 1'215 Mai 2026)
-- **12'330 Downloads** in 16 Monaten
-- **59% Schweiz** — die Kernzielgruppe wird direkt erreicht
-- Wiederkehrende Nutzer dominieren → **starke Bindung statt Zufallsreichweite**
-- Alter 28–44 (62.4%) → Entscheider und angehende Entscheider in KMU
+## Was performt – und warum
 
-**Was funktioniert:**
-| Staffel/Thema | Performance | Erkenntnis |
-|---|---|---|
-| Baukonflikte (Jan–Mär 2026) | STARK | Konkretes Problem, klare Zielgruppe |
-| Franchise-Doppelpack (echter Fall) | 381 Downloads | Reale Fälle schlagen Theorie |
-| E-115 Baurecht Update 2026 | 220 (Spitzenwert) | Legislative Updates = Evergreen |
-| Verwaltungsrat besetzen (Gast) | 203 | Gäste mit Praxisbezug ziehen |
+**Gästefolgen mit echtem Mandant/Fall** dominieren. Der Franchise-Doppelpack mit Roman Blaser holte 381 Downloads. Grund: Ein realer Fall ist konkret, nachvollziehbar und emotional greifbar. Er beweist eure Kompetenz, statt sie zu behaupten.
 
-**Was nicht funktioniert:**
-- **WM-Sportrecht-Staffel (Jun–Jul 2026): –32% bis –53%** unter Normalbereich
-- Spotify-Retention fiel auf 0% zum Staffelende
+**Legislative Updates** sind der zweite Motor. E-115 Baurecht ist mit 220 Downloads eure #1 gesamt. Grund: aktueller Anlass + Suchintention + klarer Nutzen. Wer eine Gesetzesänderung versteht, spart Geld.
 
-**Interpretation:** Sportrecht ist ein Leistungsbereich, aber kein Publikums-Magnet. Die Zielgruppe hört SEQUOIA für Themen, die ihren Alltag betreffen: Bau, Immobilien, Verträge, Unternehmensführung. Wiedergabezeit-Spitzenreiter (Baurecht 15.4h, Immobilienkauf 13.1h, Leasing 12.7h) bestätigen das.
+**Beste Staffeln:** S11 Baukonflikte (Ø113/Episode), S10 KI/Prozess (Ø109). Beide bedienen konkrete, aktuelle Schmerzthemen.
 
-**Klare Ableitung:** Weniger Sportrecht im Publikums-Content. Mehr Bau, Immobilien, Vertrags- und Gesellschaftsrecht — vorzugsweise mit echten Fällen und Legislative Updates.
+## WM-Staffel S13 korrekt eingeordnet
+Ø55 Downloads/Episode, 50% unter Schnitt. **Der Inhalt ist nicht das Problem.** Zwei Ursachen:
+1. Rafael, der Hauptgast, hat keine einzige Episode auf LinkedIn geteilt. David teilt konsequent — und Davids Staffeln performen.
+2. Die Staffel lief in den Sommerferien.
 
----
+Das ist ein reines Distributions- und Timing-Problem, kein Content-Problem.
 
-# 3. LinkedIn Content: Was wirklich zieht
-
-231 Posts, 128 neue Follower. Die Aktivität ist hoch, der Ertrag niedrig. Die Kategorien zeigen aber präzise, wo Energie hingehört.
-
-| Kategorie | Ø ER | Ø Impressionen | Bewertung | Empfehlung |
-|---|---|---|---|---|
-| **Legal News/Updates** | 13.7% | 225 | Bester Engagement-Treiber | **Ausbauen** — 2× monatlich fix |
-| Saisonaler Content | 12.1% | 325 | Solide, planbar | Behalten, an Gesetzeszyklen koppeln |
-| Wissensvermittlung (Quiz/Carousel) | 10.8% | 290 | Hohe Save-/Share-Rate | **Ausbauen** — Kernformat |
-| Team/Persönlichkeit | 10.2% | **760** | Reichweiten-Winner | Gezielt für Reichweite, nicht Conversion |
-| Thought Leadership | 9.2% | 240 | Positioniert, aber langsam | Selektiv, an Podcast koppeln |
-| Anwaltsalltag/Positionierung | 7.7% | 227 | Schwächste inhaltliche Kategorie | Reduzieren |
-| Podcast-Promo | 7.3% | 978 (Paid) | Nötig, kein Engagement-Treiber | Beibehalten, nicht überdehnen |
-| Humor | 6.8% | 689 | Reichweite, wenig Tiefe | Sparsam, als Auflockerung |
-
-**Die wichtigste Einzelbeobachtung:** Die höchsten Engagement-Raten kommen von **aktuellen Gesetzesänderungen und Quiz-Mechaniken** — «Transparenzgesetz TJPG» (23.0%), «KI im Recht» (22.6%), «Von der Idee zur Unternehmung» (17.1%). Genau diese Inhalte zahlen direkt auf die Positionierung ein: *Komplexe Rechtslage. Klare nächste Schritte.*
-
-**Der Widerspruch:** Team-Content und Humor holen die grösste Reichweite, aber die niedrigste inhaltliche Bindung. Legal-News holt die höchste Bindung, aber wenig Reichweite. **Konsequenz:** Team-Content als Reichweiten-Türöffner, Legal-News und Quiz als Substanz-Kern. Nicht umgekehrt.
-
-**Das ungelöste Grundproblem:** 231 Posts erzeugen 18 Website-User pro Jahr. LinkedIn baut Marke, konvertiert aber nicht. Das ist kein Content-, sondern ein Kanalarchitektur-Problem — siehe Abschnitt 4.
+## Empfehlung für künftige Staffeln
+- **Mindestens 2 Gästefolgen pro Staffel** mit echtem Mandant/Fall (Anonymisierung klären)
+- **Pro Staffel 1 Legislative-Update-Episode** an ein aktuelles Gesetz koppeln
+- **Verbindliche Distributionsregel:** Jeder Gast teilt seine eigene Episode auf LinkedIn. Kein Post = verschenkte Reichweite. Das ist ab sofort Teil des Briefings.
+- **Kein Staffel-Launch in den Sommer- oder Weihnachtsferien.** WM/EM als Thema ja — aber nicht im Ferienfenster.
 
 ---
 
-# 4. Die zweite Säule: Empfehlung
+# 3. LinkedIn Content: Was funktioniert – was nicht
 
-**Empfehlung: Ein SEO-getriebenes Fachartikel- und Ressourcen-Hub auf der eigenen Website — gespeist aus den performenden Podcast-Themen.**
+| # | Kategorie | Ø ER | Ø Impr | Bewertung | Handlung |
+|---|-----------|------|--------|-----------|----------|
+| 1 | Legal News/Updates | 13.7% | 225 | **Top-Engagement.** Bester ER-Treiber | Ausbauen. Fixer Wochenslot. An Podcast-Updates koppeln |
+| 2 | Saisonaler Content | 12.1% | 325 | Stark, kalendrisch planbar | Redaktionsplan mit Jahresankern (Gesetzestermine, Fristen) |
+| 3 | Wissen Carousel/Quiz | 10.8% | 290 | Hoher ER, gut teilbar (Quiz-Carousel 13.9%) | Format standardisieren, 1×/Woche |
+| 4 | Team/Persönlichkeit | 10.2% | **760** | **Reichweiten-Champion** ("Guess the desk" 1'453 Impr) | Beibehalten. Reichweite gezielt für neue Themen nutzen |
+| 5 | Thought Leadership | 9.2% | 240 | Solide, positionierend (KI-Artikel 22.6% ER) | Direkt in Knowledge Hub überführen (Abschnitt 4) |
+| 6 | Anwaltsalltag/Positionierung | 7.7% | 227 | Unterdurchschnittlich | Reduzieren. Nur wenn konkreter Fall/Nutzen |
+| 7 | Podcast-Promo | 7.3% | **978** | Niedriger ER, aber höchste Reichweite | Als Reichweiten-Hebel behalten, ER nicht überbewerten |
+| 8 | Humor | 6.8% | 689 | Schwächster ER | Deutlich reduzieren. Nur mit klarem Bezug |
 
-## Warum die Daten das erzwingen
+**Highlights:** Transparenzgesetz-Post 23.0% ER, KI-Artikel 22.6% ER — beide beweisen: aktuelles Recht + klare Erklärung = Spitzenwerte.
 
-1. **Google organic ist bereits 32.1% des Traffics** — der zweitstärkste Kanal, ohne dass systematisch dafür gearbeitet wird. Hier liegt ungenutztes Potenzial.
-2. **LinkedIn konvertiert nicht (0.5% Traffic).** Reichweite ohne eigene Plattform bleibt Miete auf fremdem Grund.
-3. **Der Podcast produziert bereits die Substanz.** Jede starke Folge (Baurecht, Immobilienkauf, Leasing, Verträge) ist ein fertiger Artikel-Rohstoff.
-4. **Die Zielgruppe sucht aktiv.** Website-Verweildauer 78 Sekunden zeigt: Leute kommen, finden aber zu wenig Inhalt zum Bleiben.
-5. **David Frei rankt auf Position 5–6** bei seinem eigenen Namen — die Domain-Autorität ist ausbaufähig.
+## LinkedIn Paid korrekt eingeordnet
+Budget ~CHF 1'550. **Die Kampagnen hatten Brand-Awareness- und Video-View-Ziele — nicht Website-Klicks.** Bewertung nach dem richtigen KPI:
 
-## Welches Format
-Strukturierte, suchoptimierte **Fachbeiträge mit klarem Handlungsnutzen** — nicht juristische Aufsätze. Format nach dem bewährten SEQUOIA-Muster: Problem benennen → Relevanz → Zusammenhänge erklären → Handlungsoptionen → nächster Schritt.
+| Kampagne | Ziel | KPI | Resultat | Bewertung |
+|----------|------|-----|----------|-----------|
+| Video-Podcast-Promo | Video Views | View Rate | 29–31% | Solide für B2B |
+| Brand Awareness WM (Jul 26) | Awareness | ER | 15'798 Impr, 9.96% ER | Sehr gut |
+| Job-Posting (Jul 26) | Recruiting | ER | 14.27% ER | Ausnahme, kein BD |
 
-## Welche Themen (datenbasiert priorisiert)
-1. **Baurecht & Bauprozesse** (stärkste Podcast-Staffel, Top-Wiedergabezeit)
-2. **Immobilien- und Gewerbemietrecht** (E-102 Immobilienkauf, E-109 Leasing)
-3. **Verträge für die Realität** (Vertragsrecht-Quiz = 13.9% ER)
-4. **Gesellschaftsrecht/Unternehmensgründung** («Von der Idee zur Unternehmung» = 17.1%)
-5. **Aktuelle Gesetzesänderungen** (höchste ER aller Formate)
-
-Sportrecht bleibt Fachexpertise, aber nicht im Content-Fokus.
-
-## Warum das zur Positionierung passt
-«Legal As A Service» und «Growing together» leben von **wiederkehrendem, zugänglichem Nutzen statt einmaligem Mandat**. Ein Ressourcen-Hub ist die logische Übersetzung des Claims *«Du brauchst keinen Prozess. Du brauchst einen Plan.»* — er liefert Orientierung, bevor das Problem eskaliert. Präventive Beratung als Inhalt, nicht als Versprechen. Damit wächst SEQUOIA mit dem Publikum: erst Leser, dann Podcast-Hörer, dann Mandant.
-
-## Konkrete Umsetzung (5 Massnahmen)
-1. **Podcast-zu-Artikel-Pipeline:** Jede starke Folge wird zu einem suchoptimierten Beitrag (Aufwand niedrig, Substanz vorhanden). Ziel: 2 Artikel/Monat.
-2. **Themen-Cluster aufbauen:** Baurecht, Immobilien, Verträge als drei Content-Hubs mit interner Verlinkung — für Domain-Autorität und Ranking.
-3. **Legal-Update-Serie:** Gesetzesänderungen als Artikel + LinkedIn-Post + Podcast-Erwähnung parallel (bester Content über alle Kanäle).
-4. **Konversions-Brücke:** Jeder Artikel endet mit einem konkreten CTA («Situation besprechen», «Projekt besprechen») — schliesst die Lücke, die LinkedIn offenlässt.
-5. **Checklisten & Downloads:** Praxis-Tools (z.B. «Was gehört in einen Bauvertrag?») als Lead-Anlass — passt zum Quiz-Erfolg auf LinkedIn.
+**Fazit:** Paid ist ein sinnvoller Reichweiten-Hebel für Podcast-Content — wenn nach Video View Rate und Impressionen bewertet, nicht nach Klicks. Weiterführen mit klarem Video-View-Ziel.
 
 ---
 
-# 5. Was zu stoppen ist
+# 4. Die zweite Säule: Legal Knowledge Hub
 
-**LinkedIn Paid für Website-Traffic.** Video-Kampagnen brachten 10 Klicks auf CHF 100. Das ist verbranntes Budget. Job-Postings und Carousels boosten funktioniert — Traffic-Videos nicht.
+Ihr postet 231-mal im Jahr und wachst um 128 Follower. LinkedIn-Content verpufft nach 48 Stunden. Was fehlt, ist ein dauerhaftes Content-Zuhause, das Google findet.
 
-**Der LinkedIn Newsletter in aktueller Form.** 49 Netto-Abonnenten in 12 Monaten, kein Wachstum. Kein skalierender Kanal. Entweder in den geplanten Website-Newsletter integrieren oder einstellen. Doppelte Pflege lohnt nicht.
+## Die Empfehlung: Eine SEO-optimierte Wissensbasis auf der Website
+Ein Blog/Guide-Bereich, der Recht verständlich erklärt — verankert in eurer Positionierung "Du brauchst keinen Prozess. Du brauchst einen Plan."
 
-**Sportrecht-Staffeln als Publikums-Content.** –53% Performance. Sportrecht bleibt Leistungsangebot, gehört aber nicht in die reichweitenstärksten Content-Slots.
+### So funktioniert der Hub
+1. **Podcast → Artikel.** Nach jeder Staffel werden die stärksten Episoden in SEO-fähige Guides umgewandelt. E-115 Baurecht (220 Downloads) wird zum Baurecht-Guide. Der Aufwand für den Inhalt ist bereits geleistet — es fehlt nur die Verschriftlichung.
+2. **David Frei nach oben.** "david frei" bringt 1'674 Google-Impressionen bei 3.5% CTR auf Position 5–6. Bei Position 1–2 wären das ein Vielfaches an Klicks. Personenpages schlagen bei euch bereits die Dienstleistungsseiten (David 692 Views, Rafael 545). Autoren-Profile mit Fachartikeln verstärken genau diesen Effekt.
+3. **Newsletter als Distribution.** Der LinkedIn Newsletter (nach Rework +87%, Ø 265 Views/Monat, stetig wachsend) verteilt die Hub-Inhalte. **Er ist Distribution, kein eigenständiger Content-Kanal.**
+4. **LinkedIn als Amplifier.** Jeder Guide wird als Carousel, Legal-News-Post oder Quiz angeteasert — genau die Formate mit dem höchsten ER (13.7% / 10.8%).
+5. **Positionierung im Web verankern.** "Recht muss nicht kompliziert sein" lebt dort, wo Menschen suchen — nicht nur im Feed.
 
-**Reine Anwaltsalltags-Posts (7.7% ER).** Schwächste inhaltliche Kategorie. Die Energie gehört in Legal-News und Wissensformate.
+### Warum das die Follower-Frage löst
+Ihr braucht nicht mehr Posts. Ihr braucht Inhalte, die nach Tag 2 weiterarbeiten. Der Hub macht aus flüchtigem LinkedIn-Content dauerhaftes Google-Ranking.
 
-**Das Giesskannen-Prinzip auf LinkedIn.** 231 Posts ohne Fokus schlagen nicht mehr Follower, sie verwässern. Weniger Posts, mehr Substanz in den drei Top-Kategorien.
+---
+
+# 5. Was zu stoppen oder zu reduzieren ist
+
+- **Humor-Content ohne Bezug reduzieren.** 6.8% ER — der schwächste Wert. Nur mit klarem Fall- oder Themenbezug.
+- **Anwaltsalltag/Positionierung ohne Nutzen reduzieren.** 7.7% ER, 227 Impr. Belanglose Einblicke ziehen den Kanal runter.
+- **Content-Menge um der Menge willen stoppen.** 231 Posts, 128 Follower — Homburger holt mit 76 Posts 1'409 Follower. Frequenz ist nicht euer Hebel. Qualität und SEO sind es.
+- **Podcast-Distribution nicht mehr dem Zufall überlassen.** Rafaels Null-Sharing bei S13 kostete 50% Reichweite. Das darf sich nicht wiederholen.
+- **Paid nicht nach Klicks bewerten.** Die Kampagnen waren Awareness/Video — sie an Website-Klicks zu messen, ist der falsche KPI. Aufhören damit.
 
 ---
 
-# 6. Nächste Schritte
+# 6. Umsetzungsplan: Nächste Schritte
 
-1. **Podcast-Themenplan schärfen (sofort):** Bau, Immobilien, Verträge, Gesellschaftsrecht ins Zentrum. Echte Fälle und Legislative Updates priorisieren. Sportrecht dosieren.
-
-2. **Podcast-zu-Artikel-Pipeline starten (Monat 1):** Erste 3 Beiträge aus den Top-Folgen (Baurecht, Immobilienkauf, Leasing) suchoptimiert auf die Website.
-
-3. **LinkedIn auf Top-3-Kategorien fokussieren (Monat 1):** Legal-News, Quiz/Carousel, Team-Content. Posting-Frequenz senken, Qualität heben.
-
-4. **LinkedIn Paid umschichten (Monat 1):** Budget weg von Traffic-Videos, hin zu geboosteten Carousels und Legal-Updates mit belegter Performance.
-
-5. **Konversions-Brücke bauen (Monat 2):** Klare CTAs auf allen Website-Artikeln, David Freis Ranking-Problem (Position 5–6) über eigene Autorenseite und interne Verlinkung angehen.
-
-6. **Content-Hub-Struktur aufsetzen (Monat 2–3):** Drei Themen-Cluster mit erster Checkliste als Lead-Magnet. Messpunkt nach 90 Tagen: Google-organic-Anteil und Anfragen über Website.
+| # | Massnahme | Verantwortlich | Frequenz & Timeline | KPI / Resultat | Priorität |
+|---|-----------|----------------|---------------------|----------------|-----------|
+| 1 | **Distributionsregel Podcast:** Jeder Gast teilt seine Episode auf LinkedIn, verbindlicher Teil des Briefings | Milena + Team | Ab sofort, laufend | Keine Staffel mehr unter Schnitt durch Nicht-Sharing | **SOFORT** |
+| 2 | **David-Frei-Personenpage SEO-optimieren:** Titel, Meta, strukturierte Daten, Autorenbereich, Verlinkung | Alex | Q3 2026 | CTR "david frei" von 3.5% auf >8%, Position 5→2 | **SOFORT** |
+| 3 | **Legal Knowledge Hub aufsetzen:** Blog-Struktur, Templates, SEO-Basis auf der Website | Alex + Livia | Q3 2026 (Setup), ab Q4 laufend | Live bis Ende Q3, 4 Guides bis Ende Q4 | **SOFORT** |
+| 4 | **E-115 Baurecht als ersten Guide verschriftlichen** (Top-Episode → Top-Artikel) | Alex | Q3 2026 | 1. Ranking-Artikel, organische Impr messbar in 90 Tagen | **SOFORT** |
+| 5 | **Wochenslot Legal News/Updates auf LinkedIn** (bester ER-Treiber, 13.7%) | Livia + Rafael/David (Fachinput) | 1×/Woche, ab sofort laufend | Ø ER >12% halten | **SOFORT** |
+| 6 | **Quiz-/Wissens-Carousel als fixes Format** (13.9% ER Spitzenwert) | Livia | 1×/Woche, ab Q3 2026 | Ø ER >10%, Save-Rate steigern | MITTEL |
+| 7 | **Nächste Staffel: min. 2 Mandanten-Gästefolgen + 1 Legislative Update**, kein Ferien-Launch | Milena + Partner | Planung Q3, Launch Q4 2026 | Ø Downloads/Episode über bisherigem Schnitt (>110) | MITTEL |
+| 8 | **Newsletter als Hub-Distribution verankern:** jede neue Guide-Veröffentlichung geht in den Newsletter | Alex | Laufend, ab Q4 2026 | Ø Views >300/Monat, Klick-Rate auf Guides messbar | MITTEL |
+| 9 | **Paid gezielt für Podcast-Video-Promo** mit Video-View-Ziel (nicht Klicks) | Alex + Milena | Pro Staffel-Launch, ab Q4 2026 | View Rate >29% halten | MITTEL |
+| 10 | **Post-Volumen senken, Qualität heben:** Redaktionsplan mit Fokus Top-3-Kategorien, Humor/Anwaltsalltag reduzieren | Livia + Alex | Ab Q3 2026, laufend | Weniger Posts, höhere Ø ER, Follower-Wachstum >Vorjahr | MITTEL |
+| 11 | **Rafael-Sichtbarkeit aufbauen:** eigene Personenpage-Optimierung + aktives LinkedIn-Sharing (Sport-/Baurecht) | Rafael + Alex | Q4 2026 | Rafael-Page-Views steigern, eigene Themen-Reichweite | SPÄTER |
+| 12 | **Quartals-Review Kanäle:** Podcast, LinkedIn, Hub, Website gegen KPIs prüfen | Alex + Milena | 1×/Quartal, ab Q4 2026 | Datenbasierte Nachsteuerung dokumentiert | SPÄTER |
 
 ---
-*Report erstellt durch Mournival GmbH — Fragen und nächste Schritte besprechen wir direkt.*
+
+*Erstellt von Mournival GmbH — deine Marketing-Abteilung, ohne Overhead.*
