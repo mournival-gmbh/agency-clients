@@ -1,0 +1,47 @@
+name: Weekly Dropbox Backup
+
+on:
+  schedule:
+    - cron: '0 2 * * 0'
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf << RCLONE
+          [dropbox]
+          type = dropbox
+          client_id = ${{ secrets.DROPBOX_APP_KEY }}
+          client_secret = ${{ secrets.DROPBOX_APP_SECRET }}
+          token = {"access_token":"","token_type":"bearer","refresh_token":"${{ secrets.DROPBOX_REFRESH_TOKEN }}","expiry":"0001-01-01T00:00:00Z"}
+          RCLONE
+
+      - name: Create archive
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          REPO=$(basename $GITHUB_REPOSITORY)
+          git archive --format=zip HEAD > /tmp/${REPO}-${DATE}.zip
+          echo "FILE=/tmp/${REPO}-${DATE}.zip" >> $GITHUB_ENV
+          echo "NAME=${REPO}-${DATE}.zip" >> $GITHUB_ENV
+
+      - name: Upload to Dropbox
+        run: rclone copy ${{ env.FILE }} dropbox: --dropbox-chunk-size 150M
+
+      - name: Remove old backups (keep 5)
+        run: |
+          REPO=$(basename $GITHUB_REPOSITORY)
+          rclone lsf dropbox: --files-only | grep "^${REPO}-" | sort -r | tail -n +6 | while read f; do
+            rclone delete "dropbox:${f}"
+          done
