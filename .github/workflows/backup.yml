@@ -24,27 +24,39 @@ jobs:
           DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         run: |
           mkdir -p ~/.config/rclone
-          {
-            echo "[dropbox]"
-            echo "type = dropbox"
-            echo "client_id = $DROPBOX_APP_KEY"
-            echo "client_secret = $DROPBOX_APP_SECRET"
-            echo "token = {\"access_token\":\"\",\"token_type\":\"bearer\",\"refresh_token\":\"$DROPBOX_REFRESH_TOKEN\",\"expiry\":\"0001-01-01T00:00:00Z\"}"
-          } > ~/.config/rclone/rclone.conf
+          python3 -c "
+          import os, json
+          token = json.dumps({
+            'access_token': '',
+            'token_type': 'bearer',
+            'refresh_token': os.environ['DROPBOX_REFRESH_TOKEN'],
+            'expiry': '0001-01-01T00:00:00Z'
+          })
+          cfg = '[dropbox]\ntype = dropbox\nclient_id = {}\nclient_secret = {}\ntoken = {}\n'.format(
+            os.environ['DROPBOX_APP_KEY'],
+            os.environ['DROPBOX_APP_SECRET'],
+            token
+          )
+          open(os.path.expanduser('~/.config/rclone/rclone.conf'), 'w').write(cfg)
+          print('rclone config written')
+          "
 
       - name: Create archive
         run: |
           DATE=$(date +%Y-%m-%d)
           REPO=$(basename $GITHUB_REPOSITORY)
           git archive --format=zip HEAD > /tmp/${REPO}-${DATE}.zip
-          echo "FILE=/tmp/${REPO}-${DATE}.zip" >> $GITHUB_ENV
+          echo "BACKUP_FILE=/tmp/${REPO}-${DATE}.zip" >> $GITHUB_ENV
           echo "REPO_NAME=${REPO}" >> $GITHUB_ENV
 
       - name: Upload to Dropbox
-        run: rclone copy "$FILE" dropbox: --dropbox-chunk-size 150M
+        run: |
+          rclone copy "$BACKUP_FILE" dropbox: --dropbox-chunk-size 150M
+          echo "Uploaded $BACKUP_FILE to Dropbox"
 
       - name: Remove old backups (keep 5)
         run: |
           rclone lsf dropbox: --files-only | grep "^${REPO_NAME}-" | sort -r | tail -n +6 | while read f; do
+            echo "Deleting old backup: $f"
             rclone delete "dropbox:${f}"
           done
