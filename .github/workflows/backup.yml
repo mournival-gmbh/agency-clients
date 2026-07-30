@@ -18,15 +18,19 @@ jobs:
         run: curl https://rclone.org/install.sh | sudo bash
 
       - name: Configure rclone
+        env:
+          DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
+          DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
+          DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         run: |
           mkdir -p ~/.config/rclone
-          cat > ~/.config/rclone/rclone.conf << RCLONE
-          [dropbox]
-          type = dropbox
-          client_id = ${{ secrets.DROPBOX_APP_KEY }}
-          client_secret = ${{ secrets.DROPBOX_APP_SECRET }}
-          token = {"access_token":"","token_type":"bearer","refresh_token":"${{ secrets.DROPBOX_REFRESH_TOKEN }}","expiry":"0001-01-01T00:00:00Z"}
-          RCLONE
+          {
+            echo "[dropbox]"
+            echo "type = dropbox"
+            echo "client_id = $DROPBOX_APP_KEY"
+            echo "client_secret = $DROPBOX_APP_SECRET"
+            echo "token = {\"access_token\":\"\",\"token_type\":\"bearer\",\"refresh_token\":\"$DROPBOX_REFRESH_TOKEN\",\"expiry\":\"0001-01-01T00:00:00Z\"}"
+          } > ~/.config/rclone/rclone.conf
 
       - name: Create archive
         run: |
@@ -34,14 +38,13 @@ jobs:
           REPO=$(basename $GITHUB_REPOSITORY)
           git archive --format=zip HEAD > /tmp/${REPO}-${DATE}.zip
           echo "FILE=/tmp/${REPO}-${DATE}.zip" >> $GITHUB_ENV
-          echo "NAME=${REPO}-${DATE}.zip" >> $GITHUB_ENV
+          echo "REPO_NAME=${REPO}" >> $GITHUB_ENV
 
       - name: Upload to Dropbox
-        run: rclone copy ${{ env.FILE }} dropbox: --dropbox-chunk-size 150M
+        run: rclone copy "$FILE" dropbox: --dropbox-chunk-size 150M
 
       - name: Remove old backups (keep 5)
         run: |
-          REPO=$(basename $GITHUB_REPOSITORY)
-          rclone lsf dropbox: --files-only | grep "^${REPO}-" | sort -r | tail -n +6 | while read f; do
+          rclone lsf dropbox: --files-only | grep "^${REPO_NAME}-" | sort -r | tail -n +6 | while read f; do
             rclone delete "dropbox:${f}"
           done
