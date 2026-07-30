@@ -17,30 +17,6 @@ jobs:
       - name: Install rclone
         run: curl https://rclone.org/install.sh | sudo bash
 
-      - name: Configure rclone
-        env:
-          DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
-          DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
-          DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
-        run: |
-          mkdir -p ~/.config/rclone
-          python3 -c "
-          import os, json
-          token = json.dumps({
-            'access_token': '',
-            'token_type': 'bearer',
-            'refresh_token': os.environ['DROPBOX_REFRESH_TOKEN'],
-            'expiry': '0001-01-01T00:00:00Z'
-          })
-          cfg = '[dropbox]\ntype = dropbox\nclient_id = {}\nclient_secret = {}\ntoken = {}\n'.format(
-            os.environ['DROPBOX_APP_KEY'],
-            os.environ['DROPBOX_APP_SECRET'],
-            token
-          )
-          open(os.path.expanduser('~/.config/rclone/rclone.conf'), 'w').write(cfg)
-          print('rclone config written')
-          "
-
       - name: Create archive
         run: |
           DATE=$(date +%Y-%m-%d)
@@ -49,13 +25,18 @@ jobs:
           echo "BACKUP_FILE=/tmp/${REPO}-${DATE}.zip" >> $GITHUB_ENV
           echo "REPO_NAME=${REPO}" >> $GITHUB_ENV
 
-      - name: Upload to Dropbox
+      - name: Upload to Dropbox and cleanup
+        env:
+          DROPBOX_APP_KEY: ${{ secrets.DROPBOX_APP_KEY }}
+          DROPBOX_APP_SECRET: ${{ secrets.DROPBOX_APP_SECRET }}
+          DROPBOX_REFRESH_TOKEN: ${{ secrets.DROPBOX_REFRESH_TOKEN }}
         run: |
+          export RCLONE_CONFIG_DROPBOX_TYPE=dropbox
+          export RCLONE_CONFIG_DROPBOX_CLIENT_ID="$DROPBOX_APP_KEY"
+          export RCLONE_CONFIG_DROPBOX_CLIENT_SECRET="$DROPBOX_APP_SECRET"
+          export RCLONE_CONFIG_DROPBOX_TOKEN=$(python3 -c "import os,json,sys; sys.stdout.write(json.dumps({'access_token':'','token_type':'bearer','refresh_token':os.environ['DROPBOX_REFRESH_TOKEN'],'expiry':'2020-01-01T00:00:00Z'},separators=(',',':')))")
           rclone copy "$BACKUP_FILE" dropbox: --dropbox-chunk-size 150M
-          echo "Uploaded $BACKUP_FILE to Dropbox"
-
-      - name: Remove old backups (keep 5)
-        run: |
+          echo "Uploaded $BACKUP_FILE"
           rclone lsf dropbox: --files-only | grep "^${REPO_NAME}-" | sort -r | tail -n +6 | while read f; do
             echo "Deleting old backup: $f"
             rclone delete "dropbox:${f}"
