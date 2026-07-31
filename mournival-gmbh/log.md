@@ -9,3 +9,4 @@ Dieses Protokoll wird automatisch durch `run_workflow.py` befüllt. Es dokumenti
 | 2026-07-21 | Weekly Tasks Email – 2026-W31 | email-versand | DungeonMasterAlex | — |
 | 2026-07-22 | Weekly Tasks Email – 2026-W31 | email-versand | DungeonMasterAlex | — |
 | 2026-07-24 | Weekly Tasks Email – 2026-W31 | email-versand | DungeonMasterAlex | — |
+| 2026-07-31 | Weekly Tasks Email – 2026-W32 | email-versand | DungeonMasterAlex | — |
