@@ -59,3 +59,9 @@ Chirurgische Überarbeitung basierend auf 6 Feedbackpunkten: Hero-Formulierung (
 
 Struktur auf 3 Seiten aufgeteilt: Startseite (Onepager), Unternehmensreinigung (B2B), Privatreinigung (B2C). Kampagnen-Slogans aus PM-Brief integriert: Hauptslogan im Hero, "Sauberkeit kann man nicht vortäuschen." in Werte, "Für Sauberkeit, die bleibt." als Abschluss beider Service-Seiten, "Wer Sauberkeit will, braucht nur eine gute Karte." im Kontakt.
 
+
+## 10.08.2026 — Dust Busters Kampagnenkonzept
+**Von:** DungeonMasterAlex
+**Aktion:** Vollständiges technisches Kampagnenkonzept erstellt (Captions, CTA, Newsletter, Zielgruppe, Budget, Laufzeit, LinkedIn-Postings)
+**Kampagne:** Dust Busters – Die Endreinigung kann kommen
+**Start:** Anfang September 2026, Peak Ende Oktober 2026
