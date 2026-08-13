@@ -171,12 +171,14 @@ Typische Themen:
 
 - Klare, reduzierte Gestaltung mit starken Kontrasten
 - Hochwertige Typografie
-- Gerichts-/Courtroom-Sketch-Ästhetik als wiederkehrendes Element
-- **Nicht:** Händeschütteln bei Vertragsunterzeichnung, Richterhämmer, Justitia-Statuen, übermässige Paragraphenzeichen, inszenierte Sitzungsszenen
+- Gerichts-/Courtroom-Sketch-Ästhetik als zentrales, wiederkehrendes Stilelement
+- Klassische Rechtssymbolik (Richterhammer, Justitia, Paragraphenzeichen, Händeschütteln) ist erlaubt — aber nie als Klischee. Diese Bilder werden mit Haltung eingesetzt: mit Ironie, Schärfe oder als bewusstes Statement. Nicht als Dekoration.
+- Der Fokus liegt auf einem eigenständigen visuellen Stil, der durch die Sketch-Ästhetik getragen wird — klassische Symbole ergänzen diesen Stil, dominieren ihn aber nicht.
 
 ---
 
 ## Audience Insights
+- 2026-08-13 Visuelle Bildwelt korrigiert: Rechtssymbolik nicht grundsätzlich vermeiden, sondern mit Haltung einsetzen. Courtroom-Sketch-Ästhetik bleibt zentrales Stilelement. [DungeonMasterAlex]
 - 2026-07-27 Brand Intake abgeschlossen — vollständige Markendokumentation vorhanden
 - 2026-07-27 Primäre Zielgruppe: Schweizer KMU, Immobilieneigentümer, Vereine/Verbände, Sportorganisationen
 
