@@ -54,3 +54,12 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 - **Erstellt von:** DungeonMasterAlex
 - **Korrekturen:** Zweite Säule = Legal Knowledge Hub, Paid korrekt bewertet, weisse Tabellenheader, 9 Grafiken
 - **Output:** `sequoia-legal-advisory/reports/sequoia-content-strategie-report-2026.pdf`
+
+## 2026-08-24 — LinkedIn Performance Report: David W. Frei
+- **Erstellt von:** DungeonMasterAlex
+- **Workflow:** linkedin-report
+- **Zeitraum:** 27.05.2026 – 24.08.2026 (90 Tage)
+- **Kanal:** LinkedIn (David W. Frei, Personal Branding)
+- **Kennzahlen:** 59'116 Impressionen, 20'874 erreichte Mitglieder, 965 Engagements (Ø ER 1.63%), 3'181 Follower (+106 im Zeitraum)
+- **Kernbefunde:** Persoenliche/nahbare Posts ("Hunde im Buero", vegane Ernaehrung) performen staerker als reine Fachinhalte; Bau-/Immobilienrecht-Zielgruppe in Follower-Basis unterrepraesentiert; Sportrecht/Vereinsrecht-Zielgruppe ueber diesen Kanal aktuell nicht sichtbar erreicht
+- **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md)
