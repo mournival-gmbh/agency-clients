@@ -63,3 +63,14 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 - **Kennzahlen:** 59'116 Impressionen, 20'874 erreichte Mitglieder, 965 Engagements (Ø ER 1.63%), 3'181 Follower (+106 im Zeitraum)
 - **Kernbefunde:** Persoenliche/nahbare Posts ("Hunde im Buero", vegane Ernaehrung) performen staerker als reine Fachinhalte; Bau-/Immobilienrecht-Zielgruppe in Follower-Basis unterrepraesentiert; Sportrecht/Vereinsrecht-Zielgruppe ueber diesen Kanal aktuell nicht sichtbar erreicht
 - **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md)
+
+## 2026-08-24 — LinkedIn Report David W. Frei: Update v2 (Post-Inhalte + Kommentare verifiziert)
+- **Erstellt von:** DungeonMasterAlex
+- **Anlass:** Nutzer lieferte zusaetzliche Rohdaten (Post-Volltexte 'Rich_Media.csv', Kommentar-Export 'Comments_4528467.csv') zur Verifikation der Top-Posts-Analyse
+- **Korrekturen ggue. v1:**
+  - Post-Themen der Top-Posts nicht mehr aus URL-Slugs geschaetzt, sondern mit echten Volltexten und Zitaten belegt (u.a. Sprache-Post 13.08., Hunde-Post 30.06., KI-Post 18.06.)
+  - Monatsvergleich von Totalen auf Tagesdurchschnitte umgestellt, da Mai im Datensatz nur 5 von 31 Tagen abdeckt (Export beginnt 27.05.) — verhindert irrefuehrenden Eindruck 'Juni war X-mal staerker'; auf Tagesbasis hatte der Mai-Ausschnitt sogar die hoechste Reichweite/Tag (Nachwirkung viraler Vegan-Post)
+  - Neue Erkenntnis aus Kommentaren: David kuendigte im Kommentarverlauf selbst einen Folge-Post zur EU-KI-Verordnung an — als Empfehlung 1 uebernommen
+  - Neue Beobachtung: Calendly-Buchungslinks (frueher Standard-CTA 2023-2025) fehlen im aktuellen Berichtszeitraum vollstaendig — als Empfehlung ergaenzt
+  - Zazou/Nala als seit 2020 durchgaengiges Markenelement bestaetigt (nicht nur Einzelpost)
+- **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md), Dateien ueberschrieben
