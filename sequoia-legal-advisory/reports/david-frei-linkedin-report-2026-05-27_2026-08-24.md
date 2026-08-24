@@ -1,6 +1,6 @@
 # LinkedIn Performance Report — David W. Frei (SEQUOIA Legal & Advisory)
 
-**Zeitraum:** 27.05.2026 – 24.08.2026 (90 Tage) · **Erstellt am:** 24.08.2026 · **Erstellt von:** DungeonMasterAlex · **Datenquelle:** LinkedIn Analytics Export (manuell)
+**Zeitraum:** 27.05.2026 – 24.08.2026 (90 Tage) · **Erstellt am:** 24.08.2026 · **Erstellt von:** DungeonMasterAlex · **Datenquelle:** LinkedIn Analytics Export + Post-Volltexte + Kommentar-Export (manuell)
 
 ---
 
@@ -8,9 +8,11 @@
 
 Im Zeitraum 27.05.–24.08.2026 (90 Tage) erzielte der LinkedIn-Auftritt von David W. Frei 59'116 Impressionen, 20'874 erreichte Mitglieder und 965 Interaktionen (Ø Engagement Rate 1.63%). Die Followerbasis wuchs von rund 3'075 auf 3'181 (+106, +3.4%).
 
-Zwei Beiträge trugen überproportional zum Ergebnis bei: der persönliche Post «Hunde im Büro» (168 Interaktionen, stärkster Post im Zeitraum) und «Früher war die juristische Beratung...» (8'693 Impressionen, stärkste Reichweite). An den drei stärksten Tagen (30.06., 13.–14.08.) fielen 13% der Impressionen und 26% der Engagements an – ohne diese Ausreisser liegt die tägliche Grundlast bei rund 590 Impressionen und 8 Interaktionen.
+Zwei Beiträge trugen überproportional zum Ergebnis bei: «Hunde im Büro — ein Evergreen» (30.06., 168 Interaktionen, stärkster Post im Zeitraum, mit Bürohunden Zazou und Nala) und ein Beitrag über die Abkehr von komplizierter Juristensprache (13.08., 8'693 Impressionen, stärkste Reichweite). Beide sind keine Zufallstreffer: Die Diskussionen in den Kommentarspalten zeigen, dass sie exakt die Markenkern-Aussagen aus dem Kundenprofil bestätigen — «verständliche Kommunikation» und «Nahbarkeit» werden vom Publikum aktiv eingefordert und honoriert, nicht nur passiv konsumiert.
 
-Persönliche, nahbare Themen performen konstant am stärksten. Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert.
+Auf Tagesbasis zeigt sich ein wichtiger Befund: Der (nur 5-tägige) Mai-Ausschnitt hatte mit Ø 1'401 Impressionen/Tag sogar den höchsten Wert aller Monate — getrieben durch die Nachwirkung des viralen Vegan-Posts vom 19.05. Juni bis August liegen bei Ø 520–708 Impressionen/Tag und einer stabilen Engagement Rate von 1.66–1.81%. Ein einfacher Monatsvergleich der Totale wäre wegen der Tagesanzahl-Differenz irreführend; erst auf Tagesbasis wird das Bild verlässlich.
+
+Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert. Auffällig zusätzlich: Frühere, konsequent gesetzte Call-to-Actions (Calendly-Buchungslinks) fehlen im aktuellen Berichtszeitraum vollständig — ein Unterschied zum historischen Content-Muster.
 
 ---
 
@@ -28,39 +30,48 @@ Persönliche, nahbare Themen performen konstant am stärksten. Die Zielgruppe st
 | Ø Engagement Rate (Engagements / Impressionen) | 1.63% |
 | Beiträge mit Analytics im Zeitraum | 34 |
 
-**Monatsverlauf** (Mai nur teilweise erfasst, ab 27.05.):
+**Monatsverlauf — auf Tagesbasis (Totale sind wegen unterschiedlicher Tagesanzahl nicht direkt vergleichbar):**
 
-| Monat | Impressionen | Engagements | Engagement Rate | Neue Follower |
-|---|---|---|---|---|
-| Mai (ab 27.05.) | 7'007 | 50 | 0.71% | 3 |
-| Juni | 18'988 | 341 | 1.80% | 26 |
-| Juli | 16'118 | 292 | 1.81% | 41 |
-| August (bis 24.08.) | 17'003 | 282 | 1.66% | 36 |
+| Monat | Tage erfasst | Ø Impressionen/Tag | Ø Engagements/Tag | Engagement Rate | Neue Follower |
+|---|---|---|---|---|---|
+| Mai (nur 27.–31.05., 5 Tage) | 5 | 1'401 | 10.0 | 0.71% | 3 |
+| Juni (voller Monat) | 30 | 633 | 11.4 | 1.80% | 26 |
+| Juli (voller Monat) | 31 | 520 | 9.4 | 1.81% | 36 |
+| August (bis 24.08., 24 Tage) | 24 | 708 | 11.8 | 1.66% | 36 |
 
-Die Engagement Rate hat sich von Mai zu Juni mehr als verdoppelt und sich seither auf einem Niveau von 1.6–1.8% stabilisiert. Das Followerwachstum ist im Juli/August am stärksten.
+**Wichtiger Hinweis zu Mai:** Das zugrunde liegende Analytics-Export beginnt erst am 27.05.2026 — Daten für den 1.–26.05. liegen nicht vor und wurden nicht geschätzt. Ein Vergleich der Monats-*Totale* (z. B. «Juni war X-mal stärker als Mai») wäre daher irreführend, weil Mai nur 5 von 31 Tagen abdeckt. Auf Tagesbasis zeigt sich: Mai hatte im erfassten Fünf-Tage-Fenster die höchste Ø-Reichweite/Tag — bedingt durch die auslaufende Viralität des Vegan-Posts vom 19.05., nicht durch neue Beiträge in diesem Fenster. Juni bis August sind vollständig erfasst und direkt vergleichbar: Die Engagement Rate ist dort stabil bei 1.66–1.81%, die Ø Engagements/Tag schwanken zwischen 9.4 (Juli) und 11.8 (August). Für belastbare Monatsvergleiche sollte künftig immer auf Tagesdurchschnitte statt Totale abgestellt werden.
 
 ---
 
 ## 3. Top-Posts Analyse
 
+Dank Abgleich mit den Post-Volltexten und dem Kommentar-Export lassen sich die Top-Posts jetzt inhaltlich statt nur anhand von Kennzahlen beurteilen.
+
 Die fünf Beiträge mit den höchsten Impressionen im Zeitraum:
 
-| Datum | Thema (aus Post-Titel) | Impressionen | Engagements |
+| Datum | Post-Inhalt (verifiziert) | Impressionen | Engagements |
 |---|---|---|---|
-| 13.08.2026 | «Früher war die juristische Beratung...» | 8'693 | 151 |
-| 19.05.2026 | «Ich ernähre mich vegan...» (evergreen, Reichweite im Zeitraum) | 5'401 | 30 |
-| 30.06.2026 | «Hunde im Büro — ein Evergreen» | 4'311 | 168 |
-| 18.06.2026 | «Du hast Claude gefragt...» | 3'992 | 42 |
-| 02.06.2026 | «Meine Mutter hat kürzlich...» | 3'059 | 25 |
+| 13.08.2026 | «Früher war [Juristensprache] eine Kunst» — Plädoyer für einfache statt verschachtelte Anwaltssprache | 8'693 | 151 |
+| 19.05.2026 | «Ich ernähre mich vegan...» — persönliche Werte & Konsequenz (publiziert vor dem Zeitraum, Reichweite läuft im Zeitraum weiter) | 5'401 | 30 |
+| 30.06.2026 | «Hunde im Büro — ein Evergreen» — mit Bürohunden Zazou & Nala | 4'311 | 168 |
+| 18.06.2026 | KI/Rechtsberatung im Vergleich («Deine KI-Analyse als Ausgangspunkt: Sehr gut. Eine kurze Einschätzung durch einen erfahrenen Juristen dazu: Besser.») | 3'992 | 42 |
+| 16.07.2026 | «Ein Baumangel ist selten nur ein Baumangel» — Dokumentationspflicht am Bau | 2'840 | 41 |
 
-Nach Engagements führt derselbe «Hunde im Büro»-Post klar vor «Früher war die juristische Beratung...» und dem Alltagspost «Anwaltsalltag, Rechtsberatung, Officelife» (05.08., 60 Engagements) sowie dem Fachbeitrag «Ein Baumangel ist selten nur ein Baumangel» (16.07., 41 Engagements, 2'840 Impressionen).
+Nach Engagements führt derselbe «Hunde im Büro»-Post klar vor dem Sprache-Post und dem Video-Beitrag vom 05.08. («Anwaltsalltag/Rechtsberatung/Officelife», 60 Engagements, 2'856 Impressionen — Videoinhalt ohne erfassten Bildtext, daher inhaltlich nicht weiter verifizierbar).
 
-**Warum diese Posts performt haben:**
+**Warum diese Posts performt haben — jetzt mit Belegen aus den Kommentaren:**
 
-- **«Hunde im Büro»** und **«Meine Mutter hat kürzlich...»**: persönliche, nahbare Themen ausserhalb des Fachkontexts erzeugen überdurchschnittliche Interaktion — vermutlich weil sie leichter zu kommentieren/teilen sind als Rechtsthemen.
-- **«Früher war die juristische Beratung...»**: Format mit Vorher-Nachher-Kontrast, hohe Reichweite über zwei Tage hinweg (13.–14.08. zusammen 5'087 Impressionen im Tagesverlauf) — deutet auf algorithmischen Boost oder starke Teilungen hin.
-- **«Ein Baumangel ist selten nur ein Baumangel»**: einziger reiner Fachbeitrag in den Top 5 nach Engagement — bestätigt, dass Fachthemen aus dem Kernbereich Bau-/Immobilienrecht funktionieren, wenn sie zugespitzt formuliert sind.
-- **«Ich ernähre mich vegan...»** (publiziert 19.05., also knapp vor dem Berichtszeitraum): zeigt, dass persönliche Evergreen-Posts auch Wochen nach Veröffentlichung noch Reichweite generieren.
+- **Sprache-Post (13.08.):** Kernaussage laut Volltext: *«Eine sehr spezielle Kunst. Verschachtelte Sätze, lateinische Einschübe, Formulierungen, die vor allem eines signalisierten: Hier spricht jemand, der mehr weiss als Du. [...] Ich schreibe einfach [...] Das ist Respekt.»* Die Kommentare zeigen, dass dies keine oberflächliche Zustimmung erzeugte, sondern eine fachliche Debatte unter Berufskolleg:innen: *«'BS Bingowörter' trifft es perfekt — wer einfach erklären kann, hat es auch wirklich verstanden»* (Silke Boysen-Korya), *«Komplexität, wo sie nötig ist, ja. Komplexität als Fassade, nein»* (David S.), *«Das lateinische Beispiel kenne ich nur zu gut — manchmal wirkt es fast wie ein Statussymbol statt wie Kommunikation»* (Rosalie R.). Dieser Post trifft damit direkt den Brand-Differenzierer «verständliche Kommunikation» aus dem Kundenprofil — und generiert Diskussion unter potenziellen Zuweiser:innen (andere Anwält:innen, Berater:innen), nicht nur bei Endkund:innen.
+
+- **«Hunde im Büro» (30.06.):** Mit 25+ Kommentaren der mit Abstand dialogstärkste Post des Zeitraums. Bemerkenswert: Mehrere Kommentare zeigen einen direkten Geschäftsbezug statt reiner Unterhaltung — *«Wir haben Klienten, die wünschen ausdrücklich, dass die Hunde in Meetings auch dabei sind»* (Urs Häusermann), *«Hunde sehen den Menschen, nicht den Titel»* (Antje Timmermann), *«Eisbrecher ist ein gutes Stichwort [...] ältere Leute [...] haben hernach ein Strahlen im Gesicht»* (Pam Lautenschlager). Zazou (Mischling aus dem Tierheim) und Nala sind zudem kein einmaliger Content-Gag, sondern ein seit mindestens 2020 durchgängig wiederkehrendes, glaubwürdiges Markenelement in Davids Posts.
+
+- **KI/Rechtsberatung-Post (18.06.):** Kommentarthema am 19.06. bestätigt die inhaltliche Tiefe: *«KI liefert Struktur — aber keine Einschätzung, die auf dem konkreten Menschen basiert. Das bleibt menschlich»* (David, im Austausch mit Alessia). Ein Kommentar von «Peter» regt sogar einen möglichen Folge-Post an — zur Frage, ob Schweizer KMU von der EU-KI-Verordnung betroffen sind, sofern sie mit EU-Unternehmen arbeiten. David antwortet: *«Das wird ein eigener Post wert sein.»* Dieses Folgethema wurde im Berichtszeitraum noch nicht umgesetzt — siehe Empfehlung 1.
+
+- **Baumangel-Post (16.07.):** Einziger reiner Fachbeitrag in den Top 5 nach Engagement — bestätigt, dass Kernthemen aus Bau-/Immobilienrecht funktionieren, wenn sie konkret und mit klaren Handlungspunkten (4 Punkte: schriftlicher Werkvertrag, schriftliche Nachträge, Fotodokumentation, Kommunikation per Mail) aufbereitet sind.
+
+- **Vegan-Post (19.05., vor dem Zeitraum publiziert):** Volltext bestätigt die persönliche Konsequenz-Botschaft: *«Ich bin ein grosser Tierfreund [...] Was ich denke und was ich tue, soll zusammenpassen.»* Zeigt, dass persönliche Evergreen-Posts auch Wochen nach Veröffentlichung noch Reichweite generieren.
+
+**Beobachtung zu Call-to-Actions:** In früheren Auswertungszeiträumen (2023–Frühjahr 2025) endeten viele Posts mit einem direkten Buchungslink («Kontaktiere mich unverbindlich: calendly.com/frei-sq-legal»). Im aktuellen Berichtszeitraum (Mai–August 2026) fehlt dieses Element in den ausgewerteten Top-Posts vollständig — die Beiträge enden stattdessen mit offenen Dialogfragen ans Publikum. Das erklärt vermutlich mit, warum Reichweite und Diskussion hoch, aber ein klarer Konversionspfad zum Erstgespräch nicht mehr sichtbar ist (siehe Empfehlung 5).
 
 ---
 
@@ -88,18 +99,20 @@ Keine Daten vorhanden — im Berichtszeitraum wurde kein bezahltes LinkedIn-Ads-
 
 ## 6. Empfehlungen
 
-1. **Persönliche Formate bewusst einplanen, nicht dem Zufall überlassen.** Die stärksten Posts des Zeitraums (Hunde im Büro, vegane Ernährung, Mutter-Anekdote) waren nicht-fachliche, persönliche Inhalte. Ein festes Format («1 persönlicher Post pro 3–4 Fachposts») würde die Engagement Rate systematisch anheben, ohne die fachliche Positionierung zu verwässern — passend zum trockenen, pointierten Humor, der laut Tone of Voice zur Marke gehört.
+1. **Angekündigten Folge-Post zur EU-KI-Verordnung umsetzen.** David hat im Kommentarverlauf zum KI-Post vom 18.06. selbst angekündigt, das Thema «Sind Schweizer KMU von der EU-KI-Verordnung betroffen?» in einem eigenen Beitrag aufzugreifen. Das Thema ist bereits validiert (aktive Nachfrage in den Kommentaren) und offen — kurzfristig umsetzbar und passt zum wiederkehrenden, gut funktionierenden KI-Content-Pillar (mind. 4 Posts im erweiterten Zeitraum zu KI/Rechtsberatung).
 
-2. **Bau- und Immobilienrecht gezielt bespielen, um die unterrepräsentierte Zielgruppe zu aktivieren.** Der Baumangel-Post zeigt, dass Content zu diesem Kernbereich die Branchen Real Estate/Construction in die Reichweite holt — dort ist SEQUOIA aktuell in der Follower-Basis (7%) unterrepräsentiert, obwohl Immobilien- und Baurecht ein Leistungsschwerpunkt ist. 2–3 weitere Fallbeispiele oder Checklisten aus diesem Bereich in den nächsten Wochen einplanen.
+2. **Persönliche Formate weiter bewusst einplanen — sie sind kein Nebeneffekt, sondern belegt wirksam.** Zazou und Nala sind ein seit Jahren etabliertes, glaubwürdiges Markenelement mit nachgewiesenem Geschäftsbezug (Klient:innen wünschen die Hunde explizit in Meetings). Ein festes Format («1 persönlicher Post pro 3–4 Fachposts») würde die Engagement Rate systematisch stützen, ohne die fachliche Positionierung zu verwässern.
 
-3. **Sportrecht/Vereinsrecht als Content-Lücke schliessen.** Diese Zielgruppe taucht in keiner Demografie-Auswertung auf. Da Rafael Brägger diesen Bereich fachlich verantwortet, böte sich ein Cross-Posting oder gemeinsamer Beitrag (z. B. zu Sponsoring- oder Vereinsrecht) an, um diese Zielgruppe über den Kanal von David Frei mitzuerschliessen.
+3. **Bau- und Immobilienrecht gezielt bespielen, um die unterrepräsentierte Zielgruppe zu aktivieren.** Der Baumangel-Post zeigt, dass Content zu diesem Kernbereich die Branchen Real Estate/Construction in die Reichweite holt — dort ist SEQUOIA in der Follower-Basis (7%) unterrepräsentiert, obwohl Immobilien- und Baurecht ein Leistungsschwerpunkt ist. 2–3 weitere Fallbeispiele oder Checklisten aus diesem Bereich einplanen.
 
-4. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post (hohe Impressionen über mehrere Tage) in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen.
+4. **Sportrecht/Vereinsrecht als Content-Lücke schliessen.** Diese Zielgruppe taucht in keiner Demografie-Auswertung auf. Da Rafael Brägger diesen Bereich fachlich verantwortet, böte sich ein Cross-Posting oder gemeinsamer Beitrag an, um diese Zielgruppe über den Kanal von David Frei mitzuerschliessen.
 
-5. **Retracted-Engagement-Tag (19.07., –2 Engagements) beobachten.** Ein negativer Tageswert deutet auf zurückgezogene Reaktionen/Kommentare hin. Einzelfall, aber bei wiederholtem Auftreten lohnt sich ein Blick auf den betroffenen Post (möglicherweise kontroverser Inhalt oder Kommentar-Moderation).
+5. **Klaren Call-to-Action wieder punktuell einsetzen.** Frühere Posts (2023–2025) endeten regelmässig mit einem direkten Buchungslink; im aktuellen Zeitraum fehlt dieses Element komplett zugunsten offener Dialogfragen. Dialogfragen sind gut für Reichweite/Diskussion — für tatsächliche Mandats-Anfragen empfiehlt sich, bei thematisch passenden Fachposts (z. B. Baumangel, Kündigung) gezielt wieder einen konkreten nächsten Schritt («Buche ein unverbindliches Gespräch») zu ergänzen, ohne die dialogorientierten Posts (Hunde, persönliche Themen) damit zu belasten.
+
+6. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder aktiven Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen.
 
 ---
 
 ## 7. Ausblick nächster Monat
 
-Priorität liegt auf drei Punkten: (1) mindestens ein persönlicher, nahbarer Post im Wechsel mit Fachthemen einplanen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) einen Cross-Content-Impuls mit Rafael Brägger zu Sport-/Vereinsrecht prüfen, um diese bislang unsichtbare Zielgruppe erstmals messbar zu erreichen.
+Priorität liegt auf drei Punkten: (1) den bereits angekündigten Folge-Post zur EU-KI-Verordnung für Schweizer KMU umsetzen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) einen Cross-Content-Impuls mit Rafael Brägger zu Sport-/Vereinsrecht prüfen, um diese bislang unsichtbare Zielgruppe erstmals messbar zu erreichen. Ergänzend: bei 1–2 Fachposts testweise wieder einen klaren Buchungs-CTA ergänzen und die Wirkung auf Profilaufrufe/Anfragen beobachten.
