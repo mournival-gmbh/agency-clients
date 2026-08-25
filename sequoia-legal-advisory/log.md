@@ -74,3 +74,11 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
   - Neue Beobachtung: Calendly-Buchungslinks (frueher Standard-CTA 2023-2025) fehlen im aktuellen Berichtszeitraum vollstaendig — als Empfehlung ergaenzt
   - Zazou/Nala als seit 2020 durchgaengiges Markenelement bestaetigt (nicht nur Einzelpost)
 - **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md), Dateien ueberschrieben
+
+## 2026-08-25 — LinkedIn Report David W. Frei: Update v3 (Feedback Alex)
+- **Erstellt von:** DungeonMasterAlex
+- **Aenderungen auf Wunsch des Kunden/Auftraggebers:**
+  - Mai vollstaendig aus dem Monatsvergleich entfernt (nur 5 von 31 Tagen erfasst — als zu irrefuehrend eingestuft, auch auf Tagesbasis). Monatsverlauf zeigt neu nur noch Juni-August.
+  - Beobachtung zu Calendly-Buchungslinks/CTAs vollstaendig entfernt (Executive Summary, Top-Posts-Analyse, Empfehlungen, Ausblick) — Empfehlungen neu nummeriert (1-5 statt 1-6)
+  - Vegan-Post (19.05., publiziert vor Zeitraumbeginn) bleibt als einzelner Top-Post-Datenpunkt bestehen, da faktisch korrekt und nicht Teil der entfernten Monats-Aggregation
+- **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md), Dateien ueberschrieben (v3)
