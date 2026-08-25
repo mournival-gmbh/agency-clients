@@ -1,18 +1,28 @@
 # LinkedIn Performance Report — David W. Frei (SEQUOIA Legal & Advisory)
 
-**Zeitraum:** 27.05.2026 – 24.08.2026 (90 Tage) · **Erstellt am:** 24.08.2026 · **Erstellt von:** DungeonMasterAlex · **Datenquelle:** LinkedIn Analytics Export + Post-Volltexte + Kommentar-Export (manuell)
+**Zeitraum:** 27.05.2026 – 24.08.2026 (90 Tage) · **Erstellt am:** 25.08.2026 · **Erstellt von:** DungeonMasterAlex · **Datenquelle:** LinkedIn Analytics Export + Post-Volltexte + Kommentar-Export (manuell)
+
+---
+
+## Key Takeaways
+
+- **Zwei Content-Ereignisse tragen die Reichweite überproportional:** Der Sprache-Post (13.08.) und «Hunde im Büro» (30.06.) allein liefern 22% aller Impressionen und 33% aller Engagements im Zeitraum — bei nur 2 von 34 Beiträgen. Das ist kein breiter Content-Sockel, sondern eine Abhängigkeit von einzelnen Treffern.
+- **Die "echte" Baseline-Performance liegt unter der Schlagzeile:** Rechnet man die drei stärksten Tage (30.06., 13.–14.08.) heraus, sinkt die Engagement Rate von 1.63% auf 1.40%. Das ist immer noch solide für B2B-Rechtsberatung, aber die Gesamtzahl beschönigt die Konstanz.
+- **Content-Reichweite ist deutlich junior-lastiger als die Follower-Basis:** Entry-Level macht 22% der Content-Reichweite aus, aber nur 11% der Follower-Basis — die viralen Posts holen also tendenziell ein jüngeres, weniger entscheidungsbefugtes Publikum als die eigentliche Zielgruppe.
+- **Postingfrequenz liegt bei ca. 2.6 Beiträgen/Woche** — am unteren Rand dessen, was für konstante algorithmische Reichweite auf LinkedIn empfohlen wird (Richtwert 3–5×/Woche für Personal-Branding-Kanäle).
+- **Bau-/Immobilienrecht-Content aktiviert nachweislich die unterrepräsentierte Zielgruppe** (Construction/Real Estate: 10% Content-Reichweite vs. 7% Follower-Basis) — der bislang einzige Beleg im Datensatz, dass gezielter Fachcontent die Zusammensetzung des Publikums tatsächlich verschieben kann.
 
 ---
 
 ## 1. Executive Summary
 
-Im Zeitraum 27.05.–24.08.2026 (90 Tage) erzielte der LinkedIn-Auftritt von David W. Frei 59'116 Impressionen, 20'874 erreichte Mitglieder und 965 Interaktionen (Ø Engagement Rate 1.63%). Die Followerbasis wuchs von rund 3'075 auf 3'181 (+106, +3.4%).
+Im Zeitraum 27.05.–24.08.2026 (90 Tage) erzielte der LinkedIn-Auftritt von David W. Frei 59'116 Impressionen, 20'874 erreichte Mitglieder und 965 Interaktionen (Ø Engagement Rate 1.63%). Die Followerbasis wuchs von rund 3'075 auf 3'181 (+106, +3.4%), mit sichtbarer Beschleunigung im August.
 
 Zwei Beiträge trugen überproportional zum Ergebnis bei: «Hunde im Büro — ein Evergreen» (30.06., 168 Interaktionen, stärkster Post im Zeitraum, mit Bürohunden Zazou und Nala) und ein Beitrag über die Abkehr von komplizierter Juristensprache (13.08., 8'693 Impressionen, stärkste Reichweite). Beide sind keine Zufallstreffer: Die Diskussionen in den Kommentarspalten zeigen, dass sie exakt die Markenkern-Aussagen aus dem Kundenprofil bestätigen — «verständliche Kommunikation» und «Nahbarkeit» werden vom Publikum aktiv eingefordert und honoriert, nicht nur passiv konsumiert.
 
-Auf Tagesbasis zeigt sich eine stabile Entwicklung über den Sommer: Juni bis August liegen bei Ø 520–708 Impressionen/Tag und einer Engagement Rate von 1.66–1.81%, ohne grössere Ausreisser zwischen den Monaten.
+Die kritische Kehrseite: Diese zwei Posts tragen 22% der Impressionen und 33% der Engagements bei nur 2 von 34 Beiträgen. Ohne die drei stärksten Tage liegt die Engagement Rate bei 1.40% statt 1.63% — die Grundlast ist solide, aber der Kanal hängt aktuell stärker an einzelnen Treffern als an einer breiten, verlässlichen Content-Basis. Auf Tagesbasis zeigt sich sonst eine stabile Entwicklung über den Sommer: Juni bis August liegen bei Ø 520–708 Impressionen/Tag und einer Engagement Rate von 1.66–1.81%.
 
-Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert.
+Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse insgesamt gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert. Ein differenzierterer Blick zeigt zudem: Die Content-Reichweite im Zeitraum ist deutlich junior-lastiger (22% Entry-Level) als die stabile Follower-Basis (11%) — die viralen Momente erreichen tendenziell ein breiteres, aber weniger seniores Publikum als die eigentliche Zielgruppe der Geschäftsleitungen und Verwaltungsräte.
 
 ---
 
@@ -28,7 +38,16 @@ Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kunden
 | Mitglieder erreicht (unique reach) | 20'874 |
 | Engagements gesamt | 965 |
 | Ø Engagement Rate (Engagements / Impressionen) | 1.63% |
-| Beiträge mit Analytics im Zeitraum | 34 |
+| Ø Engagement Rate ohne die 3 stärksten Tage | 1.40% |
+| Beiträge mit Analytics im Zeitraum | 34 (≈ 2.6 Beiträge/Woche) |
+
+![Impressionen und Engagements pro Tag](charts/chart_trend.png)
+
+Der Tagesverlauf macht die Konzentration auf zwei Ereignisse sichtbar: Ausserhalb der beiden markierten Spitzen bewegt sich die Reichweite meist zwischen 200 und 1'000 Impressionen/Tag — ein grosser, aber unauffälliger Sockel, der von den viralen Tagen deutlich überstrahlt wird.
+
+![Follower-Wachstum kumulativ](charts/chart_followers.png)
+
+Das Followerwachstum verläuft grösstenteils linear, mit einer klar sichtbaren Beschleunigung Anfang/Mitte August — zeitlich passend zum Sprache-Post vom 13.08., was auf einen direkten Zusammenhang zwischen viraler Reichweite und Followerzuwachs hindeutet.
 
 **Monatsverlauf — auf Tagesbasis** (Totale sind wegen unterschiedlicher Tagesanzahl nicht direkt vergleichbar; August ist nur bis zum 24. erfasst):
 
@@ -45,6 +64,8 @@ Die Engagement Rate ist über die drei erfassten Monate stabil bei 1.66–1.81%,
 ## 3. Top-Posts Analyse
 
 Dank Abgleich mit den Post-Volltexten und dem Kommentar-Export lassen sich die Top-Posts jetzt inhaltlich statt nur anhand von Kennzahlen beurteilen.
+
+![Top 5 Posts nach Impressionen](charts/chart_topposts.png)
 
 Die fünf Beiträge mit den höchsten Impressionen im Zeitraum:
 
@@ -70,21 +91,25 @@ Nach Engagements führt derselbe «Hunde im Büro»-Post klar vor dem Sprache-Po
 
 - **Vegan-Post (19.05., vor dem Zeitraum publiziert):** Volltext bestätigt die persönliche Konsequenz-Botschaft: *«Ich bin ein grosser Tierfreund [...] Was ich denke und was ich tue, soll zusammenpassen.»* Zeigt, dass persönliche Evergreen-Posts auch Wochen nach Veröffentlichung noch Reichweite generieren.
 
+**Kritische Einordnung:** Von den 34 Beiträgen im Zeitraum liefern diese fünf zusammen 25'237 Impressionen — knapp 43% der Gesamtreichweite. Die verbleibenden ~29 Beiträge teilen sich den Rest. Das ist für LinkedIn-Personal-Branding nicht unüblich (Reichweite ist selten gleichverteilt), zeigt aber, dass die Content-Pipeline aktuell auf wenige starke Ideen statt auf ein breites, wiederholbares Format-Set setzt. Persönliche Formate (Hunde, Vegan) und ein pointierter Sprache-Take erklären 3 der 5 Top-Posts — das ist ein Muster, kein Zufall, und entsprechend systematisierbar (siehe Empfehlungen).
+
 ---
 
 ## 4. Demografische Auswertung
 
 LinkedIn liefert zwei Datensätze: die Demografie der Personen, die im Zeitraum mit Beiträgen interagiert haben («Content-Demografie», Reichweite je Post), und die Demografie der Follower-Basis («Audience-Demografie»).
 
+![Seniorität: Follower-Basis vs. Content-Reichweite](charts/chart_demographics.png)
+
+**Seniorität — grössere Divergenz als auf den ersten Blick sichtbar:** Die Follower-Basis ist mit Senior 34%, Director 12%, Owner 8%, Partner 8%, VP 7%, CXO 7% Richtung Entscheidungsträger ausgerichtet — passend zum Zielprofil «Geschäftsleitungen, Verwaltungsräte, Unternehmer». Die Content-Reichweite im Zeitraum verschiebt sich jedoch deutlich: Entry-Level macht dort 22% aus (Follower-Basis: 11%), während Director (8% vs. 12%), Owner (4% vs. 8%) und Partner (3% vs. 8%) in der Reichweite jeweils schwächer vertreten sind als in der Follower-Basis. Diese Verschiebung ist plausibel eine Folge der viralen Posts (Hunde, Sprache) — Themen, die breiter, aber weniger seniority-spezifisch geteilt werden. Für die Geschäftsentwicklung heisst das: Reichweite und Zielgruppen-Passung laufen im Zeitraum teilweise auseinander — hohe Impressionen bedeuten nicht automatisch mehr Sichtbarkeit bei den eigentlichen Entscheidungsträger:innen.
+
 **Standort:** Follower-Basis ist mit 54% stark auf die Region Zürich konzentriert (Luzern 7%, London 3%, Bern/Basel/München je 1–2%). Die Content-Reichweite im Zeitraum ist breiter gestreut (Zürich 27%, München 6%, Luzern 6%, Frankfurt 5%, Bern 4%, Berlin 4%, Hamburg 3%, Basel 3%, Wien 2%) — die viralen Posts haben also Reichweite über die Kernregion hinaus erzeugt, primär im DACH-Raum.
 
-**Seniorität & Unternehmensgrösse:** Die Follower-Basis ist mit Senior 34%, Director 12%, Owner 8%, Partner 8%, VP 7%, CXO 7% deutlich Richtung Entscheidungsträger ausgerichtet — passend zum Zielprofil «Geschäftsleitungen, Verwaltungsräte, Unternehmer» aus dem Kundenprofil. Unternehmensgrösse 2–10 (18%) und 11–50 Mitarbeitende (16%) dominieren, was zur primären Zielgruppe Schweizer KMU passt.
+**Unternehmensgrösse:** 2–10 Mitarbeitende (18%) und 11–50 Mitarbeitende (16%) dominieren die Follower-Basis, was zur primären Zielgruppe Schweizer KMU passt.
 
-**Branchen:** Law Practice (13%) und Legal Services (7%) sind in der Audience naturgemäss stark (Berufskolleg:innen, Netzwerk), gefolgt von Financial Services (12%) und Banking (6%). Real Estate (4%) und Construction (3%) — die Kernbereiche Immobilien- und Baurecht — sind in der Follower-Basis mit zusammen 7% unterrepräsentiert. In der Content-Demografie des Zeitraums (getrieben vom Baumangel-Post) ist Construction mit 6% und Real Estate mit 4% präsenter (10% zusammen) — ein Hinweis, dass gezielter Content zu Bau-/Immobilienthemen diese Zielgruppe tatsächlich aktiviert.
+**Branchen:** Law Practice (13%) und Legal Services (7%) sind in der Audience naturgemäss stark (Berufskolleg:innen, Netzwerk), gefolgt von Financial Services (12%) und Banking (6%). Real Estate (4%) und Construction (3%) — die Kernbereiche Immobilien- und Baurecht — sind in der Follower-Basis mit zusammen 7% unterrepräsentiert. In der Content-Demografie des Zeitraums (getrieben vom Baumangel-Post) ist Construction mit 6% und Real Estate mit 4% präsenter (10% zusammen) — der einzige klare Beleg im Datensatz, dass gezielter Content zu einem Kernthema die Zusammensetzung der Reichweite tatsächlich in Richtung Zielgruppe verschiebt.
 
-**Sportrecht/Vereinsrecht:** Weder in der Audience- noch in der Content-Demografie taucht eine Sport- oder Vereins-Branche unter den Top-Werten auf — diese zweite Kernzielgruppe von SEQUOIA ist über den LinkedIn-Kanal von David Frei aktuell nicht sichtbar erreicht.
-
-**Fazit Abgleich mit Zielgruppe:** Seniorität und Unternehmensgrösse treffen die Wunschzielgruppe gut. Geografisch und branchenspezifisch (Bau/Immobilien, Sport/Verein) besteht Luft nach oben.
+**Fazit Abgleich mit Zielgruppe:** Seniorität und Unternehmensgrösse treffen die Wunschzielgruppe in der Follower-*Basis* gut — die aktuelle Content-*Reichweite* zieht das Bild jedoch Richtung jüngerer, geografisch breiterer, aber weniger seniority-starker Kontakte. Branchenspezifisch (Bau/Immobilien) besteht weiterhin Potenzial, das durch gezielten Content nachweislich aktivierbar ist.
 
 ---
 
@@ -102,12 +127,12 @@ Keine Daten vorhanden — im Berichtszeitraum wurde kein bezahltes LinkedIn-Ads-
 
 3. **Bau- und Immobilienrecht gezielt bespielen, um die unterrepräsentierte Zielgruppe zu aktivieren.** Der Baumangel-Post zeigt, dass Content zu diesem Kernbereich die Branchen Real Estate/Construction in die Reichweite holt — dort ist SEQUOIA in der Follower-Basis (7%) unterrepräsentiert, obwohl Immobilien- und Baurecht ein Leistungsschwerpunkt ist. 2–3 weitere Fallbeispiele oder Checklisten aus diesem Bereich einplanen.
 
-4. **Sportrecht/Vereinsrecht als Content-Lücke schliessen.** Diese Zielgruppe taucht in keiner Demografie-Auswertung auf. Da Rafael Brägger diesen Bereich fachlich verantwortet, böte sich ein Cross-Posting oder gemeinsamer Beitrag an, um diese Zielgruppe über den Kanal von David Frei mitzuerschliessen.
+4. **Postingfrequenz von ca. 2.6 auf 3–4 Beiträge/Woche erhöhen und die Abhängigkeit von Einzel-Spitzen reduzieren.** Aktuell liefern 2 von 34 Posts 22% der Impressionen und 33% der Engagements — ein Konzentrationsrisiko, das den Kanal volatil macht. Eine höhere, gleichmässigere Kadenz mit wiederholbaren Formaten (Fachthema, persönlicher Post, KI-Take im festen Rhythmus) würde die Baseline-Reichweite verbreitern, statt primär auf virale Einzeltreffer zu setzen.
 
-5. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder aktiven Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen.
+5. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder aktiven Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen. Das gilt besonders, da das Followerwachstum zeitlich sichtbar mit dem Sprache-Post-Peak zusammenfällt.
 
 ---
 
 ## 7. Ausblick nächster Monat
 
-Priorität liegt auf drei Punkten: (1) den bereits angekündigten Folge-Post zur EU-KI-Verordnung für Schweizer KMU umsetzen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) einen Cross-Content-Impuls mit Rafael Brägger zu Sport-/Vereinsrecht prüfen, um diese bislang unsichtbare Zielgruppe erstmals messbar zu erreichen.
+Priorität liegt auf drei Punkten: (1) den bereits angekündigten Folge-Post zur EU-KI-Verordnung für Schweizer KMU umsetzen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) die Postingfrequenz spürbar erhöhen und dabei auf ein wiederholbares Format-Set (Fach/Persönlich/KI im Wechsel) setzen, um die Reichweite breiter abzustützen statt weiter primär von einzelnen viralen Momenten abhängig zu sein.
