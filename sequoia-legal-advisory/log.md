@@ -82,3 +82,13 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
   - Beobachtung zu Calendly-Buchungslinks/CTAs vollstaendig entfernt (Executive Summary, Top-Posts-Analyse, Empfehlungen, Ausblick) — Empfehlungen neu nummeriert (1-5 statt 1-6)
   - Vegan-Post (19.05., publiziert vor Zeitraumbeginn) bleibt als einzelner Top-Post-Datenpunkt bestehen, da faktisch korrekt und nicht Teil der entfernten Monats-Aggregation
 - **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md), Dateien ueberschrieben (v3)
+
+## 2026-08-25 — LinkedIn Report David W. Frei: Update v4 (Charts, Tiefe, Fokus)
+- **Erstellt von:** DungeonMasterAlex
+- **Feedback Alex:** Zuviel Fliesstext, zu oberflaechliche Beurteilung, Diagramme fehlten; Sportrecht/Vereinsrecht-Erwaehnung als irrelevant fuer David (ist Rafaels Thema) markiert
+- **Neuerungen v4:**
+  - Key-Takeaways-Box (5 Punkte) direkt nach den KPI-Kacheln ergaenzt
+  - 4 Diagramme ergaenzt (matplotlib, validierte Blau/Orange-Palette): Impressionen+Engagements pro Tag, Follower-Wachstum kumulativ, Top-5-Posts, Seniorität Audience vs. Content
+  - Tiefere Beurteilung: Baseline-ER ohne die 3 staerksten Tage (1.40% statt 1.63%), Postingfrequenz (2.6/Woche) bewertet, Content-Reichweite ist junior-lastiger als Follower-Basis (Entry 22% vs 11%) — neue kritische Einordnung als eigener Abschnitt in Kapitel 3
+  - Sportrecht/Vereinsrecht vollstaendig aus Kapitel 4, 6, 7 entfernt (Rafaels Fachbereich, nicht Davids Kanal-Thema); Empfehlung 4 durch datenbasierte neue Empfehlung (Postingfrequenz erhoehen, Abhaengigkeit von Einzel-Spitzen reduzieren) ersetzt
+- **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md, + charts/*.png), Dateien ueberschrieben (v4)
