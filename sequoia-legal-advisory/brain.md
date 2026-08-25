@@ -189,3 +189,75 @@ Typische Themen:
 - 2026-07-27 Hauptclaim: «Du brauchst keinen Prozess. Du brauchst einen Plan.»
 - 2026-07-27 Du-Ansprache auf Website und in Marketingformaten (kontextabhängig)
 - 2026-07-27 Humor: trocken, klug, pointiert — nie laut oder albern
+
+---
+
+## Strategie-Update 2026-08-25 — Content-Layer-Konzept
+
+Aus dem Strategiegespräch vom 25.08.2026 mit David und Rafael. Zentraler Gedanke: SEQUOIA soll nicht mehr einzelne Kommunikationsmassnahmen produzieren, sondern **Themenwelten orchestrieren**. Der Podcast liefert dafür Substanz, ist aber Ausgangspunkt für Wissen, Aktualität, Persönlichkeit, SEO und Kampagnen — nicht mehr selbst die einzige Botschaft.
+
+### Layer-Prinzip
+Nicht jeder Post entsteht direkt aus dem Podcast, aber alles zahlt in eine gemeinsame Themenwelt ein. Der Podcast gibt den thematischen Schwerpunkt vor ("Staffelwelt"), daneben läuft ein kontinuierliches "Grundrauschen". Hauptkanal bleibt LinkedIn, ergänzt durch Website, Newsletter, WhatsApp-Stories, punktuelle Kampagnen und Kundenbindungs-Massnahmen.
+
+### Vier dauerhafte Content-Säulen (Grundrauschen)
+1. **Legal Hacks / praktische Rechtstipps** — keine komplizierten Rechtserklärungen, sondern einfache Verhaltenstipps (z.B. "eine Nacht drüber schlafen", "Besprochenes schriftlich festhalten", "dokumentieren, dokumentieren, dokumentieren"). Tonalität: nicht belehrend, eher "klingt banal, erspart aber später viel Ärger".
+2. **Legal News** — kein juristisches Nacherzählen von Urteilen/Gesetzesänderungen, sondern einfach beantwortet: Was ist neu? Für wen relevant? Was bedeutet es konkret? Anfänglich ggf. als kleine Artikel. Benötigt einen festen Prozess mit David und Rafael, damit relevante Entwicklungen kontinuierlich einfliessen.
+3. **"Aus dem Alltag von David und Rafael"** — persönlicher Einblick, z.B. "Die drei Themen, über die ich zuletzt am meisten gesprochen habe". Keine Falldetails, nur anonymisiert/verfremdet — Fokus auf wiederkehrende Fragen, Missverständnisse, Denkweisen.
+4. **Philosophie, Haltung, persönliche Perspektive** — kleine Beobachtungen, bewusst altmodische Sprüche ("Wo gehobelt wird, fallen Späne.") als Einstieg zu einem rechtlichen Thema. Ziel: weniger steril/"kanzleimässig".
+
+### Staffelwelt (Podcast als Content-Motor)
+Podcast bleibt Ebene für thematischen Deep Dive (aktuell: Arbeitsrecht). Liefert Themenmaterial für Folgeinhalte: absurde Fälle, historische Entwicklungen, Fakten, Irrtümer, Checklisten, Tipps, provokante Aussagen, Hintergrundartikel.
+
+**Neuer Rhythmus pro Folge (statt zwei ähnlicher Posts):**
+- Montag: Podcast-Teaser/Video → Folge geht live
+- Mittwoch: Allgemeinerer Content aus der Themenwelt (z.B. "Die absurdesten Fälle aus dem Arbeitsrecht")
+- Freitag: Wissensorientierter Beitrag (z.B. "5 Dinge, die du vor einer Kündigung dokumentieren solltest")
+
+**Historisches Format:** eigenes, positiv bewertetes Element — z.B. frühere Arbeitnehmerrechte, Entwicklung des Kündigungsschutzes, historische Arbeitszeiten. Kein direkter praktischer Nutzen nötig, aber erzählerisch und verständnisfördernd.
+
+### Evergreen-Content / Wissensbibliothek
+Aus jeder Staffel 4-6 hochwertige Evergreen-Artikel für eine künftige Website-Knowledge-Library. Für die Arbeitsrechtsstaffel bereits definiert:
+- Checkliste Arbeitsverhältnis (was sollte dokumentiert werden?)
+- Checkliste Kündigung (was vorher beachten?)
+- Checkliste Arbeitsvertrag (was sollte ein Unternehmen beachten?)
+- Fristlose Kündigung (wann tatsächlich gerechtfertigt?)
+
+Nutzen: LinkedIn-Content, Kompetenznachweis, SEO/Auffindbarkeit über Google, Verlängerung der Podcastinhalte, Hilfe für potenzielle Mandanten.
+
+### Visuelles Konzept pro Staffel
+Kein komplettes Redesign pro Episode, sondern ein eigenes visuelles System pro Staffel (Staffelcover, LinkedIn-Banner, Podcast-Teaser, Video-Endscreen, Website-Pop-up, E-Mail-Signatur, WhatsApp-Story, Post-Templates). Farbton/Hintergrund des Podcast-Endframes wird jeweils vom aktuellen Staffelcover abgeleitet, damit beim Scrollen ein Wechsel der Themenwelt spürbar wird.
+
+Für Legal Hacks / Wissensinhalte: handgemachter/gezeichneter Stil (handschriftliche Notizen, Kritzeleien, Pfeile, Slider, unterstrichene Begriffe, Notizbuchcharakter) — passend zu einfachen, kurzen Aussagen ohne grossen Grafikaufwand.
+
+### SEQUOIA LinkedIn-Profil — Review anstehend
+Gesamtes Profil soll überprüft werden: Texte, Positionierung, Banner-Aktualität, Bildwelt, Integration des Podcasts, temporäre Sichtbarkeit von Staffelthemen im Profil. Das bestehende Baum-Motiv wurde hinterfragt, da diese Bildsprache aktuell kaum noch an anderen Stellen der Marke verwendet wird.
+
+### Kanal-Orchestrierung
+Ziel: Omnichannel statt Einzelkanal. Ein Staffelthema kann je nach Relevanz über LinkedIn, Podcast, Website, Knowledge Library/Blog, Newsletter, WhatsApp-Stories, E-Mail-Signatur, Website-Pop-up, Sponsoring, Paid-Kampagnen und Kundenkommunikation gespielt werden — nicht jeder Inhalt überall, aber das Thema kanalübergreifend erkennbar.
+
+### Kundenbindung als eigene Ebene
+Neu als eigene Planungskategorie (nicht nur Neukundenakquise): Newsletter, Events, Kundengeschenke, persönliche Touchpoints, Einladungen, ggf. Tag der offenen Tür, weitere Bestandskunden-Massnahmen.
+
+### Paid & Sponsoring
+- Paid nicht permanent, sondern gezielt — konkrete Idee: Podcast-Promotion-Kampagne im Herbst 2026, die die Mission des Podcasts bewirbt ("Mehr rechtliches Grundwissen verhindert Probleme, bevor sie entstehen"), nicht nur einzelne Episoden.
+- Sponsoring existiert bereits, wird kommunikativ aber kaum genutzt — soll künftig als eigener Touchpoint in der Planung sichtbar werden. Konkrete Ausgestaltung noch offen.
+
+### Planungstool
+Timeline soll künftig zeigen: aktuelle Staffel, zugehörige Inhalte, Kanal, offene Lücken, Status. Gewünscht: Jahres-/Semester-/Quartalsansicht, Filter, visuelle "Heute"-Linie, Zoom, Synchronisation einzelner Inhalte über mehrere Kanäle — Layer-Denken statt Einzelpost-Ansicht.
+
+### Nächste Arbeitspakete (aus dem Meeting abgeleitet)
+1. LinkedIn-Profil SEQUOIA überprüfen und aktualisieren
+2. Vier Content-Säulen definieren: Legal Hacks, Legal News, Alltag David/Rafael, Haltung/Philosophie
+3. Podcast-Kommunikation verschlanken: ein Video statt zwei ähnlicher Posts
+4. Arbeitsrechtsstaffel mit zusätzlichen Wissensinhalten begleiten
+5. Historisches Arbeitsrechtsformat testen
+6. Vier Evergreen-Artikel aus der Arbeitsrechtsstaffel entwickeln
+7. Website-Library/Blog konzeptionell prüfen
+8. Visuelles Staffelprinzip definieren
+9. Podcast-Endscreen an Staffelwelt anpassen
+10. Staffelpaket über LinkedIn, Website, Pop-up, Signatur und WhatsApp ausrollen
+11. Kundenbindung als eigene Planungsebene aufnehmen
+12. Podcast-Paid-Kampagne für Herbst konzipieren
+13. Sponsoring kommunikativ stärker integrieren
+14. Planungstool weiterentwickeln: Jahres-/Quartalsansicht, Filter, Heute-Linie, kanalübergreifende Planung
+
