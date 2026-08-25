@@ -10,9 +10,9 @@ Im Zeitraum 27.05.–24.08.2026 (90 Tage) erzielte der LinkedIn-Auftritt von Dav
 
 Zwei Beiträge trugen überproportional zum Ergebnis bei: «Hunde im Büro — ein Evergreen» (30.06., 168 Interaktionen, stärkster Post im Zeitraum, mit Bürohunden Zazou und Nala) und ein Beitrag über die Abkehr von komplizierter Juristensprache (13.08., 8'693 Impressionen, stärkste Reichweite). Beide sind keine Zufallstreffer: Die Diskussionen in den Kommentarspalten zeigen, dass sie exakt die Markenkern-Aussagen aus dem Kundenprofil bestätigen — «verständliche Kommunikation» und «Nahbarkeit» werden vom Publikum aktiv eingefordert und honoriert, nicht nur passiv konsumiert.
 
-Auf Tagesbasis zeigt sich ein wichtiger Befund: Der (nur 5-tägige) Mai-Ausschnitt hatte mit Ø 1'401 Impressionen/Tag sogar den höchsten Wert aller Monate — getrieben durch die Nachwirkung des viralen Vegan-Posts vom 19.05. Juni bis August liegen bei Ø 520–708 Impressionen/Tag und einer stabilen Engagement Rate von 1.66–1.81%. Ein einfacher Monatsvergleich der Totale wäre wegen der Tagesanzahl-Differenz irreführend; erst auf Tagesbasis wird das Bild verlässlich.
+Auf Tagesbasis zeigt sich eine stabile Entwicklung über den Sommer: Juni bis August liegen bei Ø 520–708 Impressionen/Tag und einer Engagement Rate von 1.66–1.81%, ohne grössere Ausreisser zwischen den Monaten.
 
-Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert. Auffällig zusätzlich: Frühere, konsequent gesetzte Call-to-Actions (Calendly-Buchungslinks) fehlen im aktuellen Berichtszeitraum vollständig — ein Unterschied zum historischen Content-Muster.
+Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kundenprofil überein, ist geografisch jedoch stark auf Zürich fokussiert.
 
 ---
 
@@ -30,16 +30,15 @@ Die Zielgruppe stimmt bei Seniorität und Unternehmensgrösse gut mit dem Kunden
 | Ø Engagement Rate (Engagements / Impressionen) | 1.63% |
 | Beiträge mit Analytics im Zeitraum | 34 |
 
-**Monatsverlauf — auf Tagesbasis (Totale sind wegen unterschiedlicher Tagesanzahl nicht direkt vergleichbar):**
+**Monatsverlauf — auf Tagesbasis** (Totale sind wegen unterschiedlicher Tagesanzahl nicht direkt vergleichbar; August ist nur bis zum 24. erfasst):
 
 | Monat | Tage erfasst | Ø Impressionen/Tag | Ø Engagements/Tag | Engagement Rate | Neue Follower |
 |---|---|---|---|---|---|
-| Mai (nur 27.–31.05., 5 Tage) | 5 | 1'401 | 10.0 | 0.71% | 3 |
 | Juni (voller Monat) | 30 | 633 | 11.4 | 1.80% | 26 |
 | Juli (voller Monat) | 31 | 520 | 9.4 | 1.81% | 36 |
 | August (bis 24.08., 24 Tage) | 24 | 708 | 11.8 | 1.66% | 36 |
 
-**Wichtiger Hinweis zu Mai:** Das zugrunde liegende Analytics-Export beginnt erst am 27.05.2026 — Daten für den 1.–26.05. liegen nicht vor und wurden nicht geschätzt. Ein Vergleich der Monats-*Totale* (z. B. «Juni war X-mal stärker als Mai») wäre daher irreführend, weil Mai nur 5 von 31 Tagen abdeckt. Auf Tagesbasis zeigt sich: Mai hatte im erfassten Fünf-Tage-Fenster die höchste Ø-Reichweite/Tag — bedingt durch die auslaufende Viralität des Vegan-Posts vom 19.05., nicht durch neue Beiträge in diesem Fenster. Juni bis August sind vollständig erfasst und direkt vergleichbar: Die Engagement Rate ist dort stabil bei 1.66–1.81%, die Ø Engagements/Tag schwanken zwischen 9.4 (Juli) und 11.8 (August). Für belastbare Monatsvergleiche sollte künftig immer auf Tagesdurchschnitte statt Totale abgestellt werden.
+Die Engagement Rate ist über die drei erfassten Monate stabil bei 1.66–1.81%, die Ø Engagements/Tag schwanken zwischen 9.4 (Juli) und 11.8 (August). Für Monatsvergleiche wird auf Tagesdurchschnitte statt auf Totale abgestellt, da die Monate unterschiedlich viele Tage abdecken.
 
 ---
 
@@ -70,8 +69,6 @@ Nach Engagements führt derselbe «Hunde im Büro»-Post klar vor dem Sprache-Po
 - **Baumangel-Post (16.07.):** Einziger reiner Fachbeitrag in den Top 5 nach Engagement — bestätigt, dass Kernthemen aus Bau-/Immobilienrecht funktionieren, wenn sie konkret und mit klaren Handlungspunkten (4 Punkte: schriftlicher Werkvertrag, schriftliche Nachträge, Fotodokumentation, Kommunikation per Mail) aufbereitet sind.
 
 - **Vegan-Post (19.05., vor dem Zeitraum publiziert):** Volltext bestätigt die persönliche Konsequenz-Botschaft: *«Ich bin ein grosser Tierfreund [...] Was ich denke und was ich tue, soll zusammenpassen.»* Zeigt, dass persönliche Evergreen-Posts auch Wochen nach Veröffentlichung noch Reichweite generieren.
-
-**Beobachtung zu Call-to-Actions:** In früheren Auswertungszeiträumen (2023–Frühjahr 2025) endeten viele Posts mit einem direkten Buchungslink («Kontaktiere mich unverbindlich: calendly.com/frei-sq-legal»). Im aktuellen Berichtszeitraum (Mai–August 2026) fehlt dieses Element in den ausgewerteten Top-Posts vollständig — die Beiträge enden stattdessen mit offenen Dialogfragen ans Publikum. Das erklärt vermutlich mit, warum Reichweite und Diskussion hoch, aber ein klarer Konversionspfad zum Erstgespräch nicht mehr sichtbar ist (siehe Empfehlung 5).
 
 ---
 
@@ -107,12 +104,10 @@ Keine Daten vorhanden — im Berichtszeitraum wurde kein bezahltes LinkedIn-Ads-
 
 4. **Sportrecht/Vereinsrecht als Content-Lücke schliessen.** Diese Zielgruppe taucht in keiner Demografie-Auswertung auf. Da Rafael Brägger diesen Bereich fachlich verantwortet, böte sich ein Cross-Posting oder gemeinsamer Beitrag an, um diese Zielgruppe über den Kanal von David Frei mitzuerschliessen.
 
-5. **Klaren Call-to-Action wieder punktuell einsetzen.** Frühere Posts (2023–2025) endeten regelmässig mit einem direkten Buchungslink; im aktuellen Zeitraum fehlt dieses Element komplett zugunsten offener Dialogfragen. Dialogfragen sind gut für Reichweite/Diskussion — für tatsächliche Mandats-Anfragen empfiehlt sich, bei thematisch passenden Fachposts (z. B. Baumangel, Kündigung) gezielt wieder einen konkreten nächsten Schritt («Buche ein unverbindliches Gespräch») zu ergänzen, ohne die dialogorientierten Posts (Hunde, persönliche Themen) damit zu belasten.
-
-6. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder aktiven Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen.
+5. **Reichweiten-Spitzen wie 13./14.08. gezielt nachfassen.** Nach einem viralen Post in den folgenden 48–72 Stunden mit einem thematisch verwandten Folgebeitrag oder aktiven Kommentar-Antworten nachlegen, um die zugelaufene Aufmerksamkeit zu binden statt verpuffen zu lassen.
 
 ---
 
 ## 7. Ausblick nächster Monat
 
-Priorität liegt auf drei Punkten: (1) den bereits angekündigten Folge-Post zur EU-KI-Verordnung für Schweizer KMU umsetzen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) einen Cross-Content-Impuls mit Rafael Brägger zu Sport-/Vereinsrecht prüfen, um diese bislang unsichtbare Zielgruppe erstmals messbar zu erreichen. Ergänzend: bei 1–2 Fachposts testweise wieder einen klaren Buchungs-CTA ergänzen und die Wirkung auf Profilaufrufe/Anfragen beobachten.
+Priorität liegt auf drei Punkten: (1) den bereits angekündigten Folge-Post zur EU-KI-Verordnung für Schweizer KMU umsetzen, (2) zwei Bau-/Immobilienrecht-Beiträge produzieren, um die Zielgruppen-Lücke zu schliessen, und (3) einen Cross-Content-Impuls mit Rafael Brägger zu Sport-/Vereinsrecht prüfen, um diese bislang unsichtbare Zielgruppe erstmals messbar zu erreichen.
