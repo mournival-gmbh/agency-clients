@@ -6,7 +6,10 @@
   "brand": {
     "primary_color": "#4b319b",
     "secondary_color": "#a176f4",
-    "fonts": [],
+    "fonts": [
+      "Antipoda Black",
+      "Gopher Regular"
+    ],
     "logo_path": ""
   },
   "socials": {
