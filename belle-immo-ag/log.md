@@ -112,3 +112,6 @@ Diese Punkte werde ich in allen Outputs berücksichtigen.
 - **Workflow:** offerte-factsheet (Transkription bestehendes Angebot in 1322-Vorlage)
 - **Status:** entwurf
 - **Output:** `belle-immo-ag/offers/offerte-2026-07-belle-immo-ag.pdf`
+
+## 14.09.2026 — DungeonMasterAlex
+Zeitplan angepasst: Tasks „Instagram als Portfolio neu aufbereiten – Inhalte sichten" und „… – Beiträge zuschneiden und veröffentlichen" um 1 Woche verschoben (07.09. → 14.09.2026), da Verzögerung.
