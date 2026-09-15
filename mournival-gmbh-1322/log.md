@@ -16,3 +16,6 @@ Dieses Protokoll wird automatisch durch `run_workflow.py` befüllt. Es dokumenti
 | 2026-08-28 | Weekly Tasks Email – 2026-W36 | email-versand | DungeonMasterAlex | — |
 | 2026-09-04 | Weekly Tasks Email – 2026-W37 | email-versand | DungeonMasterAlex | — |
 | 2026-09-11 | Weekly Tasks Email – 2026-W38 | email-versand | DungeonMasterAlex | — |
+
+## 15.09.2026 — DungeonMasterAlex
+Zeitplan-CSV (`schedules/Q3-Zeitplan_2025_v28-10-25.csv`) gelöscht — Planung läuft künftig über die wöchentlichen To-Do-Listen in agency-planning. Neue To-Do's für KW39 angelegt: Kundengeschenk-Brainstorming (Alex + Milena), Beiträge 1322 + CCS-Vorbereitung (Milena), Beiträge Alex Personal Branding, Artikel schreiben, Profile updaten (Alex), neue Assets für Profile (Milena).
