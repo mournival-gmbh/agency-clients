@@ -93,3 +93,6 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
   - Sportrecht/Vereinsrecht vollstaendig aus Kapitel 4, 6, 7 entfernt (Rafaels Fachbereich, nicht Davids Kanal-Thema); Empfehlung 4 durch datenbasierte neue Empfehlung (Postingfrequenz erhoehen, Abhaengigkeit von Einzel-Spitzen reduzieren) ersetzt
 - **Output:** `sequoia-legal-advisory/reports/david-frei-linkedin-report-2026-05-27_2026-08-24.pdf` (+ .md, + charts/*.png), Dateien ueberschrieben (v4)
 - 2026-08-25 Strategie-Update-Meeting mit David und Rafael: neues Content-Layer-Konzept (vier Content-Säulen, Staffelwelt/Podcast-Rhythmus, Evergreen-Wissensbibliothek, visuelles Staffelprinzip, Kanal-Orchestrierung, Kundenbindung, Paid/Sponsoring, Planungstool). Details in brain.md ergänzt. [DungeonMasterAlex]
+
+## 15.09.2026 — DungeonMasterAlex
+To-Do KW38 ergänzt: Milena – Geschenke finalisieren. To-Do KW39 angelegt: Alex – Datum Workshop planen.
