@@ -96,3 +96,6 @@ Kommentar-Workflow ausgeführt. 47 Posts gesucht, 8 relevant bewertet, 6 Komment
 
 ## 15.09.2026 — DungeonMasterAlex
 To-Do KW38 ergänzt: Milena – Geschenke finalisieren. To-Do KW39 angelegt: Alex – Datum Workshop planen.
+
+## 29.09.2026 — DungeonMasterAlex
+To-Do „Datum Workshop planen" (Alex) von KW39 nach KW40 verschoben.
