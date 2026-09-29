@@ -19,3 +19,6 @@ Dieses Protokoll wird automatisch durch `run_workflow.py` befüllt. Es dokumenti
 
 ## 15.09.2026 — DungeonMasterAlex
 Zeitplan-CSV (`schedules/Q3-Zeitplan_2025_v28-10-25.csv`) gelöscht — Planung läuft künftig über die wöchentlichen To-Do-Listen in agency-planning. Neue To-Do's für KW39 angelegt: Kundengeschenk-Brainstorming (Alex + Milena), Beiträge 1322 + CCS-Vorbereitung (Milena), Beiträge Alex Personal Branding, Artikel schreiben, Profile updaten (Alex), neue Assets für Profile (Milena).
+
+## 29.09.2026 — DungeonMasterAlex
+To-Do's KW39 (Kundengeschenk-Brainstorming, Beiträge Personal Branding, Artikel schreiben, Profile updaten, Beiträge 1322 + CCS-Vorbereitung, neue Assets für Profile) nach KW40 verschoben.
