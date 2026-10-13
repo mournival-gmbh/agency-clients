@@ -129,3 +129,6 @@ Breiter angelegte Kampagne, getragen von einem Personal-Branding-Restart von Jor
 - **Format:** Neue Fotos, Interview-Style-Videos mit Jorge, unterstützt/untermalt durch voraussichtlich KI-generierte Animationen.
 - **Ausspielung:** Breiter und über längeren Zeitraum als Dust Busters — LinkedIn, Personal Branding, WhatsApp, plus 2–3 Newsletter im Zeitraum.
 - **Frühling 2027:** Reaktivierung der ursprünglichen Dust-Busters-Umzugskampagne.
+## Gesprächsnotiz fürs Reporting: Formulareinsendungen während Dust Busters (Stand 13.10.2026)
+
+Im SendGrid-Log (im Einsatz seit Website-Go-live, daher lückenlos) stehen für die Dust-Busters-Laufzeit (10.09.–03.10.2026) mindestens 3, nach Klärung eines Datumsfilters möglicherweise 4 externe Formulareinsendungen (Details in `log.md`, 13.10.2026). Keine davon lief über die Kampagnen-Landingpage, daher keine direkte Kampagnen-Zuordnung möglich. Zwei bis drei der Einsendungen betreffen jedoch exakt das beworbene Thema Umzugsreinigung, und alle bekannten Einsendungen liegen zeitlich im Kampagnenfenster. Offener Punkt fürs Jorge-Gespräch: ob diese Anfragen auf Wahrnehmung der Kampagne zurückgehen (z. B. per Rückfrage "Wie hast du von uns gehört?").
