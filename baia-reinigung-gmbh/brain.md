@@ -103,3 +103,29 @@ Baia verfügt über hochwertige Referenzen. Ein Teil darf öffentlich kommunizie
 ## Langfristiges Markenbild
 
 In einigen Jahren soll Baia nicht als „Putzfirma" wahrgenommen werden, sondern als **zuverlässiger Gebäudepartner**, dem Verwaltungen, Bauunternehmen und Eigentümer ihre Immobilien langfristig anvertrauen.
+## Marketing-Historie 2026 — Branding-Refresh & Launch
+
+Im Lauf von 2026 wurde das Branding von Baia Reinigung grundlegend aufgefrischt und über alle Touchpoints ausgerollt:
+
+- **Wording & Slogan:** Markentexte und Kampagnen-Slogans ergänzt und geschärft (siehe Referenzsätze in `tone_of_voice.md` sowie Website-Slogans in `log.md`, Websitetext v5).
+- **Design:** Die Markenfarbe Blau (`#87B4DE`) sowie neue Patterns stärker in die Gestaltung integriert; das Tic-Tac-Toe-Element wird nun konsequenter (weiterhin dezent) eingesetzt.
+- **Website:** Komplett neu aufgesetzt auf Basis des überarbeiteten Wordings (website-text v1–v5, siehe `log.md`).
+- **Weitere Touchpoints neu erstellt:** Fahrzeugbeschriftung, Visitenkarten, Factsheet (im Ablagesystem hinterlegt), E-Mail-Signatur.
+
+## Kampagne «Dust Busters» (seit September 2026)
+
+Erste grosse Kampagne auf Basis des aufgefrischten Brandings: **Dust Busters – Die Endreinigung kann kommen**, fokussiert auf Umzugsreinigung.
+
+- **Charakter:** Bewusst zeitlos angelegt, wiederverwendbar zu den beiden Haupt-Umzugsterminen im Jahr (Herbst und Frühling).
+- **Kanäle:** Paid Social + WhatsApp Stories.
+- **Learning aus dem ersten Lauf:** Das Video wurde während der Laufzeit gewechselt (Lang- auf Kurzversion), die Kampagne wurde nach rund 3,5 statt geplanten 4 Wochen gestoppt (Details und Kennzahlen: Kampagnen-Report in `reports/campaigns/`). Für künftige Kampagnen: wiederverwendbares Videomaterial in mehreren Teilen produzieren, damit die Laufzeit nicht durch einen Mid-Flight-Creative-Wechsel unterbrochen werden muss.
+
+## Nächste Kampagne (Herbst/Winter 2026/27 — in Planung, Stand 13.10.2026)
+
+Breiter angelegte Kampagne, getragen von einem Personal-Branding-Restart von Jorge:
+
+- **Botschaft:** Gute Reinigung/Raumpflege ist nicht nur Oberflächen-Sauberkeit, sondern trägt zur Gesundheit bei (gesunde Mikroflora auf Oberflächen). Primärer Verkaufsfokus: Büroreinigungsabo; zusätzlich Intensiv-/Tiefenreinigung als Angebot nach Krankheitswellen im Büro.
+- **Ton:** Humorvoll — «Kampf gegen Bakterien und Viren» zur Erkältungs-/Grippesaison (Herbst bis Frühling). Der Dust-Busters-Song wird wiederverwendet, inhaltlich aber auf Viren/Bakterien statt Umzugsstaub umgemünzt.
+- **Format:** Neue Fotos, Interview-Style-Videos mit Jorge, unterstützt/untermalt durch voraussichtlich KI-generierte Animationen.
+- **Ausspielung:** Breiter und über längeren Zeitraum als Dust Busters — LinkedIn, Personal Branding, WhatsApp, plus 2–3 Newsletter im Zeitraum.
+- **Frühling 2027:** Reaktivierung der ursprünglichen Dust-Busters-Umzugskampagne.
