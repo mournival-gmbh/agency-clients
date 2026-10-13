@@ -69,3 +69,18 @@ Struktur auf 3 Seiten aufgeteilt: Startseite (Onepager), Unternehmensreinigung (
 **Von:** DungeonMasterAlex
 **Aktion:** Kontext fürs anstehende Reporting-Gespräch mit Jorge erfasst: Rückblick auf Branding-Refresh 2026 (Wording/Slogan, Blau + Patterns + Tic-Tac-Toe, Website-Relaunch, Fahrzeugbeschriftung, Visitenkarten, Factsheet, E-Mail-Signatur) sowie Scope für die nächste Kampagne (Herbst/Winter 2026/27: Gesundheits-/Mikroflora-Botschaft, Büroreinigungsabo-Fokus, Personal-Branding-Restart, Humor mit Bakterien/Viren, Dust-Busters-Song-Reuse, breitere Ausspielung über LinkedIn/Personal Branding/WhatsApp/Newsletter; Frühling 2027: Reaktivierung Dust-Busters-Umzugskampagne). In `brain.md` unter «Marketing-Historie 2026» und «Nächste Kampagne» ergänzt.
 **Offen fürs Reporting-Gespräch mit Jorge:** Website-Traffic seit Relaunch, Sichtbarkeits-Wirkung während der Ads-Laufzeit, Anzahl ausgefüllter Kontaktformulare, Jorges Qualitäts-Feedback zu den Leads, Wirkung der WhatsApp-Stories-Präsenz.
+## 13.10.2026 — SendGrid-Formulareinsendungen geprüft (Website-Kontaktformular)
+
+**Von:** DungeonMasterAlex
+**Aktion:** SendGrid-Activity-Log auf echte externe Formulareinsendungen geprüft (interne Benachrichtigungen an info@reinigung-baia.ch und Testeinsendung falex@hotmail.ch ausgeschlossen, auf Anweisung Alex).
+
+**Ergebnis (Stand SendGrid-Export mit 8 Treffern, vermutlich mit ~30-Tage-Datumsfilter):**
+- 21.09.2026, 18:40 — lara.soto@outlook.com — Umzugsreinigung
+- 13.09.2026, 19:46 — radkaoetterli@gmail.com — Haus- & Wohnungsreinigung
+- 13.09.2026, 19:44 — radkaoetterli@gmail.com — Haus- & Wohnungsreinigung (2 Min. vor obigem, vermutlich Doppeleinsendung derselben Anfrage)
+
+→ 3 Einsendungen von 2 Personen, beide innerhalb der Dust-Busters-Laufzeit (10.09.–03.10.2026), keine über die Kampagnen-Landingpage.
+
+**Offene Unstimmigkeit:** Ein früherer Screenshot zeigte zusätzlich einen Eintrag vom 10.09.2026, 11:12 Uhr (dominik.probst@arcor.de, Umzugsreinigung), der im aktuellen 8-Treffer-Export fehlt — vermutlich durch einen Datumsfilter in der SendGrid-Ansicht herausgefallen. Mit SendGrid-Export ohne Datumsfilter erneut prüfen; falls bestätigt, wären es 4 Einsendungen von 3 Personen.
+
+**Zweck:** Keine Kampagnen-Conversion-Zuordnung — dient als Gesprächsgrundlage mit Jorge, ob diese Anfragen (Thema teils deckungsgleich mit der Kampagne, Timing exakt im Kampagnenfenster) auf Dust Busters zurückgehen könnten.
