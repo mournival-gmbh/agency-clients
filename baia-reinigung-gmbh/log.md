@@ -65,3 +65,7 @@ Struktur auf 3 Seiten aufgeteilt: Startseite (Onepager), Unternehmensreinigung (
 **Aktion:** Vollständiges technisches Kampagnenkonzept erstellt (Captions, CTA, Newsletter, Zielgruppe, Budget, Laufzeit, LinkedIn-Postings)
 **Kampagne:** Dust Busters – Die Endreinigung kann kommen
 **Start:** Anfang September 2026, Peak Ende Oktober 2026
+## 13.10.2026 — Input-Session für Baia-Reporting (Branding-Rückblick & nächste Kampagne)
+**Von:** DungeonMasterAlex
+**Aktion:** Kontext fürs anstehende Reporting-Gespräch mit Jorge erfasst: Rückblick auf Branding-Refresh 2026 (Wording/Slogan, Blau + Patterns + Tic-Tac-Toe, Website-Relaunch, Fahrzeugbeschriftung, Visitenkarten, Factsheet, E-Mail-Signatur) sowie Scope für die nächste Kampagne (Herbst/Winter 2026/27: Gesundheits-/Mikroflora-Botschaft, Büroreinigungsabo-Fokus, Personal-Branding-Restart, Humor mit Bakterien/Viren, Dust-Busters-Song-Reuse, breitere Ausspielung über LinkedIn/Personal Branding/WhatsApp/Newsletter; Frühling 2027: Reaktivierung Dust-Busters-Umzugskampagne). In `brain.md` unter «Marketing-Historie 2026» und «Nächste Kampagne» ergänzt.
+**Offen fürs Reporting-Gespräch mit Jorge:** Website-Traffic seit Relaunch, Sichtbarkeits-Wirkung während der Ads-Laufzeit, Anzahl ausgefüllter Kontaktformulare, Jorges Qualitäts-Feedback zu den Leads, Wirkung der WhatsApp-Stories-Präsenz.
